@@ -1,0 +1,199 @@
+Let's Logic Collection ID: 304
+Title: Red mini
+Author: Marti Homs Caussa
+Description: Date of Last Change: 2011/09/11  02:54:22  Set:       Marti Homs Caussa - Red mini Email:      Homepage:    Number of levels: 17   
+
+########
+#@-#-.-#
+#-**.--#
+#-$-.*-#
+##$$--##
+_#----#_
+_######_
+ID: 22376
+Title: Level 1
+Author: Marti Homs Caussa
+
+####____
+#--####_
+#@*---##
+#-$.*$.#
+#----#-#
+##$-##-#
+_#----.#
+_#######
+ID: 22377
+Title: Level 2
+Author: Marti Homs Caussa
+
+__######
+###----#
+#@$-##-#
+#--$.*-#
+#-#$-.##
+#.$.-##_
+#----#__
+######__
+ID: 22378
+Title: Level 3
+Author: Marti Homs Caussa
+
+_######
+_#@---#
+##.$--#
+#-.**##
+#--.--#
+##-$$-#
+_###--#
+___####
+ID: 22379
+Title: Level 4
+Author: Marti Homs Caussa
+
+___#####_
+####..-#_
+#@-$--$##
+#---#---#
+#####---#
+____#####
+ID: 22380
+Title: Level 5
+Author: Marti Homs Caussa
+
+#####__
+#@--###
+#-**--#
+#-*-.-#
+#-$$--#
+###-.-#
+__#####
+ID: 22381
+Title: Level 6
+Author: Marti Homs Caussa
+
+#####___
+#@--####
+#-$*.-.#
+#-$---##
+#-**#-#_
+###---#_
+__#####_
+ID: 22382
+Title: Level 7
+Author: Marti Homs Caussa
+
+######_
+#.---#_
+#-#*$##
+#-*-*-#
+#-*-@-#
+#-#---#
+#---###
+#####__
+ID: 22383
+Title: Level 8
+Author: Marti Homs Caussa
+
+#####___
+#@--####
+#--*$--#
+#-*..--#
+##$*-###
+#----#__
+#---##__
+#####___
+ID: 22384
+Title: Level 9
+Author: Marti Homs Caussa
+
+#######
+#@----#
+#--*$-#
+#-*.$-#
+##$.-##
+_#.--#_
+_#####_
+ID: 22385
+Title: Level 10
+Author: Marti Homs Caussa
+
+######_
+#@---#_
+#-$*$##
+#-*-*-#
+##.-.-#
+_#----#
+_######
+ID: 22386
+Title: Level 11
+Author: Marti Homs Caussa
+
+######_
+#@---##
+#-*-*-#
+#-.$.-#
+#-$*--#
+###---#
+__#####
+ID: 22387
+Title: Level 12
+Author: Marti Homs Caussa
+
+__######_
+###--.-##
+#@$*-#--#
+#.-$----#
+#.$*-#-##
+##----##_
+_######__
+ID: 22388
+Title: Level 13
+Author: Marti Homs Caussa
+
+_#######_
+_#----@#_
+##-*---#_
+#---*$##_
+#.-$#-###
+#.#-----#
+###-----#
+__#--#--#
+__#######
+ID: 22389
+Title: Level 14
+Author: Marti Homs Caussa
+
+____####
+_####--#
+_#-$-$-#
+##.#$@-#
+#-..-#-#
+#--.-$-#
+###--###
+__####__
+ID: 22390
+Title: Level 15
+Author: Marti Homs Caussa
+
+__####__
+###--#__
+#-@.$##_
+#-$-.-##
+#-*.*$-#
+#--$-.-#
+#--#####
+####____
+ID: 22391
+Title: Level 16
+Author: Marti Homs Caussa
+
+___####_
+####--##
+#-$-.*-#
+#@$*---#
+#-$-#.-#
+###---.#
+__######
+ID: 22392
+Title: Level 17
+Author: Marti Homs Caussa

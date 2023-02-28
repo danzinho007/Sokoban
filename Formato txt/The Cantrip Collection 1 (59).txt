@@ -1,0 +1,261 @@
+Let's Logic Collection ID: 59
+Title: The Cantrip Collection 1
+Author: David Holland
+Description: The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+___#####__
+_###---###
+_#-$-#-*-#
+##-$*.*--#
+#--*---.-#
+#@--###--#
+#####_####
+ID: 3937
+Title: Level 1
+Author: David Holland
+
+_####_____
+_#--######
+_#---$@$-#
+_#-**##.-#
+##$.$--.-#
+#--.#-.*##
+#----$--#_
+######--#_
+_____####_
+ID: 3938
+Title: Level 2
+Author: David Holland
+
+##########
+#@-*.##--#
+#-$---$--#
+###*..#--#
+__#--$--##
+__#-.#.-#_
+__#-$-$-#_
+__####--#_
+_____####_
+ID: 3939
+Title: Level 3
+Author: David Holland
+
+#####____
+#---#####
+#-#-$-$-#
+#-$$.-*@#
+#-#--**-#
+#-###-*##
+#--#-.*-#
+##--.-.-#
+_##-----#
+__#######
+ID: 3940
+Title: Level 4
+Author: David Holland
+
+_____####_
+_#####--#_
+##-$--$-#_
+#@$.#.*-##
+#-$.$-.--#
+##$.*#.--#
+_#------##
+_#--######
+_####_____
+ID: 3941
+Title: Level 5
+Author: David Holland
+
+__####_____
+###--#####_
+#--.$--.-##
+#-$*@#$*--#
+##-.$*-.--#
+_###-#--###
+___#---##__
+___#####___
+ID: 3942
+Title: Level 6
+Author: David Holland
+
+##########
+#---#----#
+#-#$.-.#-#
+#@#.-*-#-#
+#-#-*-.#-#
+#-#*$*$#-#
+#-$------#
+####--####
+___####___
+ID: 3943
+Title: Level 7
+Author: David Holland
+
+_#####____
+##---#####
+#--#-$@$-#
+#-#..#*--#
+#--.---.-#
+##-$.#.*-#
+_#-$-$$#-#
+_#####---#
+_____#####
+ID: 3944
+Title: Level 8
+Author: David Holland
+
+_#######_
+##--#--##
+#-----$-#
+#-**-**@#
+#-*-#-*-#
+##--.--##
+_#--.$##_
+_##---#__
+__#####__
+ID: 3945
+Title: Level 9
+Author: David Holland
+
+__########_
+__#---#--#_
+_##$#---.##
+##-.*-#---#
+#--.*-*$#-#
+#---.-#@$-#
+#--#-##$###
+####----#__
+___######__
+ID: 3946
+Title: Level 10
+Author: David Holland
+
+____#####
+__###---#
+###..$.-#
+#-$-$.$##
+#-#$.-*-#
+#--.-*$-#
+##---#-@#
+_########
+ID: 3947
+Title: Level 11
+Author: David Holland
+
+#####_____
+#---####__
+#-#$---###
+#-#.*$*--#
+#-#-.*-#-#
+#--.-$.#@#
+###--$-#-#
+__####---#
+_____#####
+ID: 3948
+Title: Level 12
+Author: David Holland
+
+__#####__
+###---###
+#-$-#$--#
+#-....*-#
+#--*.-$-#
+##-#-#-##
+_#-$$*-#_
+_##-@-##_
+__#####__
+ID: 3949
+Title: Level 13
+Author: David Holland
+
+_####____
+##--####_
+#-$--$-#_
+#-$...-##
+#@*$$$*-#
+##-...--#
+_##---###
+__#####__
+ID: 3950
+Title: Level 14
+Author: David Holland
+
+__####____
+###--#____
+#@$-.#####
+#-*$-$-$-#
+##-*-*-.-#
+_#-.-.-###
+_#-.-###__
+_##-$#____
+__#--#____
+__####____
+ID: 3951
+Title: Level 15
+Author: David Holland
+
+______#####
+_######---#
+_#---#-$--#
+##--$..#$-#
+#--#**.---#
+#@#-*.*#--#
+#---##---##
+###-$--###_
+__###--#___
+____####___
+ID: 3952
+Title: Level 16
+Author: David Holland
+
+####___####
+#--#####--#
+#----$@$--#
+#-*.$#*.*-#
+##-.-#-.-##
+_#-.-#$.-#_
+_##-$$--##_
+__#--#--#__
+__#######__
+ID: 3953
+Title: Level 17
+Author: David Holland
+
+____####__
+#####--##_
+#---$-$-##
+#---#.$.-#
+##--**.#@#
+_#---.-$-#
+_#####--##
+_____####_
+ID: 3954
+Title: Level 18
+Author: David Holland
+
+___#####_
+_###---#_
+##-.$.$#_
+#--.**-##
+#-*-.-*-#
+##---$$-#
+_#--##-@#
+_########
+ID: 3955
+Title: Level 19
+Author: David Holland
+
+_#####______
+_#---#####__
+_#-----$@#__
+_##-##.#*###
+###-#-$--$-#
+#-$-.$.-.#-#
+#---$-##$#-#
+###.#.--.--#
+__#---######
+__#####_____
+ID: 3956
+Title: Level 20
+Author: David Holland

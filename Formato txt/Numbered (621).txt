@@ -1,0 +1,288 @@
+Let's Logic Collection ID: 621
+Title: Numbered
+Author: Erim Sever
+Description: The levels in this set were collected, documented and published by Sokoplaza members. Pack author: Erim Sever. Pack supervisor: Findus.
+
+Published on Let's logic by Mark, with the permission of author and at the wish of Findus. At the request of author and supervisor, this collection must not be uploaded to Bjorn Kallmark's site, and must not be a part of any shareware Sokoban program.
+
+The collection has no duplicates according to other collections, already on Let's logic site.
+
+It is Not allowed to make this collection a part of any payable Sokoban program, such as Bjorn Kallmark's sokoban etc. You can make it a part of any freeware programs though.
+
+
+
+
+______####
+____###..#
+____#--..#
+____#-$..#
+######--##
+#@-----###
+##-$-$-$-#
+_#-$$#-#-#
+_#---#---#
+_#########
+ID: 85302
+Title: Erim nr 1
+Author: Erim Sever from Turkey
+
+######___
+#....####
+#@-$$$--#
+##--$---#
+_####-#-#
+____#---#
+____#####
+ID: 85303
+Title: Erim nr 2
+Author: Erim Sever from Turkey
+
+######
+#..@.#
+#--$-#
+##$###
+#--$-#
+#----#
+#----#
+######
+ID: 85304
+Title: Erim nr 6
+Author: Erim Sever from Turkey
+
+__#####__
+###---###
+#-$-#-*.#
+#-$-#-*.#
+#-$-#-*.#
+#-$-@-*.#
+#---#---#
+#########
+ID: 85305
+Title: Erim nr 7
+Author: Erim Sever from Turkey
+
+#########
+#---#.--#
+#-$-$*..#
+##$-@-$##
+#..*$-$-#
+#--.#---#
+#########
+ID: 85306
+Title: Erim nr 8
+Author: Erim Sever from Turkey
+
+_#######
+_#-----#
+##-.$*-#
+#--*@*-#
+#--*$.-#
+##-----#
+_#######
+ID: 85307
+Title: Erim nr 9
+Author: Erim Sever from Turkey
+
+_#######
+##@----#
+#-**-*-#
+#-*--$-#
+#-**-*##
+#-.--*#_
+#-*--*#_
+#-**-*#_
+#---###_
+#####___
+ID: 85308
+Title: Erim nr 12
+Author: Erim Sever from Turkey
+
+__________###__
+#####_____#.#__
+#---#######.##_
+#---------$@.#_
+##-########$##_
+_#-#------#-#__
+_#-#------#-#__
+_#-#------#-#__
+_#-#------#-#__
+##-#------#-###
+#-$########---#
+#-------------#
+###########---#
+__________#####
+ID: 85309
+Title: Erim nr 15
+Author: Erim Sever from Turkey
+
+______####
+_######.-#
+##--@#...#
+#--$-#.*.#
+#-$####.*#
+#-----#--#
+#-$#$##$-#
+#--$-##--#
+###-----$#
+__####---#
+_____#--##
+_____####_
+ID: 85310
+Title: Erim nr 20
+Author: Erim Sever from Turkey
+
+____#####____
+____#---#____
+____#---#____
+____#--##____
+######--#####
+#--#--*$#---#
+#----*+*----#
+#---#-*--#--#
+#####--######
+____##--#____
+____#---#____
+____#---#____
+____#####____
+ID: 85311
+Title: Erim nr 21
+Author: Erim Sever from Turkey
+
+____#####____
+____#---#____
+____#---#____
+____#--##____
+######--#####
+#--#--*$#---#
+#----*+*----#
+#---#**--#--#
+#####--######
+____##--#____
+____#---#____
+____#---#____
+____#####____
+ID: 85312
+Title: Erim nr 22
+Author: Erim Sever from Turkey
+
+######_
+#----#_
+#@---#_
+##-.-#_
+_#-#-#_
+_#-$-##
+_#-#--#
+_#**--#
+_#---##
+_#####_
+ID: 85313
+Title: Erim nr 25
+Author: Erim Sever from Turkey
+
+###______
+#@#######
+#...----#
+#...$$$-#
+#..---$-#
+#--$$$$-#
+###-----#
+__#######
+ID: 85314
+Title: Erim nr 26
+Author: Erim Sever from Turkey
+
+_####___
+_#--####
+_#-----#
+_#--#--#
+###$#-##
+#---$$#_
+#---$-##
+#####--#
+_####--#
+_#....@#
+_#######
+ID: 85315
+Title: Erim nr 27
+Author: Erim Sever from Turkey
+
+######
+#---.#
+#---*#
+##$$.#
+_#--@#
+_#####
+ID: 85316
+Title: Erim nr 30 for kids
+Author: Erim Sever from Turkey
+
+#####__
+#---###
+#-.---#
+##$.$-#
+_#--###
+_#-@#__
+_####__
+ID: 85317
+Title: Erim nr 31 for kids
+Author: Erim Sever from Turkey
+
+######
+#-.$-#
+#-*--#
+#-*--#
+#-@###
+####__
+ID: 85318
+Title: Erim nr 32
+Author: Erim Sever from Turkey
+
+####____
+#--####_
+#-$.*.##
+#--$.*-#
+##--$--#
+_##--@##
+__#####_
+ID: 85319
+Title: Erim nr 33
+Author: Erim Sever from Turkey
+
+#######
+#-----#
+#--$$-#
+#-$$-@#
+#--#.##
+####.#_
+___#.#_
+___#.#_
+___###_
+ID: 85320
+Title: Erim nr 34 for kids
+Author: Erim Sever from Turkey
+
+__####__
+###--#__
+#----#__
+#--#-###
+##-#---#
+_#-#--.#
+_#-.--##
+_#-##--#
+_#$$-#-#
+_#----@#
+_#######
+ID: 85321
+Title: Erim nr 35
+Author: Erim Sever from Turkey
+
+#######_#######
+#-----###-----#
+#-$$-$-#-.-..-#
+###-$-$@.-.-###
+__#---###---#__
+__#---#_#---#__
+__#####_#####__
+ID: 85322
+Title: Erim nr 36 for kids
+Author: Erim Sever from Turkey

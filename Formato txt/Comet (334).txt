@@ -1,0 +1,380 @@
+Let's Logic Collection ID: 334
+Title: Comet
+Author: Evgeny Grigoriev
+Description: Date of Last Change:   Set:       GRIGoRusha Comet Email:     grigr@yandex.ru Homepage:  http://grigr.narod.ru/   This Sokoban level set is published here with the author's permission.  The level set is distributed in a text format, that can be imported by most of the major Sokoban programs.  For Microsoft Windows Â® we recommend using ;;amp;;quot;Sokoban YASC", which can be downloaded from: http://sourceforge.net/projects/sokobanyasc/  Enjoy!  SOKOBAN Project         at http://sokobano.de/ Sokoban WIKI            at http://sokobano.de/wiki/   
+
+########
+#--#---#
+#--.**-#
+#---*--#
+##-***-#
+_#--*--#
+_###$-##
+___#@-#_
+___####_
+ID: 24596
+Title: Comet tail
+Author: Evgeny Grigoriev
+
+_####____
+_#--#####
+_#$-$-.-#
+##-*-*-@#
+#-.-*-*##
+#--*---#_
+#####--#_
+____####_
+ID: 24597
+Title: Star shower
+Author: Evgeny Grigoriev
+
+__#######
+###-.$--#
+#@$$..--#
+#-$..#--#
+#-$$.$-##
+#-$..--#_
+########_
+ID: 24598
+Title: Northern lights
+Author: Evgeny Grigoriev
+
+__#####_
+__#---#_
+###$--##
+#-$.$--#
+#@.$.#-#
+#.#.$.-#
+#-$-#-##
+###---#_
+__#####_
+ID: 24599
+Title: Space rocket
+Author: Evgeny Grigoriev
+
+___####___
+__##@-###_
+__#-*-.-##
+###-*-*$-#
+#---**.--#
+#----$#-##
+#####---#_
+____#####_
+ID: 24600
+Title: To dock
+Author: Evgeny Grigoriev
+
+___#####_
+_###---##
+_#-.*.--#
+##-$+$--#
+#--***-##
+#-$-.-$-#
+#####---#
+____#####
+ID: 24601
+Title: Artificial satellite
+Author: Evgeny Grigoriev
+
+__#####__
+###---##_
+#@-*#--##
+#.*-*---#
+#--*-*--#
+###-*-$-#
+__#--####
+__####___
+ID: 24602
+Title: The lost element
+Author: Evgeny Grigoriev
+
+_######___
+_#--+-####
+##--#----#
+#-**-***-#
+#---$---##
+####--###_
+___#--#___
+___####___
+ID: 24603
+Title: Sunrise
+Author: Evgeny Grigoriev
+
+_#####__
+_#---#__
+##-#-###
+#--$---#
+#-***-.#
+##-*---#
+_#-*-###
+_#-@##__
+_####___
+ID: 24604
+Title: Flame Cross
+Author: Evgeny Grigoriev
+
+___####_
+####--#_
+#--*+$##
+#--**--#
+##-*-*-#
+_#---###
+_#---#__
+_#--##__
+_####___
+ID: 24605
+Title: Kosmos
+Author: Evgeny Grigoriev
+
+___#####_
+####---#_
+#--@-*$#_
+#--*-*-##
+##-***--#
+_#-.*---#
+_###---##
+___#####_
+ID: 24606
+Title: Antenna
+Author: Evgeny Grigoriev
+
+_######_
+_#-@--##
+_#$***-#
+##-*---#
+#--*--##
+#-#*--#_
+#--.-*#_
+###---#_
+__#####_
+ID: 24607
+Title: Landing
+Author: Evgeny Grigoriev
+
+_#####__
+_#-.-###
+##$.$$-#
+#-.+.#-#
+#-$.$--#
+#-$.$--#
+###--###
+__####__
+ID: 24608
+Title: Jesus Cross
+Author: Evgeny Grigoriev
+
+_####____
+##--###__
+#--*$-###
+#--*@*--#
+#--***.-#
+#--*----#
+##-*--###
+_######__
+ID: 24609
+Title: Peace
+Author: Evgeny Grigoriev
+
+__####__
+__#--###
+###-.--#
+#---*--#
+#-$@**##
+###-*--#
+__#-*--#
+__#-*--#
+__######
+ID: 24610
+Title: Fakel
+Author: Evgeny Grigoriev
+
+__####___
+__#--#___
+_##--####
+_#-**---#
+##--*@#-#
+#---***-#
+#-----###
+#######__
+ID: 24611
+Title: Train
+Author: Evgeny Grigoriev
+
+__#####__
+__#-@-#__
+__#-#-#__
+###$.-###
+#--$.$--#
+#-.$-$.-#
+###-.$###
+__#-.-#__
+__#####__
+ID: 24612
+Title: Parallel World
+Author: Evgeny Grigoriev
+
+__####__
+__#--##_
+_##-*-#_
+_#--*-##
+##-#@--#
+#-***-.#
+#---$-##
+###---#_
+__#####_
+ID: 24613
+Title: Broken angle
+Author: Evgeny Grigoriev
+
+####___
+#--####
+#--$--#
+#.$+$.#
+#-.$.-#
+#-$.$-#
+#-$.-##
+######_
+ID: 24614
+Title: The Palm
+Author: Evgeny Grigoriev
+
+____####__
+____#--#__
+#####--###
+#---*$---#
+#---*.-*-#
+#@***--###
+###--###__
+__#--#____
+__####____
+ID: 24615
+Title: FemtoCosmos
+Author: Evgeny Grigoriev
+
+__####___
+_##--####
+_#-*-#--#
+##-.*-*-#
+#--*.*-@#
+#---$-$##
+####---#_
+___#####_
+ID: 24616
+Title: Scruple
+Author: Evgeny Grigoriev
+
+__####__
+###--#__
+#----##_
+#-*-*-#_
+#-.*--##
+#**#*$@#
+#------#
+#--#####
+####____
+ID: 24617
+Title: Firework
+Author: Evgeny Grigoriev
+
+__####__
+###--#__
+#--*-###
+#-$*$--#
+#.-*-.-#
+#--#-###
+##-#-#__
+_#-@-#__
+_#####__
+ID: 24618
+Title: Cros life
+Author: Evgeny Grigoriev
+
+__####___
+__#--##__
+__#---###
+__#--*@-#
+###-**$-#
+#--**--##
+#--*--##_
+###-.-#__
+__#####__
+ID: 24619
+Title: Non Alter
+Author: Evgeny Grigoriev
+
+####_____
+#--######
+#---#-.-#
+#-$$-$$@#
+##.....##
+_#-$-$-#_
+_#--####_
+_####____
+ID: 24620
+Title: Formatur Una
+Author: Evgeny Grigoriev
+
+######___
+#.-.-####
+#$.#.$--#
+#.$.$.$-#
+#@.$.$--#
+#-$---$-#
+#####--##
+____####_
+ID: 24621
+Title: Zvezdopad
+Author: Evgeny Grigoriev
+
+__#####__
+__#-+-#__
+###-*-#__
+#---*-#__
+#--$*$###
+###-.---#
+__#$.$.-#
+__#---###
+__#####__
+ID: 24622
+Title: The Candle
+Author: Evgeny Grigoriev
+
+__#######__
+__#...$-#__
+###...$-###
+#--..#----#
+#--$-$$$--#
+#####$@$###
+____#---#__
+____#####__
+ID: 24623
+Title: Encirclement
+Author: Evgeny Grigoriev
+
+___####__
+___#--#__
+####$-###
+#--$-$--#
+#@$...#-#
+##-#.$--#
+_#-*.*--#
+_#--#####
+_#--#____
+_####____
+ID: 24624
+Title: My House
+Author: Evgeny Grigoriev
+
+_####____
+_#--#____
+_#--#####
+_#--$-$-#
+_#$.*.@-#
+##-.*.$-#
+#--#$#-##
+#--.$.-#_
+#--#####_
+####_____
+ID: 24625
+Title: Big Boss
+Author: Evgeny Grigoriev

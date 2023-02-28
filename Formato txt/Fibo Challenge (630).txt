@@ -1,0 +1,44 @@
+Let's Logic Collection ID: 630
+Title: Fibo Challenge
+Author: Dries de Clercq and Minglw and Mark
+Description: Non-conventional challenge soko level. The level can be made as a part of any Sokoban program, as long as the Authors are credited. Note, your program must be capable of storing solutions with lots of moves and pushes.
+
+It is Not allowed to make this collection a part of any payable Sokoban program, such as Bjorn Kallmark's sokoban etc. You can make it a part of any freeware programs though.
+
+
+
+_____######_
+_____#----#_
+_____#-####_
+_#####-#--##
+_#-.@#--*--#
+_#$.$#--*--#
+_#-*-#--*-##
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+_#-*-##-*-#_
+##-*--#-*-#_
+#--*--#$.$#_
+#--*--#-.-#_
+##--#---###_
+_########___
+ID: 88456
+Title: Fibo Challenge reedited
+Author: Aymeric du Peloux + Dries de Clercq + Minglw + Mark

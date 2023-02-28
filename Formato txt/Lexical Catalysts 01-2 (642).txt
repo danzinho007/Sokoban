@@ -1,0 +1,19 @@
+Let's Logic Collection ID: 642
+Title: Lexical Catalysts 01-2
+Author: Razorflame
+Description: A continuation of a collection of levels that are made up of words or names of people in many different languages.
+
+All levels are made with the difficulty and design of the levels in mind.
+
+#######################
+#---------------------#
+#-***-*-*-**--***-*-*-#
+#-*-*-*-*---*--*--*-*-#
+#-*-*-*-*-*-*#-*#-*-*-#
+#-*-*-*-*-**---*--*-*-#
+#-$-*-***-*-*-***-**.-#
+#---#--#----#--#----#@#
+#######################
+ID: 90122
+Title: Auriu
+Author: Razorflame

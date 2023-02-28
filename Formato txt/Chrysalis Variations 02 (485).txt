@@ -1,0 +1,467 @@
+Let's Logic Collection ID: 485
+Title: Chrysalis Variations 02
+Author: Jordi Doménech
+Description: Chrysalis variations 2;;amp;;#x0A;\r\nAuthors: David Buchweitz and Jordi Domenech\r\nEmail: jd_sokoban@abelmartin.com\r\nWebsite:\r\n- David Buchweitz:\r\nhttp://www.letslogic.com\r\n- Jordi Domenech:\r\nhttp://www.abelmartin.com/rj/sokoban.html\r\nDate: August 2013\r\n\r\nAuthor\'s note:\r\nDavid Buchweitz has a great ability to create very imaginative structures.\r\nAs the structure is the most important thing a puzzle, it is sometimes\r\npossible to obtain very good and amazing puzzles. These \"variations\" are\r\nmodifications of some of his puzzles.\r\n\r\nFor years, David Buchweitz keeps animated his website \"Let\'s Logic\"\r\n(www.letslogic.com), in which he posted his puzzles in the \"Member Puzzles\"\r\nsection. - J.D.\r\n\r\nThese levels are copyright (c) by David Buchweitz and Jordi Domenech and may\r\nbe freely distributed for non-commercial use provided they remain unchanged,\r\ncredited with the author\'s name, and provided the author is notified.
+
+__#######__
+__#-----#__
+###-#-#-###
+#-$-$$$@--#
+#--##.-#$-#
+#-$##..#--#
+#--..-.#$-#
+#--#...#--#
+####-###$##
+___#--$---#
+___####---#
+______#####
+ID: 43930
+Title: Chrysalis Collection 5 #1 Leaking Bucket (a)
+Author: David Buchweitz + Jordi Domenech
+
+__#####____
+__#-@-#____
+###-#-#####
+#-$-$$----#
+#--#--.#$-#
+#-$##*.#--#
+#---.-.#$-#
+#--#...#--#
+####.###$##
+___#--$---#
+___####---#
+______#####
+ID: 43931
+Title: Chrysalis Collection 5 #1 Leaking Bucket (b)
+Author: David Buchweitz + Jordi Domenech
+
+_####_______
+##--#######_
+#---------#_
+#-#-#####-#_
+#-#..-$-#-##
+#--.#-#----#
+##-....-#$-#
+#--##$###--#
+#-$$-@--$$-#
+#--######--#
+####____####
+ID: 43932
+Title: Chrysalis Collection 5 #3 Recliner
+Author: David Buchweitz + Jordi Domenech
+
+###########
+#---#--#--#
+#-$@*..*$-#
+#---#--#--#
+#####.$#-##
+#---#.-#-#_
+#-$-$-$--#_
+#-#-#--#-#_
+#-$-#.##.#_
+###--.---#_
+__########_
+ID: 43933
+Title: Chrysalis Collection 5 #5 Bad Idea
+Author: David Buchweitz + Jordi Domenech
+
+#####_#####
+#---###---#
+#-$-#-$-#-#
+###-$-#.$-#
+_#--...--##
+_#$#.#.#$#_
+##--...--#_
+#-$.#-$-###
+#-#-$-#-$-#
+#---###-@-#
+#####_#####
+ID: 43934
+Title: Chrysalis Collection 5 #9 A Little Something Else
+Author: David Buchweitz + Jordi Domenech
+
+#####______
+#---#######
+#-$.$.$.$-#
+###---.-.-#
+#-$.$.$.$##
+#-.$-$#@.#_
+#-$.$.$.$##
+###---.-.-#
+#-$.$.$.$-#
+#---#######
+#####______
+ID: 43935
+Title: Chrysalis Collection 5 #13 Not so sweet sixteen
+Author: David Buchweitz + Jordi Domenech
+
+____######___
+#####----#___
+#-$-$@$#-####
+#-#-##-$----#
+#-#.$...#-#-#
+#--.--..#$#-#
+###.##--#-#-#
+#--.#####---#
+#-#-#-$-$$#-#
+#-----#-----#
+#############
+ID: 43936
+Title: Chrysalis Collection 5 #16 On your marks (a)
+Author: David Buchweitz + Jordi Domenech
+
+____####_____
+#####--#_____
+#-$-$@$######
+#-#-##------#
+#-#.$-..#-#-#
+#--..-..-$#-#
+###.#---#-#-#
+#---#####---#
+#-#-#-$-$$#-#
+#-----#-----#
+#############
+ID: 43937
+Title: Chrysalis Collection 5 #16 On your marks (b)
+Author: David Buchweitz + Jordi Domenech
+
+#####_#####
+#...###---#
+#.$.----$-#
+#.*.#-#-$-#
+#-$-#-#-$-#
+#-$-#-#-$-#
+###-#-##$-#
+#-$-#-#.**#
+#-$-#$#.-.#
+#@---$-.*.#
+###########
+ID: 43938
+Title: Chrysalis Collection 5 #19 9x2
+Author: David Buchweitz + Jordi Domenech
+
+____######_
+#####.---#_
+#--$--.$-#_
+#-$#$*$#$#_
+#-.$...$-##
+#.-*.@.*-.#
+##-$...$.-#
+_#$#$*$#$-#
+_#-$.--$--#
+_#---.#####
+_######____
+ID: 43939
+Title: Chrysalis Collection 5 #20 Quadcross
+Author: David Buchweitz + Jordi Domenech
+
+___##########
+_###--------#
+_#---######-#
+_#-#.#---.#-#
+_#-.....*-#-#
+_###*#*#$##-#
+_#-*-----##-#
+##.#-#$#-#--#
+#-*.--$-$$--#
+#-*#-#$#-#--#
+#-$-@-$----##
+#---#-$#####_
+#####--#_____
+____####_____
+ID: 43940
+Title: Chrysalis Collection 5 #22 Albatross
+Author: David Buchweitz + Jordi Domenech
+
+____#####__________
+____#---####_______
+____#-#-#--#_______
+____#-$-#-$#_______
+____##--#--#__####_
+_____#$-#-$#__#--#_
+####-#--#--#__#-$#_
+#--###$---$#__#--#_
+#---...#---####-$#_
+#-#-#@#--#$------#_
+#.#$$$#-----#$$-$#_
+#.........#---#--#_
+##-###.#########$#_
+_#--.*..-#---#---#_
+_###-#.#---#---#$#_
+___#-$-#########-##
+___#-#*-----------#
+___#---########---#
+___#####______#####
+ID: 43941
+Title: Chrysalis Collection 5 #23 Toy Pom
+Author: David Buchweitz + Jordi Domenech
+
+####_________####
+#--###########--#
+#$---$-$-$-$--$-#
+#--#$-$-$-$--#--#
+#-$#--------##$-#
+#...#########...#
+#.$.#-------#.$.#
+#...$-$-@-#--...#
+#################
+ID: 43942
+Title: Chrysalis Collection 5 #24 Another Sunday Silly
+Author: David Buchweitz + Jordi Domenech
+
+___#####_________
+___#---##########
+####-#----------#
+#--....-##$$$$#-#
+#-#------#@---#-#
+#-#....###$$$$#-#
+#-#-----------#-#
+#-#############-#
+#---------------#
+#################
+ID: 43943
+Title: Chrysalis Collection 5 #27 Spring Loaded
+Author: David Buchweitz + Jordi Domenech
+
+______#####
+#######--@#
+#-*-*-*-$-#
+#--*-*-*--#
+#-*-*-*-*-#
+#--*-*-*--#
+#-*-*-*-*-#
+#--*-*-*--#
+#-.-*-*-*-#
+#---#######
+#####______
+ID: 43944
+Title: Chrysalis Collection 5 #29 Pain in the ass
+Author: David Buchweitz + Jordi Domenech
+
+##########_
+#-----#--##
+#-$-$-$---#
+##$##-#-#-#
+##-#....*-#
+#--#--.#-##
+#-$#-#-@-#_
+#----#####_
+######_____
+ID: 43945
+Title: Chrysalis Collection 5 #30 1st creation for 2013
+Author: David Buchweitz + Jordi Domenech
+
+###############
+#-$.-.-.-.-.--#
+#-#-$-$-$-$-@-#
+#-##########-##
+#------------#_
+##############_
+ID: 43946
+Title: Chrysalis Collection 5 #38 Bang Bang! (a)
+Author: David Buchweitz + Jordi Domenech
+
+_#####_________
+##---#########_
+#-$...-.-.-.-#_
+#-#-$-$-$-$$-#_
+#-#########-###
+#-----------@-#
+###########-#-#
+__________#---#
+__________#####
+ID: 43947
+Title: Chrysalis Collection 5 #38 Bang Bang! (b)
+Author: David Buchweitz + Jordi Domenech
+
+#####_#####
+#---###.-.#
+#--$--.$--#
+#-$##.$-$.#
+##-#.$-$.##
+_#-.$*$.-#_
+##.$-$.#-##
+#.$-$.##$-#
+#--$.--$@-#
+#.-.###--##
+#####_####_
+ID: 43948
+Title: Chrysalis Collection 5 #40 Is it a bird...?
+Author: David Buchweitz + Jordi Domenech
+
+____####___________
+___##--##########__
+___#--.---------#__
+___#-#.##-#####-#__
+####$#.-#-$---#-#__
+#----.-.$$#$#---#__
+#-#####-#-#---#-#__
+#-#---#-#-#####-#__
+#-#-#-.---$---#-#__
+#-#-$.#.#$#$#---#__
+#-###-#-#-#---###__
+#---#-#-@-#####____
+###-$-.-#-$---###__
+__###.#.#$#$#---#__
+____#-#---#---#-###
+____#-###-#####---#
+__###-.-#-$---#-#-#
+__#--...#$#$#---#-#
+__#-##.---#---###-#
+__#--##########---#
+__##------------###
+___##############__
+ID: 43949
+Title: Chrysalis Collection 6 #3
+Author: David Buchweitz + Jordi Domenech
+
+#####_______
+#---########
+#-#$$------#
+#.-.-.-.-..#
+#-#######.##
+#-$-$-$-$$#_
+###@------#_
+__#########_
+ID: 43950
+Title: Chrysalis Collection 6 #7
+Author: David Buchweitz + Jordi Domenech
+
+_##########__
+_#--------###
+_#-******@.-#
+_#-*------#-#
+###******-#-#
+#-------*-#-#
+#--******-#-#
+#---------#-#
+###$#######-#
+__#---------#
+__###########
+ID: 43951
+Title: Chrysalis Collection 6 #12
+Author: David Buchweitz + Jordi Domenech
+
+_#######___
+_#-----####
+_#-###$*.-#
+_#----*.#-#
+###-###.--#
+#-$-$-#.###
+#-----#.$-#
+##$-$##.#-#
+_#--$-#.$-#
+_##---@.--#
+__######--#
+_______####
+ID: 43952
+Title: Chrysalis Collection 6 #19
+Author: David Buchweitz + Jordi Domenech
+
+______####________
+____###--#####____
+____#--------###__
+___##$##.-##$--#__
+_###.--##.$-.#-##_
+_#-$-$-#.-#--.$-#_
+##.#---$$.$.--#-#_
+#--###$#--#$#$#-#_
+#--.#-$-*.-.-.--##
+##--.-.-.*-$-#.--#
+_#-#$#$#--#$###--#
+_#-#--.$.$$---#.##
+_#-$.--#-.#-$-$-#_
+_##-#.-$.##--.###_
+__#--$##-.##$##___
+__###--------#____
+____#####@-###____
+________####______
+ID: 43953
+Title: Chrysalis Collection 6 #37
+Author: David Buchweitz + Jordi Domenech
+
+###########
+#---------#
+#-#######-#
+#-#---#---#
+#-#---$-$-#
+#-#$#$##-##
+#......#-#_
+#-#$#$.$-#_
+#-#--@.#-#_
+#-#-$#.$-#_
+#-#---.###_
+#-####.-#__
+#----$$-#__
+######--#__
+_____####__
+ID: 43954
+Title: Chrysalis Collection 6 #41
+Author: David Buchweitz + Jordi Domenech
+
+______#####___
+#######---##__
+#----------#__
+#-#$***#$#-##_
+#---#-*-----#_
+###---*####-#_
+__###-*---#-#_
+____##*##-#-##
+____#-*--@#--#
+____#-***..--#
+____#-----#--#
+____##########
+ID: 43955
+Title: Chrysalis Collection 6 #42
+Author: David Buchweitz + Jordi Domenech
+
+____#####__
+#####---#__
+#--$--#$#__
+#-#$#.--#__
+#--$-@-$###
+#-#$$#$$--#
+#-#-.#.-#-#
+#-#-...$#-#
+#-#-.#.-#-#
+#-##.#.##-#
+#----#----#
+###########
+ID: 43956
+Title: Chrysalis Collection 6 #43
+Author: David Buchweitz + Jordi Domenech
+
+#######____
+#-----####_
+#-###.#--#_
+#-#-$-#-$##
+#-#-#.--$-#
+#-#-$.###-#
+#---$.$-#-#
+##$#..*.*.#
+#-$--.#-#-#
+#---#*--$-#
+###-#---#-#
+__#-#####-#
+__#---@---#
+__#########
+ID: 43957
+Title: Chrysalis Collection 6 #44
+Author: David Buchweitz + Jordi Domenech
+
+_______#####_
+___#####---##
+___#---$----#
+_###.#-$#-#-#
+_#-$.--$-.#-#
+_#-#.####.#-#
+_#-#.--$-.--#
+_#---##$#.###
+##$###-$--#__
+#-*-*----##__
+#-#---#@-#___
+#---######___
+#####________
+ID: 43958
+Title: Chrysalis Collection 6 #47
+Author: David Buchweitz + Jordi Domenech

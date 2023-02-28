@@ -1,0 +1,581 @@
+Let's Logic Collection ID: 39
+Title: Novoban
+Author: François Marques
+Description: This collection of 50 levels is intended for beginners. The difficulty of the levels is increasing. The collection ends with some medium levels. I submitted these problems to my 10 and 14 year old nephews who completed all in one day (which is not bad at all for complete beginners). However, if you are an expert, solving the whole collection in less than 45 minutes is quite a challenge.
+
+####__
+#--###
+#--$@#
+#-*.-#
+##---#
+_#####
+ID: 2763
+Title: Level 1
+Author: François Marques
+
+####__
+#--#__
+#--###
+#--$-#
+##*#.#
+#--@-#
+#----#
+#--###
+####__
+ID: 2764
+Title: Level 2
+Author: François Marques
+
+####__
+#--#__
+#--#__
+#-@###
+#-$$-#
+#.--.#
+######
+ID: 2765
+Title: Level 3
+Author: François Marques
+
+#####_
+#---#_
+#.#$##
+#--@-#
+#.-$-#
+###--#
+__####
+ID: 2766
+Title: Level 4
+Author: François Marques
+
+__####
+###--#
+#.$$.#
+#-#--#
+#-@--#
+###--#
+__####
+ID: 2767
+Title: Level 5
+Author: François Marques
+
+__####__
+###--#__
+#----#__
+#---.###
+###-#@.#
+__#-$$-#
+__#--$-#
+__#.-###
+__####__
+ID: 2768
+Title: Level 6
+Author: François Marques
+
+_#####_
+##...##
+#-$$$.#
+#-$+$-#
+#.$$$-#
+##..--#
+_######
+ID: 2769
+Title: Level 7
+Author: François Marques
+
+_######_
+##----#_
+#-$##-##
+#------#
+##--.@.#
+_#$#-###
+_#---#__
+_#####__
+ID: 2770
+Title: Level 8
+Author: François Marques
+
+_####___
+##--####
+#------#
+#-..#$-#
+###--$-#
+__###@-#
+____####
+ID: 2771
+Title: Level 9
+Author: François Marques
+
+____#####_
+____#---#_
+#####-#-##
+#--#-$---#
+#---$--#-#
+#-..-#---#
+###@-#####
+__#--#____
+__####____
+ID: 2772
+Title: Level 10
+Author: François Marques
+
+__#####__
+__#---###
+###@$.--#
+#--*#---#
+#---$.-##
+#####--#_
+____####_
+ID: 2773
+Title: Level 11
+Author: François Marques
+
+####___
+#--####
+#-.---#
+#-@$$-#
+##--###
+_#.-#__
+_#--#__
+_####__
+ID: 2774
+Title: Level 12
+Author: François Marques
+
+_#####_
+##--.#_
+#-$#.#_
+#----##
+##-#--#
+_#$-@-#
+_#---##
+_#####_
+ID: 2775
+Title: Level 13
+Author: François Marques
+
+___#####
+___#---#
+####---#
+#.*---##
+#-$#--#_
+#@-#--#_
+#######_
+ID: 2776
+Title: Level 14
+Author: François Marques
+
+####__
+#.@#__
+#--###
+#-$--#
+#-$.-#
+#--###
+####__
+ID: 2777
+Title: Level 15
+Author: François Marques
+
+___####___
+___#--#___
+___#--#___
+####--####
+#---#-$@-#
+#-----$$.#
+###-###--#
+_##-.#####
+_#---#____
+_#.--#____
+_#####____
+ID: 2778
+Title: Level 16
+Author: François Marques
+
+_____#_____
+____###____
+__##-@-##__
+_#-.-*-.-#_
+#-$.$*$.$-#
+#--##-##--#
+#---------#
+###########
+ID: 2779
+Title: Level 17
+Author: François Marques
+
+_#######
+_#----.#
+_#-###.#
+##-#---#
+#--#-$-#
+#--@-$##
+#--#--#_
+#######_
+ID: 2780
+Title: Level 18
+Author: François Marques
+
+__####___
+###--####
+#----#@.#
+#----$$.#
+#--##-$.#
+#####---#
+____#####
+ID: 2781
+Title: Level 19
+Author: François Marques
+
+_#####__
+_#-@-###
+_#-#---#
+##$.*#-#
+#-$.*--#
+#-#--###
+#----#__
+######__
+ID: 2782
+Title: Level 20
+Author: François Marques
+
+__##_____
+_#--#____
+_#$@#____
+_#.$##___
+##.$--##_
+#-.#---##
+#-------#
+#####---#
+____#####
+ID: 2783
+Title: Level 21
+Author: François Marques
+
+####___
+#--###_
+#-@--#_
+#.-#$##
+##.$--#
+#-$.#-#
+#-#---#
+#----##
+###--#_
+__####_
+ID: 2784
+Title: Level 22
+Author: François Marques
+
+_#######__
+##--#--###
+#-$-#-$--#
+#--.@.---#
+##$-#-$###
+_#-.-.-#__
+_#######__
+ID: 2785
+Title: Level 23
+Author: François Marques
+
+####____
+#--#####
+#--.*.-#
+#-$-$-@#
+#---####
+#####___
+ID: 2786
+Title: Level 24
+Author: François Marques
+
+#######
+#.-.-.#
+#---#-#
+##--$-#
+_#-$$##
+_#--@#_
+_#####_
+ID: 2787
+Title: Level 25
+Author: François Marques
+
+_####__
+_#--##_
+##---##
+#-@$$-#
+#-#-#-#
+#..---#
+#######
+ID: 2788
+Title: Level 26
+Author: François Marques
+
+__####_
+__#-.#_
+###--##
+#-$$--#
+#-----#
+##$#-##
+_#.@.#_
+_#####_
+ID: 2789
+Title: Level 27
+Author: François Marques
+
+__#####_
+__#---#_
+###$#-##
+#--$@$-#
+#-#----#
+#...-###
+######__
+ID: 2790
+Title: Level 28
+Author: François Marques
+
+######____
+#----#____
+#--.$#####
+##*+$----#
+_#-.$#---#
+_##--#####
+__####____
+ID: 2791
+Title: Level 29
+Author: François Marques
+
+_#######
+##-.---#
+#-$*$#-#
+#-#@---#
+#--.-###
+######__
+ID: 2792
+Title: Level 30
+Author: François Marques
+
+_#######_
+##....@##
+#--$-#$-#
+#--$--$-#
+#--##---#
+#########
+ID: 2793
+Title: Level 31
+Author: François Marques
+
+___####
+####-@#
+#--$$-#
+#-.-$-#
+##..-##
+_#####_
+ID: 2794
+Title: Level 32
+Author: François Marques
+
+########
+#-.@.--#
+#-$-$--#
+##*#*###
+#-----#_
+#-----#_
+#--####_
+####____
+ID: 2795
+Title: Level 33
+Author: François Marques
+
+#######_
+#-.---#_
+#--$..#_
+###$*###
+#-$@---#
+#------#
+########
+ID: 2796
+Title: Level 34
+Author: François Marques
+
+__####_
+###--#_
+#----##
+#-#-..#
+#-$$$@#
+###-#-#
+__#--.#
+__#####
+ID: 2797
+Title: Level 35
+Author: François Marques
+
+__#####
+###---#
+#-$$$@#
+#...-##
+#----#_
+######_
+ID: 2798
+Title: Level 36
+Author: François Marques
+
+__#####
+_##---#
+_#-@--#
+##-$-##
+#-$*-#_
+#-#.-#_
+#--.##_
+#####__
+ID: 2799
+Title: Level 37
+Author: François Marques
+
+__####__
+__#--#__
+###$-##_
+#--$--#_
+#@#*.-##
+#--*.--#
+###----#
+__######
+ID: 2800
+Title: Level 38
+Author: François Marques
+
+____#####
+__###@--#
+__#.-$-.#
+__#--$-##
+_###-###_
+##-$--#__
+#-----#__
+#.--###__
+#####____
+ID: 2801
+Title: Level 39
+Author: François Marques
+
+####__
+#--##_
+#@.-#_
+#..$##
+#-$$-#
+#----#
+######
+ID: 2802
+Title: Level 40
+Author: François Marques
+
+__####__
+__#--###
+###-.--#
+#@$$$--#
+#---#.-#
+###.--##
+__#####_
+ID: 2803
+Title: Level 41
+Author: François Marques
+
+_####___
+_#--#___
+_#--####
+_#-..*-#
+##-$$@-#
+#---####
+#---#___
+#####___
+ID: 2804
+Title: Level 42
+Author: François Marques
+
+#####____
+#---###__
+#--.$-###
+##-.#-$-#
+_#-.#-$@#
+_##.--$-#
+__#--####
+__####___
+ID: 2805
+Title: Level 43
+Author: François Marques
+
+####_____
+#--#####_
+#----@-##
+#-.*.$*-#
+##--#$--#
+_##---###
+__#####__
+ID: 2806
+Title: Level 44
+Author: François Marques
+
+____####_
+#####--#_
+#---..$##
+#-$@#-$-#
+##$..---#
+_#--##--#
+_########
+ID: 2807
+Title: Level 45
+Author: François Marques
+
+_#####_
+_#---#_
+_#-#$##
+##..@-#
+#-*.$-#
+#-#-$##
+#----#_
+######_
+ID: 2808
+Title: Level 46
+Author: François Marques
+
+###______
+#.#####__
+#...--#__
+#-#-#-###
+#---$$-@#
+###--$$-#
+__###---#
+____#####
+ID: 2809
+Title: Level 47
+Author: François Marques
+
+_########
+_#--##-.#
+##---$--#
+#--$#$-.#
+#---#@-##
+#.-##--#_
+########_
+ID: 2810
+Title: Level 48
+Author: François Marques
+
+_#####__
+_#---#__
+##---###
+#-$$$$-#
+#-....-#
+##-@-###
+_#####__
+ID: 2811
+Title: Level 49
+Author: François Marques
+
+########_
+#..-@..#_
+#--$$$-#_
+####-####
+#-------#
+#-----$-#
+#--######
+####_____
+ID: 2812
+Title: Level 50
+Author: François Marques

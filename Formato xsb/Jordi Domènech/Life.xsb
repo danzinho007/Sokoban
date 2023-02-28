@@ -1,0 +1,1222 @@
+Author: Jordi Domènech
+Set: Life
+Email: jd.sokoban2020@gmail.com
+Blog: sokoban-jd.blogspot.com
+Copyright: (c) by Jordi Domènech, and the authors of each level
+Date: November-December 2015. In 2017-2018 and 2021 I added other levels.
+
+Author's note:
+I've done this collection Life in a few days, a puzzle after another, between November and December 2015. My purpose in this collection was to offer a repertoire of typical Sokoban problems. There are some difficult puzzles, others are easier, all mixed, and there are two hard levels (#34 and #52): If you can't solve them, leave them. Experience is important in Sokoban, and the puzzle that seems impossible to solve today may be solved in a while.
+
+I have built this collection for peace in the world, and most especially to Syria, where there never had to be a war!
+
+The best puzzles are: 10, 20, 37, 40, 41, 43, 44, 49, 58, 60, 62, 63, 65, 66-70.
+
+I dedicate Life to the friend Laizhufu, author of incredible and imaginative puzzles.
+
+Life is one of my favorite collections. I hope you like it.
+
+See more comments in the post "Life":
+sokoban-jd.blogspot.com/p/life.html
+
+These levels are copyright (c) by Jordi Domènech and may be freely distributed for non-commercial use, provided they remain unchanged and credited with the author's name and original web site.
+
+######
+#    #
+# #$ #
+# .$.#
+#  @ #
+######
+Title: duh! - for David W. Skinner
+Date: 22-8-2017
+
+  #####
+###   #
+#     #
+# ## ##
+#  @  #
+# $**.#
+#  #  #
+#######
+Title: fix one - pour Aymeric+
+Comment: Also published in LOMA03-13
+
+ ####
+##  ####
+#      #
+# .....#
+#   # ##
+# ### ##
+# $    #
+# $$$$ #
+#   #@ #
+########
+Title: from Magic Sokoban - line up
+
+        ####
+#########  #
+#   # .....#
+# $ . #    #
+## ####    #
+#     # ####
+#   #    $ #
+######$$$$ #
+     #@    #
+     #######
+Title: from Magic Sokoban - line up+
+
+    ####
+#####  #
+#   # $######
+# $     #   #
+## ##.#  $  #
+ # ##.##$ $ #
+ # #   # $  #
+ # #   #$ $##
+ # #   # $  #
+ # #...#$ $ #
+ # #...#    #
+ # #.+.# ####
+ # #####  #
+ #        #
+ #  #######
+ ####
+Title: fill the bottle
+
+########
+##   ###
+#     .#
+#......#
+# ### ##
+#      #
+# $$ $ #
+## #####
+#      #
+#  $ $ #
+#### ###
+#      #
+#  $$  #
+# @ ####
+########
+Title: labyrinth game
+
+#######
+#     ########
+# ### #   #  #
+# # $ #$  $$ #
+# $ $$   #   #
+#    ##  # ###
+# @##### * . #
+####...##$   #
+   #..     ###
+   #..   ###
+   #######
+Title: remembering Thinking Rabbit
+Author: Joseph L. Traub + DrFogh + Jordi Domenech
+Comment: Based on Original Extra Sharpen #34 by DrFogh, based in turn on XSokoban #83.
+Date: 28-7-2017
+
+ #######
+ #  #  #####
+ # $#      #
+ #  # .$ $ #
+## $## #####
+#  . ..#   #
+#   #..    #
+##### ######
+   # $ $ #
+   #   @ #
+   #  ####
+   ####
+Title: crossroads
+Comment: Who hasn't ever found himself at a crossroads? All the crossroads have something mysterious and disturbing...
+
+#####  ####
+#   ####  #
+# *     . #
+##$#####  #
+ # #  #  ##
+ # .      #
+## # @ #  #
+#  #####$##
+# *     * #
+#  ####   #
+####  #####
+Title: round and round...
+Comment: This puzzle is inspired by the beautiful Russian folk song Степь да степь кругом (Steppe all around). The song tells the story of a coachman who was lost in the steppe - round and round!... - and he died frozen cold. It is one of the most beautiful Russian songs I know.
+
+    #####
+    #   #
+    #.  #
+  ###  .##
+  #  . . #  #####
+### # #  #  #   ####
+#   # ## ####$$    #
+# .  .        $$$$ #
+#####.###$#@#      #
+    #     ##########
+    #######
+Title: Original #1 reverse mode
+Author: Thinking Rabbit + Jordi Domenech
+Comment: My tribute to the Original collection of Thinking Rabbit. It is not as easy as it seems... ^^
+
+###################
+#   # .   $   #   #
+# $   # @    ...$ #
+##.############# ##
+#     #   $ $ . $ #
+#   #         #   #
+###################
+Title: dark rooms
+Comment: Inspired by The Dark Room flash game by Jonathan May.
+
+#####   ######
+#     ###@   #
+# #  ##  $ $ #
+#   ##  $ #*##
+#  ##  * #   #
+  ##  * # $  #
+ ##  * # $. ##
+ #  * # $. ##
+ # . # $. ##
+## ##  . ##  #
+# .### ###   #
+#  .    #  # #
+#  ##   #    #
+######### ####
+Title: stairs for kids
+
+#####   ######
+#     ###@   #
+# #  ##  $ $ #
+#   ##  $ #*##
+#  ##  * #   #
+  ##  * # $. #
+###  * # $. ##
+#   * # $. ##
+#  . # $. ##
+## ##    ##  #
+# .### ###   #
+#  .    #  # #
+#  ##   #    #
+######### ####
+Title: stairs for kids+
+Comment: Problem of the stairs. The previous puzzle is relatively simple, but this one is more difficult. In fact, in this puzzle only changes the location of a goal, but to solve it is necessary to move all the boxes by the double staircases.
+
+     #######
+     #  .  #
+    ###$#  #
+    #  . . #
+   ###$#$ ##
+   #  . . .##
+  ###$#$#$  #
+  #  . . . .##
+ ###$#$#$#$  #
+ #  . . . . .#
+###$#$#$#$#$ ##
+#  . . . . . .#
+# $#$#$#$#$#$ #
+#     @    #  #
+###############
+Title: strange tree
+Comment: You only have to push the boxes upward, and then to the right... approximately.
+
+    #######
+   # #    *#
+  #   .*****#
+ #   **     ##
+ #*** ##***  #
+#  #  #    *  #
+#   #  **  #  #
+ #  ##*   #  #
+ ##    ###  ##
+ #  *     *  #
+  ## *****$ #
+  #  #  #   #
+   #   @   #
+    #######
+Title: for Andrej Cerjak and his excellent AC Smileys 4 collection
+Date: 3-12-2021
+
+ ########
+ #      #
+ #  $ $ #
+### ##.##
+# *  #.#
+# *  #.#
+#@*  # #
+## ### ##
+#     $ #
+#   #   #
+#########
+Title: from Magic Sokoban - magic twins
+Date: 28-11-2018
+
+#########
+#       #
+# ##### #
+# #   # #
+# # $   #
+# ##$## #
+#  *  #.#
+#  *  #.#
+# @*  #.#
+###$### #
+ #      #
+ #   #  #
+ ########
+Title: from Magic Sokoban - magic twins 2
+Date: 28-11-2018
+
+######### #####
+#       ###   #
+# *.*.*.*.    #
+# *$$$$$$$# # #
+# .$..... # # #
+# *$.$$$.$#   #
+# .$.$.$. #####
+# *$.+.$.$#
+# .$$$$$. #
+# **.*.*.$#
+#         #
+###########
+Title: mug
+Comment: Inspired in Sokoban Revenge #118 マグカップ (Mug) by Eiji Takeuchi.
+
+               ##
+              #.#
+             #  ##
+            #. .# #
+           # $. #  #
+          #.$. .#$  #
+         # $. . # $  #
+        #.$... .#  $  #
+       # $. . . # $ $  #
+      #.$. . . .#$ $ $  #
+     # $. . . . # $ $ $  #
+    #.$... ... .#$ $ $ $  #
+   # $. . . . . #          #
+  #. . . . . .#..  ##########
+#####$############$#       #
+#  $ $ $ $ $ $ $ $  $ $ $ #
+ #  $ $ $ $ $ $ $ #$ $ $ #
+  #          @          #
+  ######################
+Title: sailing boat
+Comment: Replica of 乘风破浪 (Sailing with the wind and waves) by Laizhufu. Of course, Laizhufu's level is much better than this.
+
+##########
+#     #  #
+#  $  $$ #
+#  # #   #
+#### ###.#
+#  #   #.#
+# $  $ #.#
+#  ##.##.#
+##.##  #.#
+# $  $ #.#
+#   #  #.#
+### ####.#
+### #  @ #
+#  $  $$ #
+#        #
+##########
+Title: Still more! #20 b
+Author: J. Franklin Mentzer + Jordi Domenech
+Comment: My tribute to Still more! by Frank Mentzer.
+Date: 18-3-2014
+
+    #######
+    #  #  #
+    #  . $#
+    # .#. #
+    # $#$ #
+##### .#. #####
+# $   $#$   $ #
+#  .$. # .$.  #
+## ######### ##
+#  .$.$ $.$.$ #
+#      +      #
+######  #######
+     ####
+Title: carousel
+Comment: One of the most fascinating topics of Sokoban: rotatory structure with alternate goals. Hint: the secret to solve it is the "tooth" at the bottom. This level is inspired in Tertius gradus ad Olympo #26 by Přemysl Zíka.
+
+##############
+#            #
+# ######*### #
+# # $ $ $  # #
+# # . . ..$# #
+# $  ####  # #
+# # .#  $.$# #
+# #$.#$ #* # #
+# # .   #.$# #
+# # #####  . #
+# #$.. . . # #
+# #  $@$ $ # #
+# ###*###### #
+#            #
+##############
+Title: tibetan mandala
+
+#############
+##  #########
+##    $     #
+## #### ##  #
+## # . $ # ##
+##  $*.*.# ##
+##$# .@. #$##
+## #.*.*$  ##
+## # $ . # ##
+#  ##$#### ##
+#          ##
+#  ##  ######
+#############
+Title: karakuri box
+Comment: A karakuri box (also called puzzle box, secret box, or trick box) is a box that can only be opened through some obscure or complicated series of manipulations. The correct series of movements can range from two to more than 1500 moves. The karakuri box had its origin in the Hakone region of Japan at the turn of the 19th century... Good luck!
+
+ ####
+ #  ######
+ #   $ $ #
+ # #.... #
+ # #.##.##
+ # #.#  #
+ # # $  #
+##$##$  #
+# $ @$ ##
+#   #   #
+#####   #
+    #####
+Title: go-around
+
+##### ########
+#   ###   #  #
+# $     $    #
+##$##$#####  #
+#   #....##$##
+# $ #.  .    #
+###  ....# $ #
+#   ## ###$###
+#  $$      #
+##   # @####
+ ########
+Title: plaça major
+Comment: Remembering the main square of my hometown in Catalonia.
+
+#########   #####
+#   #   #####   #
+# $   $       $ #
+##$######$# ##$##
+ # #...... . #  #
+##    .. # $ .  #
+#  ## ########$##
+#  $  #       $ #
+####  @ #####   #
+   ######   #####
+Title: classic rows
+Comment: A recurrent structure in Sokoban: storage in the center and rooms around. The classic model is Original #29.
+
+  ###########
+ ##         ##
+##  ***.***  ##
+#  *   *   *  #
+# *  #####  * #
+# * #     # * #
+# * #     # * #
+# *  #   #  * #
+#  *  # #  *  #
+##  *  #  *  ##
+ ##  * # *  ##
+  ##  *$*  ##
+   ##  *  ##
+    ## @ ##
+     #####
+Title: heart
+Comment: Replica of Tertius gradus ad Olympo #42 Heart, by Přemysl Zíka.
+
+            #######
+#######     #     #
+#     # #####  ** #
+#  ** # #     *  *#
+# .$ *# # ####.$$.##
+##* $.###    #*  * #
+ # **   #.*$ # **  #
+ #    # *  * #     #
+ ###### *  * #######
+     #  $*.###
+     #   @ #
+     #######
+Title: ooO
+
+###########   ###########
+#  #  #   #####   #  #  #
+# **  ***   *    ** *** #
+# * * *    * *  *   *   #
+# **  ** #* * *#*  #*.# #
+# *   *   *   * *   *   #
+# *$  *** * # *  ** *** #
+#@ #  #   #####   #  #  #
+###########   ###########
+Title: peace
+
+       ######
+       #    #
+       #$   #
+     ###   $##
+     #  $  $ #
+###### # ### ################################
+#  ***   ***  *  *  ***  ****    *   *   # *#
+# *   * *   * *  * *   *  *  *  * *  **  # *#
+# *     * # * * *  * # *  *  * *   * * *   *#####
+## *#*  # # # *#  ## # #  #**  #***# # ### #  ..#
+#     * * # * * *  * # *  *  * *   * *   * *  ..#
+# *$  * *   * *  * *   *  *  * * # * * #  **  ..#
+#  *** $ ***  *  *  ***  ****  *   * *     *#####
+####### ################ ####@###############
+      #                  #  ###
+      ####################
+Title: Sokoban 30th anniversary 1980-2010 arr.
+Author: anian + Jordi Domenech
+Comment: Based on The beautiful world of remodels 1 #11.
+Date: 2-3-2010, arranged 8-12-2021
+
+     #####
+######   #
+#        #
+#  ***#$##
+## #  # #
+ # #  # #
+ # #@ * ##
+ # ###*  #
+ #    .  #
+ #  ######
+ ####
+Title: trap
+Author: DrFogh + Jordi Domenech
+Comment: Based on It Is All Greek #12 Iota.
+
+           ####
+   #####   #  #
+   #   #####  ###
+   # $        $@#
+#####$######  $$#
+#     #  ...### #
+# $ $ # $...# $ ##
+##### . $#..#    #
+    ##   #.###$  #
+     #####.     ##
+         #  #####
+         ####
+Title: Primus gradus ad Olympo #103 a
+Author: Alberto Garcia + Premysl Zika + Jordi Domenech
+Comment: I tried to give a more aesthetic look to the arrangement of Zíka. Original level by Garcia: The best for you #98.
+
+            ####
+        #####  #
+        #      #
+ ####   #  ##  #
+ #  ###### # .###
+ #    . .# #$ $ #
+ # ## #$ $ # .# #
+ # # .# .# #$ # #
+ # #$ #$ # # .# #
+ # # .# .# #$ # ##
+ # #$ #$ # # .#  #
+ # # .# .# #$ # $#
+ # #$ #$ # # .#  #
+ # # .# .# #$ # $#
+## #$ ## # # .#  #
+#  # . $ # #$### ##
+#   $ #$.+ .  .   #
+####  #  ######   #
+   #######    #####
+Title: pipe organ
+
+     ###
+    ## @#
+    #  * #
+   ## * * #
+  ## * * * #
+ ## * * * * #
+## * * * * * #
+# * * * * * * #
+#             #
+###.#######$###
+ #    ###    #
+ #           #
+ #############
+Title: old cottage
+Comment: Hard pyramid... Inspired in Sokoban Revenge #283 ピラミッド・ソーコビアン (Sokoban pyramid) by Yoshio Sakae. If you can't solve it, leave to the end.
+
+         #########
+ #########   #   #
+ #   #   #       #
+ #       ...## ###
+### ## #.. ..#   #
+#   #  ..###..   #
+#     #.......# ##
+## ####.# ###.#  #
+#     #.     .   #
+#   #  .   # .#  #
+### ##############
+# $ $ $ $ $ $ $  #
+#  $ $ $ $ $ $ $ #
+##$ $ $ $ $ $ $  #
+ # $ $ $        ##
+ #  @    ########
+ #########
+Title: A
+
+    ####
+#####  ###
+#   #  . #
+#   $  * #
+##.***** #####
+ #     * #   #
+ ##### *   $ #
+     # *****.#
+     # @ *   #
+     ### * $##
+       # *  #
+       #$*# #
+       # .  #
+       ######
+Title: four roads
+
+                ####
+#################  #
+#                  #
+#  ##############* #
+## * . *   *     * #
+ # #   * . * #.#$# #
+ # #********     # #
+ # #  *    ******# #
+ # # .* #.#*     # #
+ # #  * $@ *  $  # #
+ # #***#.#$******# #
+ # #  *    *  *  # #
+ # #.#******  *# # #
+ # #   $ *  $ *  # #
+ # # $   *    *  * ##
+ # #*#############  #
+ #                  #
+ #  #################
+ ####
+Title: castle escape
+Comment: This puzzle is inspired in the old role-playing video games.
+
+# ######
+ ##    #
+##  $ $#
+# .$.$.#
+# $.$.$#
+# .$.$.#
+# $.$.$#
+# .$.$.########
+# $.$. .$.$.$ #
+# .$.$.$.$.$  #
+#  .$.$.$.$.$ #
+####.$.$.$.$  #
+   # .$.$.$. ##
+ # #       @##
+#  ########## #
+Title: ornate capital L
+
+#####
+#   ############
+#   $.$ $ $ $  #
+## ##. . . . ..#
+ # ## ####### ##
+ # ##.       .#
+ # @# ####### #
+ # ##.$ $  ##.#
+ # ## #    #  #
+ # ##.###$.#$.#
+ # # .$.$  #  #
+ # #       #$.#
+## #########  #
+# $ $ $ $ ##$.#
+#       $     #
+############  #
+           ####
+Title: old waterwheel
+
+########
+#      #####
+#  $ $ #   #
+# $ $  $$# #
+###### #   #
+ #   # #..##
+ # $    ..#
+ ##$##### ##
+ #  #..    #
+ # @ ..#   #
+ ###########
+Title: twins
+Comment: This level and the next were built one after another and are among my favorite storage levels.
+
+ #########
+ #   #   #
+ # $     #
+ ##$#### #
+  #..  # #
+  #..# # #
+  #  $ # #
+####$### ##
+#  $ #... #
+#    @.*. #
+## ########
+#  $     #
+# $ $$   #
+#    #####
+######
+Title: two stores
+
+                 ####
+ #################  #
+ #                . #
+ # ###############  #
+ # #             # ##
+ # # ########### # #
+## # #    #    # # #
+#    $ ##$# ##$# # #
+#  ### #  #  # # # #
+## #   $ ... # # # #
+ # # #$##.#.## # # #
+ # # # # ... # $ # #
+ # # # #  #    ### #
+ # # # ## #$#  . $ #
+ # # #    #   ##$# #
+ # # ###########   #
+ # #             # #
+##$############### #
+# *       @        #
+#   ################
+#####
+Title: Marrakesh Souk
+
+######################
+#                    #
+# ################## #
+# #########   ###### #
+# ########  *$###### #
+# ######## * * ##### #
+# ####### *  * ##### #
+# ####### * *  ##### #
+# #####    *    #### #
+# ###  ***  *** #### #
+# ##  *   **   * ### #
+# ## *  #    #  *### #
+# ## * ######  * ### #
+# ## * ###### *  ### #
+# ###*  ##### *  ### #
+# ### * *@###  *  ## #
+# ### *  #   #  * ## #
+# ###  * # *   *  ## #
+# ####  *** ***  ### #
+# #####       ###### #
+############# ########
+#                    #
+#  ########## ###### #
+#                    #
+## ################# #
+#          #       # #
+#  ################# #
+#   .                #
+#                    #
+######################
+######################
+Title: Mac SE
+Comment: Mac SE (1987), my first computer... On the screen, the Apple logo.
+
+        ########
+        #      #
+#####   #  $ $ #
+#   ##### #$## #
+#            # #
+## #######...# #
+ # ###   #. .# #
+ #  ...$ $...$ #
+ # #. .# ### ####
+## #... ...# #  ######
+#  #$#$#. .# # $ $ $ #
+# $    #...   $ $ $  #
+#  ##  ##$# ## $ $ $ #
+######## $  # $ $ $$ #
+       #    #  @     #
+       ###############
+Title: tres eran tres...
+Comment:
+"Tres eran tres las hijas de Elena.
+Tres eran tres y ninguna era buena..." (Popular Spanish Romance).
+This puzzle is inspired by the unfinished level of Monry known as "Nancy". The idea of the puzzle is that the player has to cross continuously the three storage areas...
+
+       #########
+ #######   #   #
+ #       #     #
+##.####### ## ##
+#  #  #.... # #
+#   $ # $ $$# #
+#  #  ##### $ #
+#### ##  @    #
+   #    ###  ##
+   ###### ####
+Title: London Underground
+
+            ####
+         ####  #
+         #   * #
+ #####   #  #  #
+ #   ###### # ##
+ # *        # #
+ ## ######  # #
+ ##   #  #### #
+ #  * #       #
+ # #$## ### # ##
+ # # #  ..# #  #
+## # # @ .# *  #
+#  # # ####$## #
+# *$       * # #
+#  ##### #   # #
+####  #  ##### #
+      # *      #
+      #  #######
+      ####
+Title: pink maze
+Comment: Inspired by the much more difficult and complicated maze of Secundus gradus ad Olympo #48 by Přemysl Zíka.
+
+     ####
+ #####  #
+ #  @   #   #
+## **** #  #
+ # *  * ####
+ # . #*    #
+ ###  **** #
+   #     $ #
+   # ####  #
+   ###  ####
+Title: puppy
+Comment: Little "snake" inspired in C-Soko #55 Puppy, by Marcis Berzins.
+
+################
+#    #  # # #  #
+###*@  *  # #$ #
+# * *** * # #  #
+# *     * # # ##
+# * *$* *      #
+# *  $  ****** #
+#  *****     **#
+## *      $  * #
+#  * *** *** * #
+#  * * * * * * #
+###.** .*. **. #
+#    #  #  #   #
+################
+Title: The Three-Legged Cat
+Author: Maymay + Jordi Domenech
+Comment: Based on i01.
+Author levels:
+www.game-sokoban.com/index.php?mode=ucollection&cid=314
+Date: 15-6-2019. Remodel: 11-7-2020
+
+         ###
+        #  #
+       # $ #
+      # $.$ #
+     # $. .$ #
+    #  . # .$ #
+   # .. # # .$ #
+  #  #$#   # .$ #
+ #  #   #   # .$ #
+#  . #  @  # .$  #
+ #  . #   # .$  ##
+  # $. # # .$ ##
+   # $. # .$ #
+    # $. .$ #
+     # $.$ #
+     #  $ #
+      #  #
+      ###
+Title: sea snail
+Comment: Replica of Secundus gradus ad Olympo #60 by Přemysl Zíka.
+
+####         ####
+#  ###########  #
+# *  $ $ $ $ $  #
+#  # .. *. . ..$#
+## #$.##### ##. #
+ # #  #  *   # $#
+ # #$.  * *  #* #
+ # #  #* * * #.$#
+ # #$.# * * *#  #
+ # # *#  * *  .$#
+ # #$ #   *  #  #
+ # # .##$#####.$##
+ # #$.. . .. ..  #
+ # #  $ $ $@$ $  #
+ #    ############
+ ######
+Title: pinwheel
+
+###################
+#        .        #
+# #######*####### #
+# #  * * * * *  # #
+# # * * * *@* * # #
+# #  * * * * *  # #
+# # * # * * # * # ##
+# #  * * * * *  #  #
+# # * * * * * * $$ #
+# .             #  #
+####################
+Title: Zhenying magic board
+Comment: From an idea of Zhenying #61-31.
+
+#############
+#           #
+# ********* #
+# *         ##
+# .********$ #
+#         *  #
+# ********* ##
+###   @     #
+  ###########
+Title: S
+Comment: This level is hard. If you can't solve it, leave it.
+
+                 #
+              * #*#
+             ### # #
+             #  . . #
+             #  $@$  # *
+            # # ##### ###
+           # . . . . .  #
+        * #  $ $ $ $ $  #
+       ### ########### # #
+       #  . . . . . . . . #
+       #  $ $ $ $ $ $ $ $  # *
+      # # ################# ###
+     # . . . . . . . . . . .  #
+  * #  $ $ $ $ $ $ $ $ $ $ $  #
+ ### ####################### # #
+ #  . . . . . . . . . . . . . . #
+ #  $ $ $ $ $ $ $ $ $ $ $ $ $ $  #
+# ############### ############### #
+ *     *     *  #  # *     *     *
+                #  #
+                #  #
+             ##########
+Title: Christmas tree 2015 for peace
+
+#########################################
+####    #       #       ##      #     ###
+# ****  # ***** #  ***  #  ***.## ***** #
+# *  #. # * #   # * # * # *     # * #   #
+# *   * # *     # *   * # * ##### *   # #
+# ****  ##.***#   *****   *$      ****$ #
+# *     # *     # *   * # * ##### *   # #
+# * ##### * # $ # * # * # *     # * #   #
+# *$#     ***** # *$# . #  **** # ****.##
+#     @ #   #   #   #   ##     ##      ##
+#########################################
+Title: peace 2
+
+  ### ## ## ## ## ## ##
+ #   #  #  #  #  #  #  #
+#  $ .     .     .      #
+# $# #.###.#$#.# #.###$ #
+#  # # #   #   #$$$# #  #
+#*#### ## $#  $#   # ##*#
+#  # # #   # $ # @ # #  #
+# $# #.###*###.###.###$ #
+#      .     .     . $  #
+ #  #  #  #  #  #  #   #
+  ## ## ## ## ## ## ###
+Title: oldies
+Comment: Replica of Still more! #2 by J. Franklin Mentzer.
+
+         ####
+##########  #
+#           #
+#  # *** ## #
+## # *  . # #
+ # # *  * # #
+ # ##***  # #
+ # # * # ## ##
+## # .     * #
+#  #$.####   #
+# $$ @#  #####
+#  ####
+####
+Title: broken P
+
+###############
+##  #        ##
+## $    #### ##
+## ###$##  #  #
+# $      $ ## #
+#   #####$    #
+## ###  #  # ##
+#    $$ #### ##
+#   ##       ##
+## ###$ #### ##
+#    #  #### ##
+# $  #  ####@##
+# #$#####...* #
+# * ...  .... #
+###############
+Title: of the Month 01/20 - The House of Traps (alt.2) a
+Author: Mic + Jordi Domenech
+Date: 29-3-2020
+
+#######
+#  #  #
+# $   #      ####
+#  #  #### ###  #
+## #.#   ###  $ #
+## #   #     #  #
+#  #####.## ##.##
+# ####....# ## #
+#      ...#  # #
+## $ #....   # #
+ #   #....#  # #
+ # ########### #
+ # #     ##    #
+ # #$$$$ ## ####
+ # #  @$  # #
+ # #$$$$  # #
+ # # $   ## #
+## # $$$ #  #
+#  # $ $ # ##
+#          #
+#  #########
+####
+Title: Sokodeal #87 arr.
+Author: Vipul Patel + Jordi Domenech
+Comment: This arrangement is a tribute to the excellent Sokodeal collection.
+
+          ####
+###########  #
+#            #
+#  ********* #
+## #       # #
+ # # ***** # #
+ # # *   * # #
+ # # * + * # #
+ # # * $ * # #
+ # # ***** # #
+ # *       # ##
+ # #########  #
+ #            #
+ #  ###########
+ ####
+Title: rings
+
+          ####
+###########  #
+#      $     #
+#  *######## #
+## *       # #
+ # # ##### # #
+ # # #   # # #
+ # # # @ # # #
+ # # # $ * # #
+ # # ##.## # #
+ # *       * ##
+ # *********  #
+ #     .      #
+ #  ###########
+ ####
+Title: rings 2
+
+ #############
+ #           #
+ # ********* #
+ # *       * #
+ # * ##### * #
+ # * # + # * #
+ # * # * # * #
+## * # * # * #
+#  * # * # * #
+#  $ # * # * #
+#### # *   * #
+   # # ***** #
+   #         #
+   ###########
+Title: snail
+
+#############
+#     #     #
+# ********* #
+# *       * #
+# * ##### * #
+# * # + #$. #
+# * # * # * #
+# $ # * # * #
+#   # * # * #
+### # * # * #
+ #  # *   * ##
+ #    *****  #
+ #  #   #    #
+ #############
+Title: snail 2
+
+#########################
+#       #               #
+# #####   #***##### #   #
+# # . ###*        ******#
+# # * ##   *** *#       #
+# # * ## #*  #  ####*####
+# # * #   *  #  # #  #
+# # .$# ### #######  # ##
+# # * # *   * *      # #
+# # * ####  #   **#### #
+# # * #  ##*##*** #    #
+# $ * ####  #  *  # ####
+# # *             #
+# # #####################
+#                     $+#
+#########################
+Title: SBM LL1 stoned & decorated with a pillar
+Author: TIAOA + Eric F. Tchong + Jordi Domenech
+Comment: Based on SBMendonca 04 SBM LL1, stoned by Eric F. Tchong (Let's Logic ID: 98130).
+Date: 20-4-2020
+
+  #########
+  #       ###
+###.#####   #
+#   #   # # #
+# $ . $ # $ #
+##.####$#$####
+ # # $ ....  #
+ # #   $ # $ #
+ # ###$#### ##
+ # #   #  # #
+ # #.# #  # #
+ # # $ .. # #
+## # ### ## #
+# $ @. $ .  #
+#   #########
+#####
+Title: storm
+Comment: Variation of The beautiful world of remodels 2 #7 Storm.
+
+#################
+#   #####   #   #
+# *       $   # #
+## ####.#####$$ #
+## #    #   $ ###
+## #  #   ..# ###
+## ##$####..#  ##
+## ##    #*.   ##
+## # $$#  ..#####
+## #   $ #..  ###
+#  # ###### #$###
+# *$     @   * ##
+#  #########   ##
+#################
+Title: ten - in the Premysl Zika style
+Comment: Storage area in the center and rooms with sliding boxes in the corners. A classical structure of Přemysl Zíka.
+Date: 3-2-2015
+
+     #####
+ #####   #
+ #       ####
+ # $$## ##@ #
+ ##  # $  .*#
+  # ##   #..#
+  # ##.###.*#
+  # ##   #..#####
+### #### #.*#   ##
+# $      #..#$ $ #
+# # #$ # #.*#    #
+#   #  #$#..  $  #
+###### # #######$##
+   # $     $    $ #
+   # # ###   ##   #
+   #   # ##########
+   #####
+Title: Sokoban Perfect #192 b
+Author: Hidemitsu Kobayashi + Jordi Domenech
+Comment: added a box and arranged the bottom.
+Date: 3-12-2017
+
+ ####
+##  ############
+# $ $ $ $ $ $ @#
+# #     #      #
+# #$ ####*### ##
+# #  #...*.#  #
+# #$ #.....* $#
+# #  *.*.*.#  #
+# # $#######$$#
+#             #
+########### # #
+          #   #
+          #####
+Title: Sokoban Perfect #274 a
+Author: Yoshio Sakae + Jordi Domenech
+Comment: just added a wall.
+Date: 13-12-2017
+
+        #####
+    #####   ###
+   ## $   #   #####
+   # $ $  $ # $   #
+####  $  ## $ $ # #
+#  # ####### ##   #
+#  ..    $ $$ # $##
+#  ####### #  $  #
+##$#  #  ...# # ##
+ # $$   @...#   #
+ #  $ ####.## ###
+ ##    # #.... #
+  ##   # #.... #
+   ##### #######
+Title: Sokoban Perfect #278 d
+Author: Yasuhiro Morita + Jordi Domenech
+Comment: tight version
+Date: 13-12-2017
+
+############################
+###########  #######   #   #
+## $                 #   $ #
+## ##### ## ############# ##
+## #     ## #..#  #  # .   #
+## #  ## #   $ #*.$  # #   #
+## ## #  #  #  #..#  # #####
+#     # ### #* #*.#  # ## ##
+#  ##$#     #  #..#  # # # #
+## #  #######* #*.#  # ## ##
+## #     #  #   ..#  # #####
+## # #   $  #  #..#  #     #
+## #$## ##  ####### ###### #
+#  # $ @# $$ #  #          #
+# $$ $###  $    # #  # # # #
+#  #       ##   #          #
+############################
+Title: Sokoban Revenge #147 a
+Author: Yoshio Sakae + Jordi Domenech
+Comment: added 5 easy boxes, minor changes - sokovampirism ^^
+Date: 11-11-2017
+
+################
+##           ###
+## #$#######$$ #
+##....   $...  #
+## # ########  #
+# $$     $  #  #
+#  # ###   .# ##
+#  #...# ##.# ##
+####...#$ # #$##
+#   # ## $# #  #
+# $ #  #   .   #
+# $$#  ###@ #  #
+# $   $$ #### ##
+#   #  #      ##
+################
+Title: Sokoban (1991) #55 arr.
+Author: Hacker Chris + Jordi Domenech
+Comment: based on level 55 (unsolvable) from the game Sokoban (1991) by Hacker Chris, for ZX Spectrum. I added 6 boxes, major changes.
+This is my level favorite. Přemysl Zíka said: "One of the most beautiful and most poetic studies, which I know. Difficult, but fantastic." Thank you a lot!
+Date: 4-9-2012

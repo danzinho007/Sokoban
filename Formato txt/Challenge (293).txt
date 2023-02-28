@@ -1,0 +1,60 @@
+Let's Logic Collection ID: 293
+Title: Challenge
+Author: Marti Homs Caussa
+Description:    
+
+####__
+#--###
+#----#
+#-$.-#
+##-*-#
+_#$.-#
+_#-@##
+_####_
+ID: 22058
+Title: Easy works 7
+Author: Marti Homs Caussa
+
+___####
+####--#
+#--.$-#
+#--.$@#
+###.$##
+__#--#_
+__#--#_
+__####_
+ID: 22059
+Title: Easy works 39
+Author: Marti Homs Caussa
+
+__#####_
+__#-+-#_
+###-*-##
+#--$*--#
+#------#
+########
+ID: 22060
+Title: Easy works 61
+Author: Marti Homs Caussa
+
+_######_
+##----#_
+#--##-##
+#-$.$.-#
+##-#---#
+_#-@-###
+_#####__
+ID: 22061
+Title: Easy works 69
+Author: Marti Homs Caussa
+
+__#####
+_##---#
+_#--#-#
+##+$**#
+#---#-#
+#-----#
+#######
+ID: 22062
+Title: Easy works 78
+Author: Marti Homs Caussa

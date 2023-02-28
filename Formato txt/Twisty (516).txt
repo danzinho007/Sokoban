@@ -1,0 +1,50 @@
+Let's Logic Collection ID: 516
+Title: Twisty
+Author: Martin P. Holland
+Description: The Twisty collection of Sokoban positions is copyright Martin P Holland m.holland@noether.freeserve.co.uk. These levels may be  distributed freely as long as this copyright message is retained.
+
+#########
+#---#---#
+#-$---$-#
+##-#-#-##
+#--#-#-#_
+#--#.#-##
+#-$...$@#
+##-#.#--#
+_#-#.#-##
+_#-#.#--#
+_#$-$-$-#
+_#---#--#
+_########
+ID: 47687
+Title: #1
+Author: Martin P Holland
+
+#########
+#---#---#
+#-+*$$.-#
+#-.-$-.-#
+##*$#$*##
+#-.-$-.-#
+#-.$$-.-#
+#---#---#
+#########
+ID: 47689
+Title: #2
+Author: Martin P Holland
+
+####________
+#--########_
+#-$---$@$-#_
+#--##-##--#_
+##-#-.-#--#_
+_#--*..#-###
+_#-#-..--$-#
+_#-#-..#-#-#
+##-##-##---#
+#-$-$---$-##
+#----##--##_
+##########__
+ID: 47691
+Title: #3
+Author: Martin P Holland

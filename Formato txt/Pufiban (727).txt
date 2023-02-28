@@ -1,0 +1,1705 @@
+Let's Logic Collection ID: 727
+Title: Pufiban
+Author: Jordi Domènech
+Description: 170 levels
+Email: jd_sokoban@abelmartin.com
+Website: 
+http://www.abelmartin.com/rj/sokoban.html
+http://sokoban-jd.blogspot.com/
+Copyright: (c) Jordi Domenech
+Date: June 2009
+
+Author's note:
+170 authentic tiny "pufis" with only 3 or 4 boxes. 
+
+----------------------------------------------------------------------
+
+These levels are copyright (c) by Jordi Domenech and may be freely 
+distributed for non-commercial use provided they remain unchanged, 
+credited with the author's name, and provided the author is notified. 
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
+http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+-----------------------------------------------------------------------
+
+_#####
+##.@-#
+#-$$-#
+#.--##
+#####_
+ID: 95600
+Title: Level 1
+Author: Jordi Domenech
+
+#####_
+#---##
+#$-*@#
+#..$-#
+######
+ID: 95601
+Title: Level 2
+Author: Jordi Domenech
+
+#####__
+#-.-##_
+#--$-##
+##--$+#
+_######
+ID: 95602
+Title: Level 3
+Author: Jordi Domenech
+
+__###___
+###+####
+#--$$--#
+#---.--#
+########
+ID: 95603
+Title: Level 4
+Author: Jordi Domenech
+
+__#####
+###---#
+#-$---#
+#.@$.##
+######_
+ID: 95604
+Title: Level 5
+Author: Jordi Domenech
+
+_#####
+_#---#
+##---#
+#-$*##
+#-@-.#
+######
+ID: 95605
+Title: Level 6
+Author: Jordi Domenech
+
+#####_
+#--.##
+#--$@#
+##$--#
+_#-.-#
+_#####
+ID: 95606
+Title: Level 7
+Author: Jordi Domenech
+
+#####_
+#---##
+#---@#
+##$$-#
+#.-.##
+#####_
+ID: 95607
+Title: Level 8
+Author: Jordi Domenech
+
+######__
+#.---###
+#-$-$--#
+#-.#@--#
+########
+ID: 95608
+Title: Level 9
+Author: Jordi Domenech
+
+#####_
+#.@-#_
+#--$##
+#-$-.#
+##---#
+_#####
+ID: 95609
+Title: Level 10
+Author: Jordi Domenech
+
+######
+#-@#.#
+#$$-.#
+#.$--#
+#---##
+#####_
+ID: 95610
+Title: Level 11
+Author: Jordi Domenech
+
+#####___
+#--.####
+#@$-$--#
+##-.---#
+_#######
+ID: 95611
+Title: Level 12
+Author: Jordi Domenech
+
+######_
+#-$-.##
+#.--$-#
+#--$@.#
+#######
+ID: 95612
+Title: Level 13
+Author: Jordi Domenech
+
+######
+#-.-.#
+#@$$##
+##---#
+_#---#
+_#####
+ID: 95613
+Title: Level 14
+Author: Jordi Domenech
+
+######__
+#-.--###
+#.-$$--#
+#----*@#
+########
+ID: 95614
+Title: Level 15
+Author: Jordi Domenech
+
+_######
+##-.$-#
+#--$$-#
+#@.--.#
+#######
+ID: 95615
+Title: Level 16
+Author: Jordi Domenech
+
+######
+#.@--#
+##*$.#
+#--$-#
+#---##
+#####_
+ID: 95616
+Title: Level 17
+Author: Jordi Domenech
+
+_#####
+##-.-#
+#-$--#
+#@$$-#
+#.#-.#
+######
+ID: 95617
+Title: Level 18
+Author: Jordi Domenech
+
+#######
+#.-#@-#
+#$$-$-#
+#.---.#
+#######
+ID: 95618
+Title: Level 19
+Author: Jordi Domenech
+
+######
+#.$--#
+#+$--#
+#.-$-#
+#--###
+####__
+ID: 95619
+Title: Level 20
+Author: Jordi Domenech
+
+######
+#--.-#
+#-$-.#
+##$$-#
+#.@-##
+#####_
+ID: 95620
+Title: Level 21
+Author: Jordi Domenech
+
+___#####
+####---#
+#--$@$-#
+#-.--.##
+#######_
+ID: 95621
+Title: Level 22
+Author: Jordi Domenech
+
+#####_
+#.--##
+#@.$-#
+#-$--#
+###--#
+__####
+ID: 95622
+Title: Level 23
+Author: Jordi Domenech
+
+#######
+#--$..#
+#---$@#
+#--$.##
+######_
+ID: 95623
+Title: Level 24
+Author: Jordi Domenech
+
+######
+#.-$+#
+##$-.#
+#--$-#
+#---##
+#####_
+ID: 95624
+Title: Level 25
+Author: Jordi Domenech
+
+__####
+###--#
+#-$--#
+#-.$@#
+#-.$.#
+######
+ID: 95625
+Title: Level 26
+Author: Jordi Domenech
+
+_#####
+##@-.#
+#.$-.#
+#$-$-#
+#---##
+#####_
+ID: 95626
+Title: Level 27
+Author: Jordi Domenech
+
+_#####
+_#@-.#
+##$$*#
+#--.-#
+#----#
+######
+ID: 95627
+Title: Level 28
+Author: Jordi Domenech
+
+#####_
+#-.@#_
+#-.$##
+#-$--#
+##---#
+_#####
+ID: 95628
+Title: Level 29
+Author: Jordi Domenech
+
+#####_
+#.--#_
+#@-$##
+#-*$-#
+#.---#
+######
+ID: 95629
+Title: Level 30
+Author: Jordi Domenech
+
+#######
+#---*.#
+#-$$*@#
+#---.##
+#---##_
+#####__
+ID: 95630
+Title: Level 31
+Author: Jordi Domenech
+
+_#####
+##.@.#
+#-$$##
+#-.$-#
+#----#
+######
+ID: 95631
+Title: Level 32
+Author: Jordi Domenech
+
+___#####
+####.*-#
+#-$-$--#
+#-@--.-#
+########
+ID: 95632
+Title: Level 33
+Author: Jordi Domenech
+
+########
+#.-.$.-#
+#-$-$@-#
+#---####
+#####___
+ID: 95633
+Title: Level 34
+Author: Jordi Domenech
+
+__#####
+_##---#
+##----#
+#.*$$##
+#..-$@#
+#######
+ID: 95634
+Title: Level 35
+Author: Jordi Domenech
+
+########
+#---.--#
+#@$-$--#
+#####.-#
+____####
+ID: 95635
+Title: Level 36
+Author: Jordi Domenech
+
+#####___
+#-$.####
+#--$@$-#
+#-..---#
+########
+ID: 95636
+Title: Level 37
+Author: Jordi Domenech
+
+_######
+##-.--#
+#-$$--#
+#.$---#
+#.@#--#
+#######
+ID: 95637
+Title: Level 38
+Author: Jordi Domenech
+
+#######
+#.*---#
+#+#$--#
+#-$---#
+#--#--#
+#######
+ID: 95638
+Title: Level 39
+Author: Jordi Domenech
+
+#######
+#--#--#
+#---.$#
+#--$*.#
+#---$+#
+#######
+ID: 95639
+Title: Level 40
+Author: Jordi Domenech
+
+######
+#.*--#
+#.$--#
+#@$--#
+###--#
+__####
+ID: 95640
+Title: Level 41
+Author: Jordi Domenech
+
+######
+#.$--#
+#@$..#
+#--$-#
+#--###
+####__
+ID: 95641
+Title: Level 42
+Author: Jordi Domenech
+
+__#####
+###---#
+#@$--.#
+#.$$--#
+#.-#--#
+#######
+ID: 95642
+Title: Level 43
+Author: Jordi Domenech
+
+#####__
+#.*@###
+#.-$$-#
+#.$---#
+###---#
+__#####
+ID: 95643
+Title: Level 44
+Author: Jordi Domenech
+
+_#####_
+##.-.#_
+#-$-###
+#-@$--#
+#-.$--#
+#######
+ID: 95644
+Title: Level 45
+Author: Jordi Domenech
+
+#######
+#-$-.-#
+#--$--#
+#-*$#.#
+##@--.#
+_######
+ID: 95645
+Title: Level 46
+Author: Jordi Domenech
+
+#####__
+#..-###
+#$--$@#
+#-.$--#
+#--#--#
+#######
+ID: 95646
+Title: Level 47
+Author: Jordi Domenech
+
+#####___
+#-.-####
+#-$-$--#
+#.-.$-@#
+########
+ID: 95647
+Title: Level 48
+Author: Jordi Domenech
+
+########
+#.$.---#
+#@$$---#
+#.-#---#
+########
+ID: 95648
+Title: Level 49
+Author: Jordi Domenech
+
+#####__
+#.--#__
+#-.-###
+#@$$--#
+#-*---#
+#######
+ID: 95649
+Title: Level 50
+Author: Jordi Domenech
+
+_######
+_#@-..#
+##$$-.#
+#---$-#
+#---###
+#####__
+ID: 95650
+Title: Level 51
+Author: Jordi Domenech
+
+__#####
+###---#
+#-----#
+#-*$$##
+#..*@#_
+######_
+ID: 95651
+Title: Level 52
+Author: Jordi Domenech
+
+#######
+#--#-.#
+#--$*.#
+#@$---#
+###---#
+__#####
+ID: 95652
+Title: Level 53
+Author: Jordi Domenech
+
+#######
+#-...-#
+#-$$*-#
+#---$-#
+#@-####
+####___
+ID: 95653
+Title: Level 54
+Author: Jordi Domenech
+
+___####
+####--#
+#@$---#
+#-**--#
+#.*---#
+#######
+ID: 95654
+Title: Level 55
+Author: Jordi Domenech
+
+#######
+#--.$-#
+#--$$-#
+###--.#
+__#-@.#
+__#####
+ID: 95655
+Title: Level 56
+Author: Jordi Domenech
+
+_######
+##---@#
+#.$$$-#
+#..$-##
+#-.--#_
+######_
+ID: 95656
+Title: Level 57
+Author: Jordi Domenech
+
+#######
+#-.--.#
+#*$$-@#
+#---###
+#---#__
+#####__
+ID: 95657
+Title: Level 58
+Author: Jordi Domenech
+
+#######
+#---$.#
+#---$.#
+#--#$.#
+#--#@-#
+#######
+ID: 95658
+Title: Level 59
+Author: Jordi Domenech
+
+___####
+_###--#
+##----#
+#@$$--#
+#.*-.-#
+#######
+ID: 95659
+Title: Level 60
+Author: Jordi Domenech
+
+#####__
+#---###
+#-@$--#
+#-$-*.#
+##-$..#
+_######
+ID: 95660
+Title: Level 61
+Author: Jordi Domenech
+
+#####__
+#.--###
+#---$-#
+#.$$-@#
+#.-#--#
+#######
+ID: 95661
+Title: Level 62
+Author: Jordi Domenech
+
+########
+#---#--#
+#-.$$--#
+#$.*---#
+#..-$@-#
+########
+ID: 95662
+Title: Level 63
+Author: Jordi Domenech
+
+#######
+#---$+#
+#--**-#
+#----##
+#--###_
+####___
+ID: 95663
+Title: Level 64
+Author: Jordi Domenech
+
+#######
+#-...-#
+#-.$$-#
+#-$$--#
+##@#--#
+_######
+ID: 95664
+Title: Level 65
+Author: Jordi Domenech
+
+#######
+#---*-#
+#--$$-#
+###--.#
+__#-@.#
+__#####
+ID: 95665
+Title: Level 66
+Author: Jordi Domenech
+
+#####__
+#-.-#__
+#.-@###
+#-$$--#
+#-$-.-#
+#######
+ID: 95666
+Title: Level 67
+Author: Jordi Domenech
+
+#######
+#--.$-#
+#--**-#
+#-$-.@#
+###---#
+__#####
+ID: 95667
+Title: Level 68
+Author: Jordi Domenech
+
+___####
+_###--#
+##-$$@#
+#-.-*-#
+#-.---#
+#######
+ID: 95668
+Title: Level 69
+Author: Jordi Domenech
+
+#######
+#.--$-#
+#-#@$-#
+#--$-.#
+#.--###
+#####__
+ID: 95669
+Title: Level 70
+Author: Jordi Domenech
+
+#######
+#+$---#
+#***--#
+#-----#
+#--#--#
+#######
+ID: 95670
+Title: Level 71
+Author: Jordi Domenech
+
+__#####
+###---#
+#-$---#
+#-**--#
+#.@#--#
+#######
+ID: 95671
+Title: Level 72
+Author: Jordi Domenech
+
+____####
+#####--#
+#-*----#
+#.**$--#
+#@*----#
+########
+ID: 95672
+Title: Level 73
+Author: Jordi Domenech
+
+######_
+#.#--##
+#.$---#
+#-$-$-#
+#@#.--#
+#######
+ID: 95673
+Title: Level 74
+Author: Jordi Domenech
+
+__#####
+###.--#
+#-$-$-#
+#-@$--#
+#..#--#
+#######
+ID: 95674
+Title: Level 75
+Author: Jordi Domenech
+
+__#####
+###---#
+#--$--#
+#.*.$@#
+#.-$-##
+######_
+ID: 95675
+Title: Level 76
+Author: Jordi Domenech
+
+###_####
+#.###--#
+#-..$--#
+#---$$-#
+####@-##
+___####_
+ID: 95676
+Title: Level 77
+Author: Jordi Domenech
+
+####____
+#--#####
+#--#-.-#
+#@$$$.-#
+#-$--..#
+########
+ID: 95677
+Title: Level 78
+Author: Jordi Domenech
+
+#####__
+#-.-#__
+#-.-###
+#@$$$-#
+#-.---#
+#######
+ID: 95678
+Title: Level 79
+Author: Jordi Domenech
+
+#######
+#-.---#
+#@$$$-#
+###-.-#
+__#-.-#
+__#####
+ID: 95679
+Title: Level 80
+Author: Jordi Domenech
+
+__#####_
+###---##
+#@$$---#
+#-.$$--#
+#.*..--#
+########
+ID: 95680
+Title: Level 81
+Author: Jordi Domenech
+
+#######_
+#.----##
+#.#-$$-#
+#..$$--#
+#-.--$@#
+########
+ID: 95681
+Title: Level 82
+Author: Jordi Domenech
+
+___####
+_###.-#
+##-$$-#
+#@-.$-#
+#--.--#
+#######
+ID: 95682
+Title: Level 83
+Author: Jordi Domenech
+
+#######
+#@*-.-#
+###$--#
+#-$-*-#
+#-.---#
+#######
+ID: 95683
+Title: Level 84
+Author: Jordi Domenech
+
+#######
+#-*---#
+#@#-..#
+#-$$--#
+#-$-.-#
+#######
+ID: 95684
+Title: Level 85
+Author: Jordi Domenech
+
+#######
+#--.--#
+#-@.*-#
+##-$$-#
+_###--#
+___####
+ID: 95685
+Title: Level 86
+Author: Jordi Domenech
+
+_#######
+##--$.-#
+#--.*--#
+#-$--$-#
+#####.@#
+____####
+ID: 95686
+Title: Level 87
+Author: Jordi Domenech
+
+#######
+#-.-$-#
+#-#-*@#
+#---$*#
+#---.-#
+#######
+ID: 95687
+Title: Level 88
+Author: Jordi Domenech
+
+########
+#.#----#
+#.---$-#
+#.*$$#-#
+##+$---#
+_#######
+ID: 95688
+Title: Level 89
+Author: Jordi Domenech
+
+_#####__
+_#---###
+##-#-.-#
+#@$$$.-#
+#-$--..#
+########
+ID: 95689
+Title: Level 90
+Author: Jordi Domenech
+
+_#######
+##---#.#
+#@$-$-.#
+#--$-$.#
+#---#-.#
+########
+ID: 95690
+Title: Level 91
+Author: Jordi Domenech
+
+__######
+__#.---#
+####-*-#
+#----$*#
+#----*@#
+########
+ID: 95691
+Title: Level 92
+Author: Jordi Domenech
+
+#######
+#--.$@#
+#.-$$-#
+#-.#-##
+#----#_
+######_
+ID: 95692
+Title: Level 93
+Author: Jordi Domenech
+
+_#######
+##-.---#
+#--$---#
+#.$$$###
+##-.@.#_
+_######_
+ID: 95693
+Title: Level 94
+Author: Jordi Domenech
+
+_#######
+##@*---#
+#-*-$--#
+#.-$-###
+#.#--#__
+######__
+ID: 95694
+Title: Level 95
+Author: Jordi Domenech
+
+#######
+#-.-$-#
+#-----#
+#.#-$##
+#--.$@#
+#######
+ID: 95695
+Title: Level 96
+Author: Jordi Domenech
+
+_#####__
+##.--#__
+#..$-###
+#-$$$--#
+#.---*@#
+########
+ID: 95696
+Title: Level 97
+Author: Jordi Domenech
+
+########
+#--#---#
+#@-#-$-#
+#.**---#
+#-*.-$-#
+########
+ID: 95697
+Title: Level 98
+Author: Jordi Domenech
+
+########
+#.--#--#
+#---$$-#
+#..#-$-#
+##-.-$@#
+_#######
+ID: 95698
+Title: Level 99
+Author: Jordi Domenech
+
+########
+#-$--.-#
+#@$-#-.#
+#-$$-.-#
+#--#--.#
+########
+ID: 95699
+Title: Level 100
+Author: Jordi Domenech
+
+########
+#.-----#
+#.-#$--#
+#.*$@$-#
+#.--$-##
+#######_
+ID: 95700
+Title: Level 101
+Author: Jordi Domenech
+
+_####___
+##--####
+#@$----#
+#--**.-#
+#-$--.-#
+########
+ID: 95701
+Title: Level 102
+Author: Jordi Domenech
+
+#######
+#-.--@#
+#$$$.-#
+#.--#-#
+#--$.-#
+#######
+ID: 95702
+Title: Level 103
+Author: Jordi Domenech
+
+#####___
+#.-.####
+#@.$$--#
+##-$---#
+_###---#
+___#####
+ID: 95703
+Title: Level 104
+Author: Jordi Domenech
+
+########
+#.#.-$-#
+#-.-#--#
+#--$$$@#
+#..--$-#
+########
+ID: 95704
+Title: Level 105
+Author: Jordi Domenech
+
+____####
+#####--#
+#-$-$--#
+#.--$$-#
+#...-@##
+#######_
+ID: 95705
+Title: Level 106
+Author: Jordi Domenech
+
+########
+#..#---#
+#---$$-#
+#.-$#@-#
+#-.--$-#
+########
+ID: 95706
+Title: Level 107
+Author: Jordi Domenech
+
+__####__
+###--###
+#-$.-$-#
+#..*$$-#
+#-@.---#
+########
+ID: 95707
+Title: Level 108
+Author: Jordi Domenech
+
+__######
+###+$--#
+#.#$$--#
+#-.-$--#
+#..--$-#
+########
+ID: 95708
+Title: Level 109
+Author: Jordi Domenech
+
+_#######
+##--..-#
+#-$*.--#
+#--$$--#
+#--#@###
+######__
+ID: 95709
+Title: Level 110
+Author: Jordi Domenech
+
+_#######
+##-....#
+#-$$---#
+#--$-$@#
+#--#####
+####____
+ID: 95710
+Title: Level 111
+Author: Jordi Domenech
+
+########
+#.-.---#
+#-.$-$-#
+#-$*@###
+###--#__
+__####__
+ID: 95711
+Title: Level 112
+Author: Jordi Domenech
+
+__####__
+###.-#__
+#@.$-###
+#-$-$--#
+##-.---#
+_#######
+ID: 95712
+Title: Level 113
+Author: Jordi Domenech
+
+_#######
+##.$.#@#
+#.#--$-#
+#$-$-$-#
+#-.-.-##
+#######_
+ID: 95713
+Title: Level 114
+Author: Jordi Domenech
+
+#######
+#-$-.-#
+#.#---#
+#-$$--#
+#@*.--#
+#######
+ID: 95714
+Title: Level 115
+Author: Jordi Domenech
+
+#######
+#-.-$-#
+#.-$$@#
+#-$#-##
+#-.--.#
+#######
+ID: 95715
+Title: Level 116
+Author: Jordi Domenech
+
+_#######
+##@$-.-#
+#-$-$--#
+#..$-###
+#.#--#__
+######__
+ID: 95716
+Title: Level 117
+Author: Jordi Domenech
+
+######__
+#----###
+#..#$$@#
+#.---$-#
+#..$-$-#
+########
+ID: 95717
+Title: Level 118
+Author: Jordi Domenech
+
+######_
+#--.-#_
+#.-#-##
+#--$$@#
+#-.-$-#
+#######
+ID: 95718
+Title: Level 119
+Author: Jordi Domenech
+
+######__
+#.---#__
+#.#-$###
+#.-$$--#
+#.---$@#
+########
+ID: 95719
+Title: Level 120
+Author: Jordi Domenech
+
+_#######
+##@..--#
+#-$$---#
+#--.$###
+#-*--#__
+######__
+ID: 95720
+Title: Level 121
+Author: Jordi Domenech
+
+########
+#@$---.#
+##$$$-.#
+#----#.#
+#---##.#
+########
+ID: 95721
+Title: Level 122
+Author: Jordi Domenech
+
+########
+#+--#--#
+##$-#--#
+#.-$-$-#
+#-.-$-.#
+########
+ID: 95722
+Title: Level 123
+Author: Jordi Domenech
+
+########
+#--.-$@#
+#.*-#$##
+#-*--$-#
+#.-----#
+########
+ID: 95723
+Title: Level 124
+Author: Jordi Domenech
+
+_#######
+##---.-#
+#@$-$--#
+#.-*#-##
+#-*---#_
+#######_
+ID: 95724
+Title: Level 125
+Author: Jordi Domenech
+
+#######
+#--.--#
+#@..$-#
+##-$$-#
+_###--#
+___####
+ID: 95725
+Title: Level 126
+Author: Jordi Domenech
+
+########
+#---#--#
+#.#-$-@#
+#..$-$-#
+#-.-$-##
+#######_
+ID: 95726
+Title: Level 127
+Author: Jordi Domenech
+
+########
+#..#---#
+#@-$$--#
+#-*--#-#
+#-$.---#
+########
+ID: 95727
+Title: Level 128
+Author: Jordi Domenech
+
+########
+#-.$.$-#
+#+$----#
+#.##$--#
+#.$----#
+########
+ID: 95728
+Title: Level 129
+Author: Jordi Domenech
+
+########
+#..-#--#
+#.$$#@-#
+#-*--$-#
+#.---$-#
+########
+ID: 95729
+Title: Level 130
+Author: Jordi Domenech
+
+____####
+#####--#
+#--*@$-#
+#--.*$-#
+##--.--#
+_#######
+ID: 95730
+Title: Level 131
+Author: Jordi Domenech
+
+########
+#.$-.--#
+#+#$$#-#
+#$-$-.-#
+#-.---##
+#######_
+ID: 95731
+Title: Level 132
+Author: Jordi Domenech
+
+######__
+#-.--###
+#--#$-@#
+#$---$-#
+#..-#--#
+########
+ID: 95732
+Title: Level 133
+Author: Jordi Domenech
+
+########
+#..$-$-#
+#--$---#
+#.@#$--#
+#--.-###
+######__
+ID: 95733
+Title: Level 134
+Author: Jordi Domenech
+
+########
+#..#---#
+#-.$-$-#
+#@*-$--#
+####---#
+___#####
+ID: 95734
+Title: Level 135
+Author: Jordi Domenech
+
+########
+#@--#-.#
+#-#-$$-#
+#.-$---#
+#.--####
+#####___
+ID: 95735
+Title: Level 136
+Author: Jordi Domenech
+
+_#######
+##-$--.#
+#-$-$..#
+#-@$-#.#
+#--#---#
+########
+ID: 95736
+Title: Level 137
+Author: Jordi Domenech
+
+#######
+#--#--#
+#--$$-#
+#*..$-#
+#@-.--#
+#######
+ID: 95737
+Title: Level 138
+Author: Jordi Domenech
+
+_#######
+##-..--#
+#--.*$-#
+#--$@$-#
+#####--#
+____####
+ID: 95738
+Title: Level 139
+Author: Jordi Domenech
+
+########
+#.#.---#
+#.*--$-#
+#-$#$--#
+#@-#---#
+########
+ID: 95739
+Title: Level 140
+Author: Jordi Domenech
+
+########
+#..-#@-#
+#---$$-#
+#.-#-$-#
+##-.-$-#
+_#######
+ID: 95740
+Title: Level 141
+Author: Jordi Domenech
+
+########
+#-$..-.#
+#@-##$##
+#--$---#
+#-$.---#
+########
+ID: 95741
+Title: Level 142
+Author: Jordi Domenech
+
+########
+#---#-@#
+#.#--*-#
+#--$.$-#
+#----###
+######__
+ID: 95742
+Title: Level 143
+Author: Jordi Domenech
+
+_#######
+##--#--#
+#--$@$-#
+#-.**$-#
+#-.-.--#
+########
+ID: 95743
+Title: Level 144
+Author: Jordi Domenech
+
+########
+#.*----#
+#.-$$--#
+#.$#---#
+##@$.--#
+_#######
+ID: 95744
+Title: Level 145
+Author: Jordi Domenech
+
+__####__
+###-@###
+#--$$--#
+#.*.*--#
+#.$----#
+########
+ID: 95745
+Title: Level 146
+Author: Jordi Domenech
+
+######__
+#-..-#__
+#.*-$###
+#-$-$-@#
+#---$.-#
+########
+ID: 95746
+Title: Level 147
+Author: Jordi Domenech
+
+########
+#--$--.#
+#-.-$$-#
+#-.#-$@#
+#--.-###
+######__
+ID: 95747
+Title: Level 148
+Author: Jordi Domenech
+
+#######_
+#@$-.-#_
+#*-*#-##
+#-$-$--#
+#.---.-#
+########
+ID: 95748
+Title: Level 149
+Author: Jordi Domenech
+
+########
+#.$----#
+#.$$$$-#
+#.-#---#
+#+.--###
+######__
+ID: 95749
+Title: Level 150
+Author: Jordi Domenech
+
+########
+#---#@-#
+#.#--$-#
+#--$.*-#
+#----###
+######__
+ID: 95750
+Title: Level 151
+Author: Jordi Domenech
+
+######__
+#.--@###
+#..#---#
+#.$$$$-#
+#.$----#
+########
+ID: 95751
+Title: Level 152
+Author: Jordi Domenech
+
+########
+#-*----#
+#@.$$--#
+#..#-$-#
+#----###
+######__
+ID: 95752
+Title: Level 153
+Author: Jordi Domenech
+
+_#######
+##--.--#
+#-$$-@-#
+#-..$###
+#-$-.#__
+######__
+ID: 95753
+Title: Level 154
+Author: Jordi Domenech
+
+########
+#---.$-#
+#--$*..#
+#-$-#--#
+###---@#
+__######
+ID: 95754
+Title: Level 155
+Author: Jordi Domenech
+
+_#######
+##-----#
+#-$@#$.#
+#--$-$.#
+#--#-..#
+########
+ID: 95755
+Title: Level 156
+Author: Jordi Domenech
+
+#######_
+#---*@#_
+#.*-$###
+#---$--#
+##-.---#
+_#######
+ID: 95756
+Title: Level 157
+Author: Jordi Domenech
+
+########
+#.@--$-#
+#.#$$--#
+#..-$#-#
+#-*----#
+########
+ID: 95757
+Title: Level 158
+Author: Jordi Domenech
+
+#######_
+#-$--.#_
+#..$#-##
+#@$-$--#
+##.----#
+_#######
+ID: 95758
+Title: Level 159
+Author: Jordi Domenech
+
+_#######
+##--.--#
+#-*.$--#
+#-@$#-##
+#-$.--#_
+#######_
+ID: 95759
+Title: Level 160
+Author: Jordi Domenech
+
+____####
+#####--#
+#@$-$--#
+#.*.$--#
+#.$.---#
+########
+ID: 95760
+Title: Level 161
+Author: Jordi Domenech
+
+__######
+__#-.$-#
+###$-..#
+#-@-$$-#
+#-.---##
+#######_
+ID: 95761
+Title: Level 162
+Author: Jordi Domenech
+
+########
+#------#
+#.*#---#
+#.*-$$##
+#-.--$@#
+########
+ID: 95762
+Title: Level 163
+Author: Jordi Domenech
+
+_#######
+##-----#
+#.$#$-@#
+#.-$-$##
+#..---#_
+#######_
+ID: 95763
+Title: Level 164
+Author: Jordi Domenech
+
+######__
+#.--.###
+#@$#$--#
+#$.-.$-#
+#----$.#
+########
+ID: 95764
+Title: Level 165
+Author: Jordi Domenech
+
+#######_
+#@--.-#_
+#-*-.$##
+#.$#$--#
+#.$----#
+########
+ID: 95765
+Title: Level 166
+Author: Jordi Domenech
+
+########
+#-*----#
+#--$$--#
+#-.#-$-#
+#.-.@###
+######__
+ID: 95766
+Title: Level 167
+Author: Jordi Domenech
+
+########
+#-.--$.#
+#--$.*-#
+#--$-$@#
+#-.#####
+####____
+ID: 95767
+Title: Level 168
+Author: Jordi Domenech
+
+########
+#.$----#
+#.*#$--#
+#.$--$##
+#.--@-#_
+#######_
+ID: 95768
+Title: Level 169
+Author: Jordi Domenech
+
+#######_
+#-.---#_
+#.$$$$##
+#-.#-*-#
+#.---@-#
+########
+ID: 95769
+Title: Level 170
+Author: Jordi Domenech

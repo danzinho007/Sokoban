@@ -1,0 +1,34 @@
+Let's Logic Collection ID: 665
+Title: Attrition 05
+Author: Razorflame
+Description: My fifth set of handmade levels.  All levels are made with the attention to level design and difficulty in mind.
+
+#####################
+#---#---#---#---#---#
+#-$---$---$---$---$-#
+##$#-#-#-#-#-#-#-#$##
+#----$-$-$-$-$-$----#
+#.$$#$#$#$#$#$#$#$$.#
+#.#..$-$-$-$-$-$..#.#
+#....#-#-#-#-#-#....#
+#..#$-----------$#..#
+#...--#$#$#$#$#--...#
+#...#$---------$#...#
+#....--#$#$#$#--....#
+#.--@#$-------$#---.#
+#....--#$#$#$#--....#
+#...#$---------$#...#
+#...--#$#$#$#$#--...#
+#..#$-----------$#..#
+#....#-#-#-#-#-#....#
+#.#..$-$-$-$-$-$..#.#
+#.$$#$#$#$#$#$#$#$$.#
+#----$-$-$-$-$-$----#
+##$#-#-#-#-#-#-#-#$##
+#-$---$---$---$---$-#
+#---#---#---#---#---#
+#####################
+ID: 91216
+Title: Enigmatic Flow
+Author: Razorflame
+Comment: This level was pretty interesting to make and solve.  There's a lot of unique traps that one can fall into if they aren't careful when solving this level.

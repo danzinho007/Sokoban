@@ -1,0 +1,88 @@
+Let's Logic Collection ID: 300
+Title: Louder than hell
+Author: Marti Homs Caussa
+Description:    
+
+#####___
+#---#___
+#---####
+#--*$@-#
+#--.*--#
+###--###
+__####__
+ID: 22175
+Title: Level 1
+Author: Marti Homs Caussa
+
+_####_____
+_#--#_____
+_#--#_____
+_#--#_____
+###-######
+#--$$----#
+#@.-$#---#
+##..-#####
+_#####____
+ID: 22176
+Title: Level 2
+Author: Marti Homs Caussa
+
+####____
+#--###__
+#----#__
+#--.$###
+##-.$--#
+_##.$#-#
+__##@--#
+___#####
+ID: 22177
+Title: Level 3
+Author: Marti Homs Caussa
+
+_####___
+##--#___
+#---####
+#-$----#
+#-*##--#
+#@.----#
+#####--#
+____####
+ID: 22178
+Title: Level 4
+Author: Marti Homs Caussa
+
+####___
+#--#___
+#--####
+#--$--#
+##$*.-#
+#--.-##
+#--@-#_
+######_
+ID: 22179
+Title: Level 5
+Author: Marti Homs Caussa
+
+__####__
+__#--#__
+###--###
+#-$**.-#
+#------#
+###---##
+__##@-#_
+___####_
+ID: 22180
+Title: Level 6
+Author: Marti Homs Caussa
+
+__####__
+__#--#__
+__#@-#__
+###$*###
+#--*.--#
+#------#
+#--#####
+####____
+ID: 22181
+Title: Level 7
+Author: Marti Homs Caussa

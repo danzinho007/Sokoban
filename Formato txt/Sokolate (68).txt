@@ -1,0 +1,531 @@
+Let's Logic Collection ID: 68
+Title: Sokolate
+Author: François Marques
+Description: "Life is like a box of chocolate, you never know what you get!" - Mr. Gump - It is in this collection that I place my small levels, which are not difficult enough to be in Sokompact and a little too difficult to find their place in a collection for beginners.
+
+_#####_
+##-.-##
+#--*--#
+#-$$$-#
+#-.*.-#
+##-@-##
+_#####_
+ID: 4433
+Title: Level 1
+Author: François Marques
+
+__#####__
+__#---#__
+###-#-#__
+#-.-*-#__
+#--$#$###
+##.-*-@-#
+_#--#---#
+_########
+ID: 4434
+Title: Level 2
+Author: François Marques
+
+_#######
+_#--.--#
+##-#.#-#
+#-$$@$-#
+#---.-##
+#######_
+ID: 4435
+Title: Level 3
+Author: François Marques
+
+__####__
+__#--#__
+###-.###
+#--$$--#
+#-#+.#-#
+#--$$--#
+###.-###
+__#--#__
+__#--#__
+__####__
+ID: 4436
+Title: Level 4
+Author: François Marques
+
+_####___
+_#--####
+##-.-$-#
+#--*-#-#
+#--$-.-#
+###*#@##
+__#---#_
+__#####_
+ID: 4437
+Title: Level 5
+Author: François Marques
+
+_####___
+_#--#___
+_#-@#___
+_#$.#___
+##.$####
+#-$.---#
+#-.$---#
+#--#####
+####____
+ID: 4438
+Title: Level 6
+Author: François Marques
+
+_#######_
+_#--#--#_
+##--#--##
+#-.-@-.-#
+#-#*#*#-#
+#---$---#
+###-$####
+__#--#___
+__####___
+ID: 4439
+Title: Level 7
+Author: François Marques
+
+__####__
+###--###
+#-*-$--#
+#-*.@*-#
+#-*--#-#
+#-##*#-#
+#------#
+########
+ID: 4440
+Title: Level 8
+Author: François Marques
+
+_#####__
+##---###
+#-..$$-#
+#---$@-#
+##.#-###
+_#---#__
+_#####__
+ID: 4441
+Title: Level 9
+Author: François Marques
+
+_####___
+_#--##__
+##---##_
+#--$--#_
+#.#*#*##
+#--@---#
+#--#---#
+########
+ID: 4442
+Title: Level 10
+Author: François Marques
+
+#####___
+#.--##__
+#-#$-###
+#..@---#
+#.$$$--#
+###---##
+__#####_
+ID: 4443
+Title: Level 11
+Author: François Marques
+
+_####__
+_#--#__
+##.$###
+#-.-$-#
+#-.$#@#
+#-.-$-#
+#---###
+#####__
+ID: 4444
+Title: Level 12
+Author: François Marques
+
+__####__
+__#--###
+###--$-#
+#-...@-#
+#-$#-$-#
+#-$..$##
+#--#--#_
+#######_
+ID: 4445
+Title: Level 13
+Author: François Marques
+
+__#####
+_##---#
+_#-$--#
+_#.*$##
+##-*-#_
+#--.-#_
+#--@-#_
+######_
+ID: 4446
+Title: Level 14
+Author: François Marques
+
+_####__
+_#--###
+_#-*$-#
+_#-.#-#
+##-*--#
+#--*@-#
+#---###
+#####__
+ID: 4447
+Title: Level 15
+Author: François Marques
+
+#####__
+#---##_
+#-#--#_
+#-$..##
+##$..-#
+#-@$$-#
+#---###
+#####__
+ID: 4448
+Title: Level 16
+Author: François Marques
+
+__####__
+__#--#__
+###--###
+#--$$$-#
+#-...#-#
+#-#...-#
+#-$$$@##
+###---#_
+__#####_
+ID: 4449
+Title: Level 17
+Author: François Marques
+
+__#####_
+_##---#_
+_#----#_
+##-*-$##
+#--**--#
+#--.**@#
+###--###
+__#--#__
+__####__
+ID: 4450
+Title: Level 18
+Author: François Marques
+
+____#####
+_####---#
+_#--#---#
+##-*-*-##
+#-*.*$@#_
+#--*-*-#_
+##-----#_
+_#######_
+ID: 4451
+Title: Level 19
+Author: François Marques
+
+___####_
+####--#_
+#-$---##
+#--*..-#
+#--*$.-#
+##$.*$-#
+_#-@-###
+_#####__
+ID: 4452
+Title: Level 20
+Author: François Marques
+
+__####_
+###--##
+#--$--#
+#@.*.-#
+##-$--#
+_###--#
+___####
+ID: 4453
+Title: Level 21
+Author: François Marques
+
+_######
+_#----#
+_#$##-#
+##....#
+#-$#--#
+#@$---#
+#-$--##
+##--##_
+_####__
+ID: 4454
+Title: Level 22
+Author: François Marques
+
+___#####
+__##.--#
+__#-.--#
+_##*#.##
+##---$-#
+#---$$@#
+#----###
+###--#__
+__####__
+ID: 4455
+Title: Level 23
+Author: François Marques
+
+#####_
+#-@-#_
+#$$$##
+#-$--#
+#--#-#
+#....#
+#----#
+######
+ID: 4456
+Title: Level 24
+Author: François Marques
+
+____####
+#####--#
+#---$--#
+#-@***-#
+#-#-.-##
+#---###_
+#####___
+ID: 4457
+Title: Level 25
+Author: François Marques
+
+_####___
+_#-.####
+_#----.#
+_#$$$$@#
+##-#-###
+#---.-#_
+#-.---#_
+#######_
+ID: 4458
+Title: Level 26
+Author: François Marques
+
+#######
+#--#--#
+#-$-@-#
+#-***-#
+#-#-*-#
+#-.---#
+#######
+ID: 4459
+Title: Level 27
+Author: François Marques
+
+__####___
+__#--#___
+_##--###_
+##-$-$-#_
+#+*..*.##
+##-$-$--#
+_#--#---#
+_########
+ID: 4460
+Title: Level 28
+Author: François Marques
+
+__####_
+###--#_
+#--$@##
+#-#-$-#
+#-$-#-#
+##-...#
+_#---##
+_#####_
+ID: 4461
+Title: Level 29
+Author: François Marques
+
+#####__
+#---###
+#-#-$-#
+#-**.+#
+#---$-#
+#---###
+#####__
+ID: 4462
+Title: Level 30
+Author: François Marques
+
+_#######
+##---.-#
+#----$-#
+#-#$#*##
+#--$-$-#
+###@..-#
+__#-.###
+__####__
+ID: 4463
+Title: Level 31
+Author: François Marques
+
+####___
+#--####
+#-.--.#
+#-.-#-#
+#--$--#
+##$$###
+_#-@#__
+_####__
+ID: 4464
+Title: Level 32
+Author: François Marques
+
+#####____
+#---###__
+#-----#__
+##--#-###
+_#-$**--#
+_##@.*--#
+__#--####
+__#--#___
+__####___
+ID: 4465
+Title: Level 33
+Author: François Marques
+
+__####__
+__#@-#__
+###$$###
+#------#
+#-$#--.#
+##.---##
+_###-.#_
+___####_
+ID: 4466
+Title: Level 34
+Author: François Marques
+
+#####______
+#.--####___
+#..----#___
+#.-#-#-###_
+##----$--##
+_###--$$$@#
+___####---#
+______#####
+ID: 4467
+Title: Level 35
+Author: François Marques
+
+__####__
+__#-.###
+###-..-#
+#--$--.#
+#---#-##
+##$$$-#_
+_#-@###_
+_####___
+ID: 4468
+Title: Level 36
+Author: François Marques
+
+_#####___
+_#---####
+##.#$#--#
+#---$---#
+#-**.*--#
+##--@--##
+_#######_
+ID: 4469
+Title: Level 37
+Author: François Marques
+
+_####____
+_#--####_
+##--.--#_
+#--$.$-##
+#-$*#*@-#
+##-.$.--#
+_#--#####
+_#--#____
+_####____
+ID: 4470
+Title: Level 38
+Author: François Marques
+
+#######__
+#--.--##_
+#--*#$-##
+##@.$---#
+_#-*#$--#
+_#-.--###
+_#--###__
+_####____
+ID: 4471
+Title: Level 39
+Author: François Marques
+
+_#####___
+_#---#___
+##.#$###_
+#---$--#_
+#-**.*@##
+##------#
+_####---#
+____#####
+ID: 4472
+Title: Level 40
+Author: François Marques
+
+__####__
+__#@-#__
+_##$$#__
+_#---##_
+##.#.-#_
+#-*-*-##
+#------#
+####---#
+___#####
+ID: 4473
+Title: Level 41
+Author: François Marques
+
+#####____
+#---##___
+#----###_
+##---$-#_
+##*#$#+##
+#-.--$.-#
+#---#---#
+#########
+ID: 4474
+Title: Level 42
+Author: François Marques
+
+###########
+#--$.-.$--#
+#--$*@*$--#
+###-.#.-###
+__#-----#__
+__#######__
+ID: 4475
+Title: Level 43
+Author: François Marques
+
+_####____
+##--###__
+#---@-#__
+#--$#-###
+##-*.-.-#
+_#-**$--#
+_#---####
+_#####___
+ID: 4476
+Title: Level 44
+Author: François Marques

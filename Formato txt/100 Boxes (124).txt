@@ -1,0 +1,138 @@
+Let's Logic Collection ID: 124
+Title: 100 Boxes
+Author: François Marques
+Description: This collection includes 10 small levels of 10 packages each. It is intended for the expert who has a few (many) hours in front of them.   
+
+___####__
+####--##_
+#---$--#_
+#--***-#_
+#--.-.-##
+##-*-*--#
+_##***--#
+__#-$-###
+__#-@-#__
+__#####__
+ID: 7552
+Title: Connection
+Author: François Marques
+
+_#########_
+_#---#---#_
+_#-@-#---#_
+##$**$**$#_
+#--#.-.#-##
+#--.*$*.--#
+#---------#
+###########
+ID: 7553
+Title: Two rooms
+Author: François Marques
+
+__#####__
+__#---#__
+__#---#__
+###-*-###
+#--*.*--#
+#--*.*--#
+#--*.*--#
+###$$$###
+__#-@-#__
+__#####__
+ID: 7554
+Title: Fill the hall
+Author: François Marques
+
+__####____
+###-@#####
+#--$$$---#
+#-**.**--#
+##-----###
+#-.***.-#_
+#-------#_
+#########_
+ID: 7555
+Title: Two lines
+Author: François Marques
+
+_#######_
+_#--@--#_
+_#*$*$*#_
+_#-.$.-#_
+##.-#-.##
+#--*$*--#
+#---*---#
+#--###--#
+####_####
+ID: 7556
+Title: Dual
+Author: François Marques
+
+#####_####_
+#---###--#_
+#-$-----@#_
+##$*****$##
+#-$.....$-#
+#---#-----#
+########--#
+_______####
+ID: 7557
+Title: Zip
+Author: François Marques
+
+_####_____
+##--#####_
+#--$--$-#_
+#-$*..*-##
+#--*$$.--#
+#@-*.*.--#
+####---###
+___#####__
+ID: 7558
+Title: The little dog
+Author: François Marques
+
+__####___
+__#--####
+_##@-$--#
+_#-*.*--#
+##-*-*-##
+#--*-*-#_
+#--***-#_
+##-----#_
+_####--#_
+____####_
+ID: 7559
+Title: Opened circle
+Author: François Marques
+
+__####___
+__#-@##__
+__#$$-#__
+###-*-###
+#--.*.$-#
+#--.*.--#
+#-#.*.#-#
+#-$$$---#
+###---###
+__##--#__
+___####__
+ID: 7560
+Title: Jour J
+Author: François Marques
+
+__#####__
+__#-.-#__
+###$-$###
+#--$-$--#
+#-.-.-.-#
+###-*-###
+__#-*-#__
+__#$.$#__
+__#-.-#__
+__#$.$#__
+__#-+-#__
+__#####__
+ID: 7561
+Title: The crucifix
+Author: François Marques

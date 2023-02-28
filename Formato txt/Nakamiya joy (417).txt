@@ -1,0 +1,101 @@
+Let's Logic Collection ID: 417
+Title: Nakamiya joy
+Author: Hirohiko Nakamiya
+Description: Joy collection by Hirohiko Nakamiya\r\n  
+
+_###########
+_#--#--#-@-#
+_#--.$-#---#
+_#--#.-#-$##
+##$-#-.#--#_
+#---#-$.--#_
+#---#--#--#_
+###########_
+ID: 40469
+Title: Nakamiya-joy #01
+Author: Hirohiko Nakamiya
+
+##########
+#-@*---*-#
+#*$-#-#--#
+#-------*#
+#*-#.#---#
+#-------*#
+#-*-*-*--#
+##########
+ID: 40470
+Title: Nakamiya-joy #02
+Author: Hirohiko Nakamiya
+
+###########
+#--....---#
+#-$.*.*--##
+##$#####--#
+#----$----#
+#--$-$-$--#
+#--*****#@#
+###########
+ID: 40471
+Title: Nakamiya-joy #03
+Author: Hirohiko Nakamiya
+
+_#########_
+##-.---.-##
+#-$*$-$*$-#
+#--.....$@#
+#-$*$-$*$-#
+##-.---.-##
+_#########_
+ID: 40472
+Title: Nakamiya-joy #04
+Author: Hirohiko Nakamiya
+
+################
+#------@#-.---##
+#-#$#$-#-*---$.#
+#-$-..#-*--#-#-#
+#-#.-#-*--#---##
+#-$.#-*--#-#-$.#
+#--#-$--#-#--#-#
+#-#--#-#-#-#--##
+#------------$.#
+##$-#$-#$-#$-#-#
+#-.#-.#-.#-.#-##
+################
+ID: 40473
+Title: Nakamiya-joy #05
+Author: Hirohiko Nakamiya
+
+_######
+_#----#
+_#-*$-#
+##.@.##
+#-$*-#_
+#----#_
+######_
+ID: 40474
+Title: Nakamiya-joy #06
+Author: Hirohiko Nakamiya
+
+#########
+#-.-.-.-#
+#-$-$-$-#
+##--.####
+#-$$$-$-#
+#@.-.-.-#
+#########
+ID: 40475
+Title: Nakamiya-joy #07
+Author: Hirohiko Nakamiya
+
+__####___
+###--####
+#--.-.--#
+#-$-$-$-#
+##.#*#.##
+#-$-$-$-#
+#--.@.--#
+#########
+ID: 40476
+Title: Nakamiya-joy #08
+Author: Hirohiko Nakamiya

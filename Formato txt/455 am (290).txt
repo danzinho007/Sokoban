@@ -1,0 +1,413 @@
+Let's Logic Collection ID: 290
+Title: 4:55 am
+Author: Marti Homs Caussa
+Description:    
+
+#######_
+#-$-@.##
+#-**.--#
+#----$-#
+#--#####
+####____
+ID: 21971
+Title: Level 1
+Author: Marti Homs Caussa
+
+_#####_
+##.-.#_
+#-.$###
+#--*@-#
+#-$$--#
+#-#-###
+#---#__
+#####__
+ID: 21972
+Title: Level 2
+Author: Marti Homs Caussa
+
+___####_
+___#--##
+####.$-#
+#--$@--#
+#---.*-#
+###--###
+__####__
+ID: 21973
+Title: Level 3
+Author: Marti Homs Caussa
+
+___#####
+__##---#
+__#-*.-#
+###$@-##
+#---*.#_
+#---$-#_
+####--#_
+___####_
+ID: 21974
+Title: Level 4
+Author: Marti Homs Caussa
+
+_____###
+######.#
+#--#-..#
+#-$$$@.#
+#-$---##
+#----##_
+#---##__
+#####___
+ID: 21975
+Title: Level 5
+Author: Marti Homs Caussa
+
+########
+#-.----#
+#-$-@$-#
+#.$#.$##
+#--#.-#_
+#--####_
+####____
+ID: 21976
+Title: Level 6
+Author: Marti Homs Caussa
+
+__######
+__#.---#
+###-*--#
+#--*-###
+#--$*-#_
+##--@-#_
+_######_
+ID: 21977
+Title: Level 7
+Author: Marti Homs Caussa
+
+######_
+#----##
+#--*--#
+##----#
+###-*##
+#--$*-#
+#-.@--#
+#######
+ID: 21978
+Title: Level 8
+Author: Marti Homs Caussa
+
+######_
+#--.-#_
+#-#@-#_
+#--*-##
+##-*--#
+#--$--#
+#--*-##
+######_
+ID: 21979
+Title: Level 9
+Author: Marti Homs Caussa
+
+########
+#--#---#
+#-.--..#
+#---####
+#-$$$-#_
+###@--#_
+__#####_
+ID: 21980
+Title: Level 10
+Author: Marti Homs Caussa
+
+____####
+#####--#
+#-$----#
+#-..---#
+#-#-$-##
+#.$@###_
+##--#___
+_####___
+ID: 21981
+Title: Level 11
+Author: Marti Homs Caussa
+
+####____
+#--#####
+#@$-#--#
+#-*-*-.#
+##-----#
+_###--##
+___#--#_
+___####_
+ID: 21982
+Title: Level 12
+Author: Marti Homs Caussa
+
+__#####_
+###---##
+#..-#@-#
+#-**$--#
+##--$--#
+_###---#
+___##--#
+____####
+ID: 21983
+Title: Level 13
+Author: Marti Homs Caussa
+
+_#######
+_#-----#
+_#-----#
+_##--###
+###$####
+#-$-$-@#
+#--...-#
+########
+ID: 21984
+Title: Level 14
+Author: Marti Homs Caussa
+
+__####__
+__#-@#__
+__#$.#__
+__#-.###
+###----#
+#-$$---#
+#--.-###
+######__
+ID: 21985
+Title: Level 15
+Author: Marti Homs Caussa
+
+######__
+#----###
+#------#
+###$$--#
+###-$###
+#..-.#__
+###-@#__
+__####__
+ID: 21986
+Title: Level 16
+Author: Marti Homs Caussa
+
+__#####_
+__#---#_
+###-$-#_
+#-$---#_
+#-.##$##
+##-$.--#
+_#-.@.-#
+_#######
+ID: 21987
+Title: Level 17
+Author: Marti Homs Caussa
+
+########
+#.-#---#
+#---@--#
+#.$#####
+#--#####
+#-$$---#
+#.-#---#
+########
+ID: 21988
+Title: Level 18
+Author: Marti Homs Caussa
+
+____####
+_####--#
+##-@---#
+#-***.-#
+#--$---#
+#--#####
+####____
+ID: 21989
+Title: Level 19
+Author: Marti Homs Caussa
+
+__####__
+###--###
+#--@---#
+#-***..#
+#-$--$-#
+#--#####
+####____
+ID: 21990
+Title: Level 20
+Author: Marti Homs Caussa
+
+#####___
+#---###_
+#---*-#_
+#-*$--##
+#-#---.#
+#*@-####
+#--##___
+####____
+ID: 21991
+Title: Level 21
+Author: Marti Homs Caussa
+
+_#######
+_#--#--#
+##---*-#
+#--**#.#
+#-*-$--#
+###-@-##
+__#---#_
+__#####_
+ID: 21992
+Title: Level 22
+Author: Marti Homs Caussa
+
+#####_
+#---#_
+#---#_
+#--$##
+##$$@#
+_#-.-#
+_##..#
+__####
+ID: 21993
+Title: Level 23
+Author: Marti Homs Caussa
+
+######
+#-*--#
+#---.#
+#*$@##
+#---#_
+#####_
+ID: 21994
+Title: Level 24
+Author: Marti Homs Caussa
+
+######
+#-.--#
+#-$$@#
+#*$.-#
+#--.-#
+######
+ID: 21995
+Title: Level 25
+Author: Marti Homs Caussa
+
+_####__
+_#--#__
+_#--###
+##$.--#
+#--*--#
+#-.$@-#
+#######
+ID: 21996
+Title: Level 26
+Author: Marti Homs Caussa
+
+#####__
+#---##_
+#-*.-#_
+##$$@##
+#-$-.-#
+#-.---#
+#######
+ID: 21997
+Title: Level 27
+Author: Marti Homs Caussa
+
+_####__
+_#--###
+##-*-.#
+#-$$@-#
+#--.*-#
+#----##
+######_
+ID: 21998
+Title: Level 28
+Author: Marti Homs Caussa
+
+#######
+#-----#
+#*-#.-#
+#-$---#
+#-***-#
+#--@-##
+######_
+ID: 21999
+Title: Level 29
+Author: Marti Homs Caussa
+
+__#####
+###@--#
+#-----#
+#-*$.##
+#-$--#_
+#-.###_
+####___
+ID: 22000
+Title: Level 30
+Author: Marti Homs Caussa
+
+_####__
+##--###
+#----@#
+#-*-.-#
+#-$$-##
+#-.###_
+####___
+ID: 22001
+Title: Level 31
+Author: Marti Homs Caussa
+
+___####
+_###--#
+##--$-#
+#@-$$-#
+#-..--#
+##.####
+_###___
+ID: 22002
+Title: Level 32
+Author: Marti Homs Caussa
+
+__#####
+__#---#
+###---#
+#-$-$-#
+#@*..-#
+####--#
+___####
+ID: 22003
+Title: Level 33
+Author: Marti Homs Caussa
+
+######_
+#----##
+#--$$-#
+#-$@#-#
+##--..#
+_###-.#
+___####
+ID: 22004
+Title: Level 34
+Author: Marti Homs Caussa
+
+#######
+#-$-.-#
+#@##$-#
+#-*---#
+##-#-.#
+_#----#
+_######
+ID: 22005
+Title: Level 35
+Author: Marti Homs Caussa
+
+#######
+#--#--#
+#@--$-#
+#-$.*-#
+#-##--#
+#---.##
+######_
+ID: 22006
+Title: Level 36
+Author: Marti Homs Caussa

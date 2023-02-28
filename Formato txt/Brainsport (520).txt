@@ -1,0 +1,18 @@
+Let's Logic Collection ID: 520
+Title: Brainsport
+Author: Ian Hammond
+Description: Easy Level From Brainsport, Sokoban Clone or was that Brainstorm, I forgot the other levels if anyone remembers the orginals please email me.
+
+_#########
+_#@####--#
+_#$#-----#
+_#-#--##-#
+_#-##-##-#
+##-##-##-#
+#--##-##-#
+#-----##-#
+####--##.#
+___#######
+ID: 47807
+Title: Get Ready 4 Takeoff
+Author: Ian Hammond

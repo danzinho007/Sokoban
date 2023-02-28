@@ -1,0 +1,18 @@
+Let's Logic Collection ID: 528
+Title: The First One
+Author: Muhammad Umar
+Description: Better luck next time.
+
+_##########_
+_#.-....-.#_
+_#$##--##$#_
+##--------##
+#.--#--#--.#
+#----##----#
+##--------##
+_#-$$$$$$-#_
+_#---@----#_
+_##########_
+ID: 47833
+Title: Smiley
+Author: Muhammad Umar

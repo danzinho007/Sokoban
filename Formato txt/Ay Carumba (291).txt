@@ -1,0 +1,195 @@
+Let's Logic Collection ID: 291
+Title: Ay Carumba
+Author: Marti Homs Caussa
+Description:    
+
+_######_
+_#----#_
+_#$##.#_
+##-##.##
+#--@$.-#
+#-$----#
+###--###
+__####__
+ID: 22007
+Title: Level 1
+Author: Marti Homs Caussa
+
+_####__
+_#--###
+_#$---#
+_#@$.-#
+##$#.##
+#---.#_
+#----#_
+######_
+ID: 22008
+Title: Level 2
+Author: Marti Homs Caussa
+
+_#####_
+_#---#_
+##..$#_
+#--.-#_
+#-..$##
+##$$$-#
+_#@---#
+_######
+ID: 22009
+Title: Level 3
+Author: Marti Homs Caussa
+
+#######_
+#--@--##
+#--$*$-#
+###-.--#
+__##.-##
+___#.$-#
+___#---#
+___#####
+ID: 22010
+Title: Level 4
+Author: Marti Homs Caussa
+
+___####_
+####--#_
+#--#$.#_
+#---$.#_
+#--#$.##
+##-#---#
+_#--@--#
+_#######
+ID: 22011
+Title: Level 5
+Author: Marti Homs Caussa
+
+#######_
+#-----#_
+#-##$.#_
+#-$--.##
+####$.@#
+___#---#
+___##--#
+____####
+ID: 22012
+Title: Level 6
+Author: Marti Homs Caussa
+
+__#####_
+_##--.##
+_#.$-@-#
+##$-$--#
+#-.-####
+#-$-#___
+#-.-#___
+#####___
+ID: 22013
+Title: Level 7
+Author: Marti Homs Caussa
+
+__####_
+###--##
+#-.---#
+#..-$-#
+#-$-###
+###-##_
+__#@-#_
+__#$-#_
+__#--#_
+__####_
+ID: 22014
+Title: Level 8
+Author: Marti Homs Caussa
+
+#########
+#---@..-#
+#-$$$---#
+###-###-#
+__#----.#
+__#######
+ID: 22015
+Title: Level 9
+Author: Marti Homs Caussa
+
+#####____
+#-.-###__
+#-.-$-###
+#-@-.---#
+##-#.#--#
+_#-$--###
+_##$$-#__
+__#---#__
+__#####__
+ID: 22016
+Title: Level 10
+Author: Marti Homs Caussa
+
+__####_
+###.-#_
+#-@-$##
+#-***-#
+##----#
+_#----#
+_######
+ID: 22017
+Title: Level 11
+Author: Marti Homs Caussa
+
+_#####__
+_#@.-#__
+##--$###
+#--*---#
+#-*-*--#
+##---###
+_#####__
+ID: 22018
+Title: Level 12
+Author: Marti Homs Caussa
+
+__####_
+_##--#_
+##-$-#_
+#-.$.##
+#--$.-#
+###@--#
+__##--#
+___####
+ID: 22019
+Title: Level 13
+Author: Marti Homs Caussa
+
+#######_
+#-.$--##
+#------#
+##$-#--#
+#-$-#--#
+#..-####
+##-@#___
+_####___
+ID: 22020
+Title: Level 14
+Author: Marti Homs Caussa
+
+_#####_
+##-@.#_
+#..$##_
+#-$-###
+##----#
+_#-$--#
+_#--###
+_####__
+ID: 22021
+Title: Level 15
+Author: Marti Homs Caussa
+
+____####
+__###.-#
+###--..#
+#--$--##
+#-$--##_
+#-$-@#__
+#--###__
+####____
+ID: 22022
+Title: Level 16
+Author: Marti Homs Caussa

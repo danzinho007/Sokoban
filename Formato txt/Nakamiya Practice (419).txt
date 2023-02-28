@@ -1,0 +1,138 @@
+Let's Logic Collection ID: 419
+Title: Nakamiya Practice
+Author: Hirohiko Nakamiya
+Description: Collection ;;amp;;quot;Practise\" by Hirohiko Nakamiya\r\n  
+
+___####_
+_###@-##
+##--$$-#
+#-$----#
+#...-###
+######__
+ID: 40483
+Title: Nakamiya #01
+Author: Hirohiko Nakamiya
+
+######
+#----#
+#.--.#
+#$$$$#
+#.--.#
+#--@-#
+######
+ID: 40484
+Title: Nakamiya #02
+Author: Hirohiko Nakamiya
+
+#########
+#---#---#
+#---#-$-#
+#-.-#-$-#
+#-.----##
+#-.-#-$-#
+#-.-#$$-#
+#-.-#--@#
+#########
+ID: 40485
+Title: Nakamiya #03
+Author: Hirohiko Nakamiya
+
+##########
+#--#-----#
+#--#-----#
+#--##$$$##
+#--------#
+#...#@#--#
+##########
+ID: 40486
+Title: Nakamiya #04
+Author: Hirohiko Nakamiya
+
+__#####_
+__#---#_
+###-#$##
+#.-$-$-#
+#.----@#
+#.######
+###_____
+ID: 40487
+Title: Nakamiya #05
+Author: Hirohiko Nakamiya
+
+####______
+#--#######
+#--$-$-$-#
+#...----@#
+##########
+ID: 40488
+Title: Nakamiya #06
+Author: Hirohiko Nakamiya
+
+#########
+#---#---#
+#-$.#.$-#
+#-$.@.$-#
+#-$.#.$-#
+#---#---#
+#########
+ID: 40489
+Title: Nakamiya #07
+Author: Hirohiko Nakamiya
+
+######____
+#.$--##___
+#.-$--##__
+#.#-$--##_
+#.##-$--##
+#.@##-$--#
+######---#
+_____#####
+ID: 40490
+Title: Nakamiya #08
+Author: Hirohiko Nakamiya
+
+#########
+#-#-----#
+#-....#-#
+#-------#
+##-###-##
+#-------#
+#-#$$$$-#
+#-----#@#
+#########
+ID: 40491
+Title: Nakamiya #09
+Author: Hirohiko Nakamiya
+
+_#########
+_#--#----#
+_#--@-$#-#
+##--#-$--#
+#---#-$#-#
+#...##---#
+##########
+ID: 40492
+Title: Nakamiya #10
+Author: Hirohiko Nakamiya
+
+########
+#.-#---#
+#.---$-#
+#.-$#$-#
+#.-$--@#
+########
+ID: 40493
+Title: Nakamiya #11
+Author: Hirohiko Nakamiya
+
+_##########
+_#@--##---#
+_#-$-$--#-#
+###$##--#-#
+#..--#--$-#
+#..--#----#
+#--########
+####_______
+ID: 40494
+Title: Nakamiya #12
+Author: Hirohiko Nakamiya

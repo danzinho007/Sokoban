@@ -1,0 +1,30 @@
+Let's Logic Collection ID: 610
+Title: Tributes
+Author: Razorflame
+Description: A selection of levels created as tributes to some of the best solvers and creators of Sokoban puzzles out there.  I have invoked the help of several other experts in making these levels.  Enjoy!
+
+######################
+#--------------------#
+#-*$*-*$*-*$*-*$*-*-.#
+#--*-*-*-*-*-*-*-*-*-#
+#-*@*-*-*-*-*-*-*-*$.#
+#-$*-*-*-*-*-*-*-*-*-#
+#-*-*-*-*-*-*-*-*-*-.#
+#--*-*-*-*-*-*-*-*-*-#
+#-*-*-*-*-*-*-*-*-*$.#
+#-$*-*-*-*-*-*-*-*-*-#
+#-*-*-*-*-*-*-*-*-*-.#
+#--*-*-*-*-*-*-*-*-*-#
+#-*-*-*-*-*-*-*-*-*$.#
+#-$*-*-*-*-*-*-*-*-*-#
+#-*-*-*-*-*-*-*-*-*-.#
+#--*-*-*-*-*-*-*-*-*-#
+#-*-*-*-*-*-*-*-*-*$.#
+#-$*-*-*-*-*-*-*-*-*-#
+#-*-*-*-*-*-*-*-*-*-.#
+#-$*-*$*-*$*-*$*-*$*-#
+#-.-.-.-.-.-.-.-.----#
+######################
+ID: 83237
+Title: Gyjgw, Stopheart Tribute
+Author: gyjgw + TianLang + anian + Razorflame

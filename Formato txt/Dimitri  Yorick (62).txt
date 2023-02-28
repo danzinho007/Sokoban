@@ -1,0 +1,627 @@
+Let's Logic Collection ID: 62
+Title: Dimitri & Yorick
+Author: Jacques Duthen
+Description: This is a series of simple sokoban puzzles for (my) kids
+
+#######
+#-----#
+#--$$-#
+#-$-$@#
+#..####
+#..#___
+####___
+ID: 4147
+Title: Level 1
+Author: Jacques Duthen
+
+__#####
+__#.--#
+###---#
+#-$*$-#
+#---###
+#@-.#__
+#####__
+ID: 4148
+Title: Level 2
+Author: Jacques Duthen
+
+########
+#-----.#
+#---$$@#
+#--#--.#
+########
+ID: 4149
+Title: Level 3
+Author: Jacques Duthen
+
+#######
+#----.#
+#--$$.#
+#--#-@#
+#######
+ID: 4150
+Title: Level 4
+Author: Jacques Duthen
+
+########
+#-----.#
+#--$$-@#
+#--#--.#
+########
+ID: 4151
+Title: Level 5
+Author: Jacques Duthen
+
+######
+#---.#
+#-$$@#
+#--#.#
+######
+ID: 4152
+Title: Level 6
+Author: Jacques Duthen
+
+######
+#---.#
+#-$$.#
+#-$@.#
+######
+ID: 4153
+Title: Level 7
+Author: Jacques Duthen
+
+########
+#---#--#
+#-----.#
+#-$$--@#
+#-#---.#
+########
+ID: 4154
+Title: Level 8
+Author: Jacques Duthen
+
+######
+#---.#
+#-$$+#
+#--#-#
+#----#
+######
+ID: 4155
+Title: Level 9
+Author: Jacques Duthen
+
+######
+#---.#
+#-$$@#
+#--#-#
+#.---#
+######
+ID: 4156
+Title: Level 10
+Author: Jacques Duthen
+
+######
+#-@-.#
+#-$$-#
+#--#.#
+#----#
+######
+ID: 4157
+Title: Level 11
+Author: Jacques Duthen
+
+######
+#---.#
+#-$$@#
+#--#-#
+#-.--#
+######
+ID: 4158
+Title: Level 12
+Author: Jacques Duthen
+
+_#####
+##@-.#
+#-$$.#
+#----#
+######
+ID: 4159
+Title: Level 13
+Author: Jacques Duthen
+
+######
+#---.#
+#-$$-#
+#-@###
+##.#__
+_###__
+ID: 4160
+Title: Level 14
+Author: Jacques Duthen
+
+######
+#-@-.#
+#-$$-#
+#--#-#
+#---.#
+######
+ID: 4161
+Title: Level 15
+Author: Jacques Duthen
+
+#######
+#--$-.#
+#--@$-#
+#--#$.#
+#--.-##
+######_
+ID: 4162
+Title: Level 16
+Author: Jacques Duthen
+
+######
+#-@-.#
+#-$$-#
+#--#-#
+##.--#
+_#####
+ID: 4163
+Title: Level 17
+Author: Jacques Duthen
+
+#######
+#----.#
+#-$$#.#
+#-$@-.#
+#-----#
+#######
+ID: 4164
+Title: Level 18
+Author: Jacques Duthen
+
+########
+#-----.#
+#-@$$$.#
+#--#--.#
+########
+ID: 4165
+Title: Level 19
+Author: Jacques Duthen
+
+#######
+#-----#
+#----.#
+#@$$$.#
+#--#-.#
+#######
+ID: 4166
+Title: Level 20
+Author: Jacques Duthen
+
+#######
+#----.#
+#@$$$.#
+#---#.#
+#######
+ID: 4167
+Title: Level 21
+Author: Jacques Duthen
+
+######
+#-@$.#
+#----#
+#-$#.#
+#----#
+######
+ID: 4168
+Title: Level 22
+Author: Jacques Duthen
+
+########
+#---#-.#
+#---$$@#
+####---#
+___#--.#
+___#####
+ID: 4169
+Title: Level 23
+Author: Jacques Duthen
+
+########
+#---#-.#
+#---$$+#
+####---#
+___#---#
+___#####
+ID: 4170
+Title: Level 24
+Author: Jacques Duthen
+
+_#####
+##--.#
+#-$$-#
+#-@.##
+#####_
+ID: 4171
+Title: Level 25
+Author: Jacques Duthen
+
+_#######
+##----.#
+#---$$@#
+#---#-.#
+########
+ID: 4172
+Title: Level 26
+Author: Jacques Duthen
+
+_#####
+##--.#
+#-$$@#
+#-.--#
+######
+ID: 4173
+Title: Level 27
+Author: Jacques Duthen
+
+_####__
+_#--#__
+##--###
+#----.#
+#-$$-@#
+#-#--.#
+#######
+ID: 4174
+Title: Level 28
+Author: Jacques Duthen
+
+__####__
+_##--###
+##-----#
+#--@$$.#
+#---#-.#
+########
+ID: 4175
+Title: Level 29
+Author: Jacques Duthen
+
+######
+#.--.#
+#-$$-#
+#$-#-#
+#@--.#
+######
+ID: 4176
+Title: Level 30
+Author: Jacques Duthen
+
+######
+#.--.#
+#-$$-#
+#$-#-#
+#@-.-#
+######
+ID: 4177
+Title: Level 31
+Author: Jacques Duthen
+
+_#####
+_#---#
+##--.#
+#-$$-#
+#-.@##
+#####_
+ID: 4178
+Title: Level 32
+Author: Jacques Duthen
+
+#########
+#---#--.#
+#---$$-@#
+####---.#
+___#--###
+___####__
+ID: 4179
+Title: Level 33
+Author: Jacques Duthen
+
+########
+#---#-.#
+#---$$@#
+####--.#
+___#--##
+___#--#_
+___####_
+ID: 4180
+Title: Level 34
+Author: Jacques Duthen
+
+########_
+#---#-.#_
+#---$$.##
+####---@#
+___#-##-#
+___#----#
+___######
+ID: 4181
+Title: Level 35
+Author: Jacques Duthen
+
+########
+#---#-.#
+#---$$.#
+####--@#
+___##--#
+____####
+ID: 4182
+Title: Level 36
+Author: Jacques Duthen
+
+######
+#-@$.#
+#-$$.#
+#--#.#
+#----#
+######
+ID: 4183
+Title: Level 37
+Author: Jacques Duthen
+
+########
+#---#-.#
+#---$$@#
+####--.#
+___##--#
+____#--#
+____####
+ID: 4184
+Title: Level 38
+Author: Jacques Duthen
+
+#######
+#----.#
+#-$$--#
+###@#-#
+__#--.#
+__#####
+ID: 4185
+Title: Level 39
+Author: Jacques Duthen
+
+########
+#---#-.#
+#---$$@#
+####--.#
+___#---#
+___#####
+ID: 4186
+Title: Level 40
+Author: Jacques Duthen
+
+########
+#---#-.#
+#---$$@#
+###---.#
+__######
+ID: 4187
+Title: Level 41
+Author: Jacques Duthen
+
+########
+#---#-.#
+#---$$.#
+####--@#
+___#--##
+___####_
+ID: 4188
+Title: Level 42
+Author: Jacques Duthen
+
+########
+#---#-.#
+#---$$.#
+#--#--@#
+#----###
+######__
+ID: 4189
+Title: Level 43
+Author: Jacques Duthen
+
+#######
+#--#-.#
+#--$$.#
+#-#--@#
+#----##
+######_
+ID: 4190
+Title: Level 44
+Author: Jacques Duthen
+
+####___
+#--####
+#--#-.#
+#--$$.#
+##---@#
+_#--###
+_####__
+ID: 4191
+Title: Level 45
+Author: Jacques Duthen
+
+____####
+#####-.#
+#---$$.#
+#-#---@#
+#---####
+#####___
+ID: 4192
+Title: Level 46
+Author: Jacques Duthen
+
+#####__
+#---###
+#..$$.#
+#-$$@-#
+#---.##
+######_
+ID: 4193
+Title: Level 47
+Author: Jacques Duthen
+
+#####__
+#---###
+#..$$.#
+#-$$@-#
+##--.##
+_#####_
+ID: 4194
+Title: Level 48
+Author: Jacques Duthen
+
+#######
+#-----#
+#-+$#-#
+#-**--#
+#-*---#
+#######
+ID: 4195
+Title: Level 49
+Author: Jacques Duthen
+
+#######
+#-----#
+#-----#
+#--#--#
+#$$$$$#
+#..+..#
+#######
+ID: 4196
+Title: Level 50
+Author: Jacques Duthen
+
+########
+#.....-#
+#$-##$-#
+#-$##--#
+#--$@$-#
+#-----##
+#######_
+ID: 4197
+Title: Level 51
+Author: Jacques Duthen
+
+########
+#......#
+#-$##$-#
+#--##--#
+#-$$@$$#
+#------#
+#---#--#
+########
+ID: 4198
+Title: Level 52
+Author: Jacques Duthen
+
+####_
+#-@#_
+#-$##
+#-$.#
+#-$.#
+#-$.#
+###.#
+__###
+ID: 4199
+Title: Level 53
+Author: Jacques Duthen
+
+#######
+#.-...#
+#-$-#-#
+#$#$$@#
+#----##
+#---##_
+#####__
+ID: 4200
+Title: Level 54
+Author: Jacques Duthen
+
+______####__
+______#--###
+#######----#
+#-$-*.-*.$@#
+#-----#----#
+############
+ID: 4201
+Title: Level 55
+Author: Jacques Duthen
+
+#####_#####
+#--@#_#---#
+#-$$###-$-#
+#-..---.--#
+###########
+ID: 4202
+Title: Level 56
+Author: Jacques Duthen
+
+________#####
+#########---#
+#--......$--#
+#---#$###---#
+###-$@$-#---#
+__#-$-$-#---#
+__#-----#####
+__#######____
+ID: 4203
+Title: Level 57
+Author: Jacques Duthen
+
+_______#####
+########---#
+#-......$--#
+#--#$###---#
+##-$@$-#---#
+_#-$-$-#---#
+_#-----#####
+_#######____
+ID: 4204
+Title: Level 58
+Author: Jacques Duthen
+
+#######
+#.---.#
+#-#-$-#
+#@$$#-#
+#---$-#
+#.-#-.#
+#######
+ID: 4205
+Title: Level 59
+Author: Jacques Duthen
+
+_######
+##---.#
+#.--$-#
+#$#$#-#
+#@--$-#
+#.--#.#
+#######
+ID: 4206
+Title: Level 60
+Author: Jacques Duthen
+
+######____
+#----#____
+#--$-####_
+#-$$-#--##
+#-#-##$--#
+#...--..-#
+#######-##
+#---##---#
+#@$---.$-#
+#---##---#
+#---######
+#####_____
+ID: 4207
+Title: Level 61
+Author: Jacques Duthen

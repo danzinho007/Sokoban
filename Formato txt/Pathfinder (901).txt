@@ -1,0 +1,108 @@
+Let's Logic Collection ID: 901
+Title: Pathfinder
+Author: SLTCPE
+Description: 
+
+#####_
+#-.-##
+#-$$-#
+#-@$.#
+#.---#
+######
+ID: 100687
+Title: Pathfinder #1
+Author: SLTCPE
+
+__####_
+###--##
+#-----#
+#-*$--#
+##+*-##
+_##--#_
+__####_
+ID: 100688
+Title: Pathfinder #2
+Author: SLTCPE
+
+#####__
+#..@###
+##$$--#
+_#.-$-#
+_##---#
+__#####
+ID: 100689
+Title: Pathfinder #3
+Author: SLTCPE
+
+######
+#-$.-#
+#.$$.#
+#-$--#
+#@-.-#
+######
+ID: 100690
+Title: Pathfinder #4
+Author: SLTCPE
+
+_#####_
+_#--@#_
+##$#-#_
+#--$-#_
+#.--$##
+###.-.#
+__#####
+ID: 100691
+Title: Pathfinder #5
+Author: SLTCPE
+
+######
+#.*-.#
+###--#
+#--$$#
+#@---#
+######
+ID: 100692
+Title: Pathfinder #6
+Author: SLTCPE
+
+##########
+#-.$-#.$.#
+#@$$-$---#
+#-.--#.--#
+##########
+ID: 100693
+Title: Pathfinder #7
+Author: SLTCPE
+
+####___
+#-.#___
+#-$####
+#--.-.#
+##$#-##
+_#-$-#_
+_#--@#_
+_#####_
+ID: 100694
+Title: Pathfinder #8
+Author: SLTCPE
+
+#######
+#---..#
+#-$*$-#
+#--@###
+##--#__
+_####__
+ID: 100695
+Title: Pathfinder #9
+Author: SLTCPE
+
+#####__
+#---##_
+#-.$-##
+#.$-$-#
+#$.$.-#
+#+$.--#
+#######
+ID: 100696
+Title: Pathfinder #10
+Author: SLTCPE

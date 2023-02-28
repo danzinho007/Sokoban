@@ -1,0 +1,49 @@
+Let's Logic Collection ID: 367
+Title: Microban 01 Arranged
+Author: York Shen
+Description: Arrangements of David W. Skinner\'s levels\r\nThey are published with David W. Skinner\'s permission\r\noriginal level page: http://users.bentonrea.com/~sasquatch/sokoban/
+
+__#####______
+__#---#______
+__#-#-#######
+__#--*--#---#
+__##-##---#-#
+__#---*-#*--#
+###-#-#-#-###
+#--*#$+---#__
+#-#---##-##__
+#---#--*--#__
+#######-#-#__
+______#---#__
+______#####__
+ID: 27135
+Title: Microban 101a
+Author: David W. Skinner and York Shen
+
+___#####___
+___#-@-#___
+__##---##__
+###.$$$.###
+#--$...$--#
+#--$.#.$--#
+#--$.*.$--#
+###.$$$.###
+__##-.-##__
+___#---#___
+___#####___
+ID: 27136
+Title: Microban 145a
+Author: David W. Skinner and York Shen
+
+_#######_
+##--.--##
+#-.$$$.-#
+#-$-+-$-#
+#.$.*.$.#
+#-$-.-$-#
+#-.$$$.-#
+##--.--##
+_#######_
+ID: 27137
+Title: Microban 146a
+Author: David W. Skinner and York Shen

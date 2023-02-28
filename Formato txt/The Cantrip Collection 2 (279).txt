@@ -1,0 +1,184 @@
+Let's Logic Collection ID: 279
+Title: The Cantrip Collection 2
+Author: David Holland
+Description: Date of Last Change:   Set:       Cantrip2 Email:     david@clickfest88.freeserve.co.uk Homepage:  http://www.clickfest88.freeserve.co.uk/  Archives:  http://web.archive.org/web/*/http://clickfest88.freeserve.co.uk/   This Sokoban level set is published here with the author's permission.  The level set is distributed in a text format, that can be imported by most of the major Sokoban programs.  For Microsoft Windows Â® we recommend using ;;amp;;quot;Sokoban YASC", which can be downloaded from: http://sourceforge.net/projects/sokobanyasc/  Enjoy!  SOKOBAN Project         at http://sokobano.de/ Sokoban WIKI            at http://sokobano.de/wiki/   unfinished Sokoban collection by David Holland  Original release date: July 09 2002   
+
+___####_____
+__##--#_____
+__#-.-#_____
+__#---##____
+####-.-#####
+#--#-#---$@#
+#-$--*-#$$-#
+#--.-#$..-##
+##*#-.-$-##_
+_#---#####__
+_#####______
+ID: 21581
+Title: triplet2
+Author: David Holland
+
+###########
+#----.--$@#
+#--*#-#*--#
+##--*..-###
+_#$-#.#$-#_
+_#--$.$--#_
+_#--###--#_
+_####_####_
+ID: 21582
+Title: face1
+Author: David Holland
+
+__#####__
+_##---#__
+_#--#$###
+_#-.-*--#
+_#-..*--#
+###.-.#-#
+#@$$$-$-#
+#---#####
+#####____
+ID: 21583
+Title: aitch11
+Author: David Holland
+
+____#####___
+_####---#___
+_#-$@*--####
+##-###-##--#
+#-$.#--#.--#
+#----$-$---#
+#-.*-#.-**-#
+###--#---###
+__########__
+ID: 21584
+Title: engine1
+Author: David Holland
+
+___#####__
+___#---#__
+####$$-###
+#-$-.#-*-#
+#--#.-.--#
+#--.-*#$-#
+##.-#.$@##
+_##$---##_
+__#---##__
+__#####___
+ID: 21585
+Title: eightpin14
+Author: David Holland
+
+_##########_
+##---##--.#_
+#-$--##*#.##
+#--$---.*.-#
+#---$-#.$.-#
+###-$-#*#--#
+__###$#---##
+____#--#-##_
+____##-@-#__
+_____#####__
+ID: 21586
+Title: Area52
+Author: David Holland
+
+___#####_
+####---##
+#--#$---#
+#-.-.$.-#
+#-.$*-*-#
+##-.*.$##
+_#-$#$-#_
+_##-@--#_
+__######_
+ID: 21587
+Title: trident4
+Author: David Holland
+
+______#####
+#######---#
+#--#@$----#
+#-.-*$#$$-#
+#-*.--#--##
+##--#-$-##_
+_##.**#-.#_
+__#.-----#_
+__##--#--#_
+___#######_
+ID: 21588
+Title: crosstwist27
+Author: David Holland
+
+___#####___
+__##---####
+_##--#$$--#
+_#--#---*@#
+_#-##.#$###
+##--...-###
+#--.#*#---#
+#---$-$-#-#
+####-.--$-#
+___###--###
+_____####__
+ID: 21589
+Title: meshcross1
+Author: David Holland
+
+#####______
+#---####___
+#----$-#___
+##--$#-##__
+_#-#..*-##_
+_#.*.-#-@#_
+_##$#-*$##_
+__#---$.-##
+__##---$.-#
+___####---#
+______#####
+ID: 21590
+Title: rugby15
+Author: David Holland
+
+##########__
+#---#@---#__
+#---***#-###
+##-#.*.#$--#
+_#-#-*.----#
+_#--#.###-##
+_#--#-----#_
+_#--$-$#--#_
+_####-$-###_
+____#---#___
+____#####___
+ID: 21591
+Title: hinge10
+Author: David Holland
+
+##########_
+#---##---##
+#----$----#
+##$##-...-#
+#--$-#*#.##
+#----*+#.#_
+#--$$##--#_
+#--#--#$-#_
+####---$-#_
+___#-.####_
+___####____
+ID: 21592
+Title: anaconda15
+Author: David Holland
+
+_########
+_#------#
+##$*-*-$#
+#-$.-.#.#
+#@$.#.-.#
+##$*$*--#
+_#------#
+_########
+ID: 21593
+Title: footy6
+Author: David Holland

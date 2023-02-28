@@ -1,0 +1,229 @@
+Let's Logic Collection ID: 82
+Title: Scoria 01
+Author: Thomas Reinke
+Description: This is my first level set in around a year. All of the levels are easy, with only 3 boxes.
+
+__####
+__#--#
+###-.#
+#--*-#
+#-#@-#
+#-$*-#
+##---#
+_#####
+ID: 5415
+Title: Level 1
+Author: Thomas Reinke
+
+######_
+#----#_
+#-#.-##
+#--$$-#
+###*+-#
+__#---#
+__#####
+ID: 5416
+Title: Level 2
+Author: Thomas Reinke
+
+_####__
+_#-@#__
+##$*###
+#--.--#
+#-#.--#
+#-$--##
+###--#_
+__####_
+ID: 5417
+Title: Level 3
+Author: Thomas Reinke
+
+_#####_
+_#---#_
+##..$##
+#--.--#
+#--$$-#
+####@-#
+___####
+ID: 5418
+Title: Level 4
+Author: Thomas Reinke
+
+#######
+#-.---#
+#-#$--#
+#-$.#-#
+##.$@-#
+_#--###
+_#--#__
+_####__
+ID: 5419
+Title: Level 5
+Author: Thomas Reinke
+
+_#####__
+_#---###
+##-#---#
+#@$.-.-#
+#-$*#-##
+##----#_
+_######_
+ID: 5420
+Title: Level 6
+Author: Thomas Reinke
+
+_#####__
+_#---##_
+_#-#-.##
+##$-.--#
+#@$.$--#
+#---####
+#####___
+ID: 5421
+Title: Level 7
+Author: Thomas Reinke
+
+_####__
+##--###
+#--$--#
+#-+$--#
+##-$###
+_#.-.-#
+_#----#
+_######
+ID: 5422
+Title: Level 8
+Author: Thomas Reinke
+
+__####_
+_##--#_
+##-.-##
+#-$*$-#
+#-#.--#
+#--@--#
+#######
+ID: 5423
+Title: Level 9
+Author: Thomas Reinke
+
+#####__
+#---###
+#-$@--#
+##*-.-#
+#-*-#-#
+#-----#
+#######
+ID: 5424
+Title: Level 10
+Author: Thomas Reinke
+
+___#####
+####---#
+#-$--#.#
+#-#*---#
+#--@$.-#
+###--###
+__####__
+ID: 5425
+Title: Level 11
+Author: Thomas Reinke
+
+__####_
+###--#_
+#-+*-##
+#-#$--#
+#---#-#
+#---*-#
+#######
+ID: 5426
+Title: Level 12
+Author: Thomas Reinke
+
+_####__
+##--#__
+#--$###
+#-.$--#
+#-.*--#
+###@--#
+__#####
+ID: 5427
+Title: Level 13
+Author: Thomas Reinke
+
+___####_
+__##--#_
+###-.$#_
+#--$.-##
+#@-$.--#
+####---#
+___#####
+ID: 5428
+Title: Level 14
+Author: Thomas Reinke
+
+__#####_
+###---#_
+#--$#.##
+#-#.---#
+#---*@-#
+####$-##
+___#--#_
+___####_
+ID: 5429
+Title: Level 15
+Author: Thomas Reinke
+
+#####___
+#---##__
+#-#@-###
+#--**.-#
+#-$--#-#
+####---#
+___#####
+ID: 5430
+Title: Level 16
+Author: Thomas Reinke
+
+#####__
+#---###
+#---$-#
+##$*--#
+_#-..##
+_#@-##_
+_####__
+ID: 5431
+Title: Level 17
+Author: Thomas Reinke
+
+######__
+#--.-###
+#-$$$@-#
+#-.#.--#
+#----###
+######__
+ID: 5432
+Title: Level 18
+Author: Thomas Reinke
+
+__####__
+###--#__
+#@.-$#__
+#-#--###
+#-*-*--#
+###----#
+__######
+ID: 5433
+Title: Level 19
+Author: Thomas Reinke
+
+####___
+#--####
+#---$-#
+#-*.#-#
+##$.--#
+_#@-###
+_#--#__
+_####__
+ID: 5434
+Title: Level 20
+Author: Thomas Reinke

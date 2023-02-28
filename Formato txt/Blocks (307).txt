@@ -1,0 +1,108 @@
+Let's Logic Collection ID: 307
+Title: Blocks
+Author: Dries de Clercq
+Description:    
+
+####
+#@-#
+#$$#
+#--#
+#..#
+####
+ID: 23105
+Title: blocks-2-4
+Author: Dries de Clercq
+
+######
+#@$-.#
+#-$$.#
+#--###
+#.-#__
+####__
+ID: 23106
+Title: blocks-3-8
+Author: Dries de Clercq
+
+########
+#..$-$-#
+#.---$@#
+########
+ID: 23107
+Title: blocks-3-9
+Author: Dries de Clercq
+
+__######
+__#.$--#
+###----#
+#--$$###
+#.--+#__
+######__
+ID: 23108
+Title: blocks-4-15
+Author: Dries de Clercq
+
+######
+#--$.#
+#--$@#
+#$-$.#
+#..$.#
+######
+ID: 23109
+Title: blocks-4-15b
+Author: Dries de Clercq
+
+##########
+#-$----.-#
+#..-$@$--#
+##########
+ID: 23110
+Title: blocks-4-16
+Author: Dries de Clercq
+
+########
+#----*.#
+#--$-$@#
+#-$#####
+#..#____
+####____
+ID: 23111
+Title: blocks-4-19
+Author: Dries de Clercq
+
+__####__
+__#--#__
+###-.###
+#---$$-#
+#.---$+#
+########
+ID: 23112
+Title: blocks-4-21
+Author: Dries de Clercq
+
+############
+#-$-----.*@#
+#..---$-$--#
+############
+ID: 23113
+Title: blocks-5-27
+Author: Dries de Clercq
+
+##########
+#-----.*+#
+#--$-$-$-#
+#-$#######
+#..#______
+####______
+ID: 23114
+Title: blocks-5-35
+Author: Dries de Clercq
+
+##########
+#.-.--$-.#
+#-$$--$@-#
+###.-#####
+__#--#____
+__####____
+ID: 23115
+Title: blocks-5-41
+Author: Dries de Clercq

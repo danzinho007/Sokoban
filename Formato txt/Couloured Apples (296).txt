@@ -1,0 +1,184 @@
+Let's Logic Collection ID: 296
+Title: Couloured Apples
+Author: Marti Homs Caussa
+Description:    
+
+_####___
+_#--####
+_#-----#
+##$..-.#
+#--##@##
+#-$$--#_
+#-----#_
+#######_
+ID: 22110
+Title: introduction to coloured apples
+Author: Marti Homs Caussa
+
+######__
+#----###
+#-#--$-#
+#--$#@.#
+#-#-##-#
+#.-$-.-#
+#--#---#
+########
+ID: 22111
+Title: funtastic white apple
+Author: Marti Homs Caussa
+
+_#######
+_#--#@-#
+_#-$$--#
+##--#--#
+#.-$#-##
+##.-.-#_
+_###--#_
+___####_
+ID: 22112
+Title: yellow apple
+Author: Marti Homs Caussa
+
+####____
+#--#####
+#--$-#.#
+#--$.@-#
+#--$.--#
+###----#
+__#----#
+__######
+ID: 22113
+Title: grey apple
+Author: Marti Homs Caussa
+
+__#####
+__#---#
+###.--#
+#--.-@#
+#-$#*##
+#-$--#_
+#---##_
+#####__
+ID: 22114
+Title: funtastic black apple
+Author: Marti Homs Caussa
+
+####____
+#--###__
+#-.$.###
+#--$---#
+###--@.#
+__#$-###
+__#--#__
+__####__
+ID: 22115
+Title: orange apple
+Author: Marti Homs Caussa
+
+_######_
+_#----#_
+_#$#*-##
+_#@$-.-#
+##-#.--#
+#-*--###
+#----#__
+######__
+ID: 22116
+Title: golden apple
+Author: Marti Homs Caussa
+
+___####_
+####--##
+#--$---#
+#-$--#-#
+#.#@-#-#
+#.#-$-.#
+#--.$-##
+#######_
+ID: 22117
+Title: pink apple
+Author: Marti Homs Caussa
+
+######__
+#-..-#__
+#--#-###
+##--$--#
+_#---#-#
+_#-#$$-#
+_#.-@*-#
+_#######
+ID: 22118
+Title: green apple
+Author: Marti Homs Caussa
+
+___####_
+___#--#_
+####--#_
+#---$@#_
+#.-.$###
+#.-$---#
+#--#---#
+########
+ID: 22119
+Title: blue apple
+Author: Marti Homs Caussa
+
+########
+#--##--#
+#------#
+#.###-@#
+#-$-$-##
+##$.-.-#
+_#-----#
+_#######
+ID: 22120
+Title: purple apple
+Author: Marti Homs Caussa
+
+########
+#-$---.#
+#--#.--#
+#@--$$##
+#--##-.#
+####---#
+___#---#
+___#####
+ID: 22121
+Title: dark apple
+Author: Marti Homs Caussa
+
+___####_
+####@-##
+#-$--$-#
+#..--#-#
+#.-#$--#
+##---$-#
+#.---###
+######__
+ID: 22122
+Title: brown apple
+Author: Marti Homs Caussa
+
+#####___
+#-.@#___
+#-.$####
+#---#--#
+#--$#--#
+#--$---#
+#.-#--##
+#######_
+ID: 22123
+Title: red apple
+Author: Marti Homs Caussa
+
+#######_
+#-----#_
+#-#$#-##
+#-*-@*-#
+###-.--#
+__#-*-##
+__##--#_
+___####_
+ID: 22124
+Title: last apple in dub
+Author: Marti Homs Caussa

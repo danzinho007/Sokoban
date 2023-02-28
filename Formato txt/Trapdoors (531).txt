@@ -1,0 +1,22 @@
+Let's Logic Collection ID: 531
+Title: Trapdoors
+Author: Wilfrid Geiser
+Description: Note that there are as many o's in the title as there are trapdoors in the level. Like most levels with &quot;fixed topology&quot; this too is above all a matter of logical analysis. So if you are quick it will take you about 10 minutes to solve. 10 minutes of breathless run, not of thinking, though ;-)
+
+#################
+#---#--#----#---#
+#---$--#-$$-$---#
+##$##--#----##$##
+#--##$##-##$##-#_
+#--$---..$---#-#_
+#--####..#--@#-#_
+###--##$######-#_
+__#--$---#....-#_
+__#--#---#...#-##
+__##$#####.$$$--#
+__#---$----.....#
+__#---###########
+__#####__________
+ID: 47841
+Title: Trapdooooooooors
+Author: Wilfrid Geiser

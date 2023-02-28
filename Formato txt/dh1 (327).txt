@@ -1,0 +1,167 @@
+Let's Logic Collection ID: 327
+Title: dh1
+Author: David Holland
+Description: Date of Last Change:   Set:       dh1 Email:     david@clickfest88.freeserve.co.uk Homepage:  http://www.clickfest88.freeserve.co.uk/  Archives:  http://web.archive.org/web/*/http://clickfest88.freeserve.co.uk/            http://web.archive.org/web/20040606032319/www.clickfest88.freeserve.co.uk/dh1/index.html            http://web.archive.org/web/20040529083926/www.clickfest88.freeserve.co.uk/dh1/dh1.txt   This Sokoban level set is published here with the author's permission.  The level set is distributed in a text format, that can be imported by most of the major Sokoban programs.  For Microsoft Windows Â® we recommend using ;;amp;;quot;Sokoban YASC", which can be downloaded from: http://sourceforge.net/projects/sokobanyasc/  Enjoy!  SOKOBAN Project         at http://sokobano.de/ Sokoban WIKI            at http://sokobano.de/wiki/   The dh1 Sokoban levels by David Holland  Original release date: October 2000  Author's note: I have experimented with computer-generation for several of the smaller puzzles hence the "co-authorship" with sokgen (a computer program of mine). If you like the puzzles email me and if you have stylistic criticisms direct them to sokgen :-)  For those interested in the programming: sokgen uses exhaustive search of a puzzle space (backwards from a solved position). This can only be achieved for (very) small puzzles (about 100,000 "nodes" is the limit for my computer system, where a "node" represents a single legal push and movements of the man are not represented for brevity). For the co-authored puzzles, I designed the maze and placed the goals, and sokgen generated start positions of stones and (usually) push-minimal solutions at the largest push-depth possible.  These levels may be distributed freely as long as this copyright message is retained.   
+
+_______##____
+_____##--###_
+___##-$-$---#
+__#---#..#$-#
+__#-$$#*.#--#
+__#---....$-#
+__#-#-.#.#--#
+_#-$##$#.#$-#
+_#-@$----.$-#
+__#--#--##--#
+___#####__##_
+ID: 24115
+Title: Spade
+Author: David Holland
+
+____####
+####---#
+#@$--#-#
+#-$$$--#
+##.#.--#
+#--..#-#
+#--#.*-#
+#-$.$-#_
+_##---#_
+_######_
+ID: 24116
+Title: ninevah
+Author: David Holland
+
+____###____
+___#--@###_
+__#--#$$--#
+_##.#---#-#
+#--$#.#$--#
+#---...--#_
+_##$#.#$-#_
+__#-----#__
+___##---#__
+_____####__
+ID: 24117
+Title: CrissCross
+Author: David Holland
+
+____##____###_____
+####--####---#____
+#-$--$-----$-###__
+#-#---#-###-#---#_
+#--$---$-#-$$-$-#_
+_##--##-$@$-----#_
+__#$-##--#-$$-$$-#
+__#----$--##-##--#
+_###-#$##--...#-#_
+_#--..*.*..##.#-#_
+_#-#..*.....*.#-#_
+_#---########---#_
+__###________###__
+ID: 24118
+Title: Carousel
+Author: David Holland
+
+___##____________
+__#--#___________
+__#--#__#####____
+__#--#_#..---#___
+__#-####..##$##__
+__#--$-$.*-----#_
+__#-#$-#*.#-$#-#_
+_##$#--#..#--#-#_
+#---#$-#*.#-$#-#_
+#-#-#--$..#--#-#_
+#-#$#$-#..$--#--#
+#---#--#..#---#-#
+#-#@#-$#*.#$#-#-#
+#--$#--#..#---#-#
+_#---$-$-$-###--#
+__###---#------#_
+_____###_######__
+ID: 24119
+Title: Pattern-oster
+Author: David Holland
+
+_###_####______
+#---##---#_###_
+#-$---$-$-#---#
+#-$-#--.$-#---#
+_##--##.#--$-#_
+#-##$##.###.-#_
+#---*.......$#_
+#----##.##---#_
+##$####.#####__
+#--$-#-.-#---#_
+#--#--**$----#_
+#--$-#-@-#-$-#_
+#-$---###_#--#_
+_##---#___###__
+___###_________
+ID: 24120
+Title: Saturnine
+Author: David Holland
+
+___###___
+###---#__
+#-$*@.###
+#-#-*$--#
+#-#.-.#-#
+#-#$*-$-#
+#----.###
+###---#__
+___###___
+ID: 24121
+Title: briefcase alt 23
+Author: David Holland
+
+_______###____
+#####_#---###_
+#---##-$-$--#_
+#-#-##----#-#_
+#-#..$-$-##-#_
+#--.$#-$#---#_
+###..#-$-@$-#_
+__#**#-$-#-##_
+__#..#---#-#__
+__#..#####-##_
+__#.*#---$--#_
+__#..#-$----#_
+__##.###-#####
+__#-$------$-#
+__#---####---#
+__#####__#####
+ID: 24122
+Title: Salamandar v3
+Author: David Holland
+
+__####__
+_#----#_
+_#.-*-#_
+#-.-$--#
+#-#**#-#
+#--*+*-#
+_#-$$-#_
+_#----#_
+__####__
+ID: 24123
+Title: Abstract
+Author: David Holland
+
+_##_______
+#--######_
+#--------#
+#--###$#-#
+_#.#-#-.-#
+_#-#-#$*-#
+_#.###-+-#
+_#-$-#$*-#
+_#-#---.-#
+_#.####*-#
+#--$-$-*-#
+#-------##
+_########_
+ID: 24124
+Title: Storm in a teacup v6
+Author: David Holland

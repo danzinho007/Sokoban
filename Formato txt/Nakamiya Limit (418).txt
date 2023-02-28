@@ -1,0 +1,68 @@
+Let's Logic Collection ID: 418
+Title: Nakamiya Limit
+Author: Hirohiko Nakamiya
+Description: Collection ;;amp;;quot;Limit\" by Hirohiko Nakamiya\r\n  
+
+#######
+#-.---#
+#--$-.#
+#-$@$-#
+#.-$--#
+#---.-#
+#######
+ID: 40477
+Title: 1
+Author: Hirohiko Nakamiya
+
+##########
+#.-.-.---#
+#--$-$-$-#
+#-$@$-$--#
+#-.-.-.--#
+##########
+ID: 40478
+Title: 2
+Author: Hirohiko Nakamiya
+
+#######
+#...--#
+#-$$$-#
+#--@--#
+#-$$$-#
+#--...#
+#######
+ID: 40479
+Title: 3
+Author: Hirohiko Nakamiya
+
+##########
+#-.-.-.--#
+#--$-$-$-#
+#-$@$-$--#
+#.-.-.---#
+##########
+ID: 40480
+Title: 4
+Author: Hirohiko Nakamiya
+
+#######
+#-.-.-#
+#-$$$-#
+#.-@-.#
+#-$$$-#
+#-.-.-#
+#######
+ID: 40481
+Title: 5
+Author: Hirohiko Nakamiya
+
+######_____
+#----######
+#-$-$#--..#
+#-$-$---..#
+#-$-$#--..#
+#--@-######
+######_____
+ID: 40482
+Title: 6
+Author: Hirohiko Nakamiya

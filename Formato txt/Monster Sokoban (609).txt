@@ -1,0 +1,674 @@
+Let's Logic Collection ID: 609
+Title: Monster Sokoban
+Author: Hirohiko Nakamiya
+Description: 
+
+##########
+#..#-----#
+#..#-$-$-#
+#..#$$$$-#
+#--------#
+#----@---#
+##########
+ID: 83181
+Title: Monster Sokoban 1-1
+Author: Hirohiko Nakamiya
+
+########
+#------#
+#-..-#-#
+#-..$#-#
+#-$-$--#
+#-$##@-#
+#------#
+########
+ID: 83182
+Title: Monster Sokoban 1-2
+Author: Hirohiko Nakamiya
+
+###_______
+#.########
+#.--$-$--#
+#.$-----@#
+##########
+ID: 83183
+Title: Monster Sokoban 1-3
+Author: Hirohiko Nakamiya
+
+#######__
+#.#---#__
+#.#-$-###
+#.-$-$-@#
+#---#---#
+#########
+ID: 83184
+Title: Monster Sokoban 1-4
+Author: Hirohiko Nakamiya
+
+____####
+____#@-#
+#####--#
+#-$----#
+#...$$-#
+#####--#
+____####
+ID: 83185
+Title: Monster Sokoban 1-5
+Author: Hirohiko Nakamiya
+
+_#######_
+##--#--##
+#-------#
+#--###--#
+##-#@#$-#
+#--$-#--#
+#--..#--#
+#########
+ID: 83186
+Title: Monster Sokoban 1-6
+Author: Hirohiko Nakamiya
+
+####______
+#--#######
+#--$-$-$-#
+#@----...#
+##########
+ID: 83187
+Title: Monster Sokoban 1-7
+Author: Hirohiko Nakamiya
+
+____#####
+#####---#
+#@--#$$-#
+#-------#
+###-$####
+#...-#___
+######___
+ID: 83188
+Title: Monster Sokoban 2-1
+Author: Hirohiko Nakamiya
+
+########
+#--#---#
+#--$---#
+#--##$##
+##$##--#
+#---...#
+#--@#--#
+########
+ID: 83189
+Title: Monster Sokoban 2-2
+Author: Hirohiko Nakamiya
+
+########
+#--..--#
+#--..--#
+##-##-##
+#------#
+#-$$$$-#
+#---@--#
+########
+ID: 83190
+Title: Monster Sokoban 2-3
+Author: Hirohiko Nakamiya
+
+########
+#......#
+#-$--$-#
+#-$##$-#
+#--##--#
+#-$--$-#
+#--##-@#
+########
+ID: 83191
+Title: Monster Sokoban 2-4
+Author: Hirohiko Nakamiya
+
+_########
+##----#.#
+#--$--#.#
+#-$-$-#.#
+#--####.#
+#-$--$-.#
+#----$@.#
+#########
+ID: 83192
+Title: Monster Sokoban 2-5
+Author: Hirohiko Nakamiya
+
+___####_
+_###@-##
+##--$$-#
+#-$----#
+#...-###
+######__
+ID: 83193
+Title: Monster Sokoban 2-6
+Author: Hirohiko Nakamiya
+
+##########
+#---##-@-#
+#-#-..-#-#
+#-$$..$#-#
+#-#-..-$-#
+#-#$##$#-#
+#--------#
+##########
+ID: 83194
+Title: Monster Sokoban 2-7
+Author: Hirohiko Nakamiya
+
+____#####
+___##---#
+__##--$-#
+_##@-$-##
+##--$-##_
+#----##__
+#...##___
+#####____
+ID: 83195
+Title: Monster Sokoban 3-1
+Author: Hirohiko Nakamiya
+
+___######
+___#----#
+####-#--#
+#--#----#
+#$----#-#
+#.**#---#
+#---#####
+#-@-#____
+#####____
+ID: 83196
+Title: Monster Sokoban 3-2
+Author: Hirohiko Nakamiya
+
+_____#######
+_____#--#--#
+######-----#
+#----#--#--#
+#-------#.##
+##$######.##
+#---$--@---#
+#---####---#
+#####__#####
+ID: 83197
+Title: Monster Sokoban 3-3
+Author: Hirohiko Nakamiya
+
+#########
+#..-----#
+#..#-$$-#
+#..#$$-@#
+#----$$-#
+#--#----#
+#########
+ID: 83198
+Title: Monster Sokoban 3-4
+Author: Hirohiko Nakamiya
+
+######
+#----#
+#----#
+#$$$$#
+#--@-#
+#....#
+######
+ID: 83199
+Title: Monster Sokoban 3-5
+Author: Hirohiko Nakamiya
+
+#########
+#.....--#
+#-$---$-#
+####-####
+#---$---#
+#--$@$--#
+#---#---#
+#########
+ID: 83200
+Title: Monster Sokoban 3-6
+Author: Hirohiko Nakamiya
+
+####______
+#--#######
+#--$-$-$-#
+#...----@#
+##########
+ID: 83201
+Title: Monster Sokoban 3-7
+Author: Hirohiko Nakamiya
+
+____#####
+___##-..#
+__##--$-#
+_##@-$-##
+##--$-##_
+#.-$-##__
+#.--##___
+#####____
+ID: 83202
+Title: Monster Sokoban 4-1
+Author: Hirohiko Nakamiya
+
+##########
+#--#-----#
+#--#-----#
+#--##$$$##
+#--------#
+#...#-@--#
+##########
+ID: 83203
+Title: Monster Sokoban 4-2
+Author: Hirohiko Nakamiya
+
+#########
+#---#---#
+#-$.#.$-#
+#-$.@.$-#
+#-$.#.$-#
+#---#---#
+#########
+ID: 83204
+Title: Monster Sokoban 4-3
+Author: Hirohiko Nakamiya
+
+_#######_
+_#--@--#_
+##$$$#$##
+#-------#
+#-#-#-#-#
+#....---#
+#########
+ID: 83205
+Title: Monster Sokoban 4-4
+Author: Hirohiko Nakamiya
+
+__#####_
+__#---#_
+###-#$##
+#.-$-$-#
+#.----@#
+#.######
+###_____
+ID: 83206
+Title: Monster Sokoban 4-5
+Author: Hirohiko Nakamiya
+
+##########
+#@-*---*-#
+#*$-#-#--#
+#-------*#
+#*-#.#---#
+#-------*#
+#-*-*-*--#
+##########
+ID: 83207
+Title: Monster Sokoban 4-6
+Author: Hirohiko Nakamiya
+
+##########
+#--#-----#
+#-----$--#
+#--#-$$$-#
+#@-#-$-$-#
+##-###-###
+#----#-#__
+#...---#__
+#...-###__
+######____
+ID: 83208
+Title: Monster Sokoban 4-7
+Author: Hirohiko Nakamiya
+
+_#########
+_#@-#----#
+_#--$--#-#
+##--#-$--#
+#---#-$#-#
+#...##---#
+##########
+ID: 83209
+Title: Monster Sokoban 5-1
+Author: Hirohiko Nakamiya
+
+#########
+#-#-----#
+#-....#-#
+#-------#
+##-###-##
+#-------#
+#-#$$$$-#
+#-----#@#
+#########
+ID: 83210
+Title: Monster Sokoban 5-2
+Author: Hirohiko Nakamiya
+
+#######
+#--#--#
+#--$--#
+#-***-#
+#--.-@#
+#######
+ID: 83211
+Title: Monster Sokoban 5-3
+Author: Hirohiko Nakamiya
+
+#########
+#...----#
+#...--#-#
+##$##---#
+#-$--#$-#
+#-$-$-$-#
+#---@---#
+#########
+ID: 83212
+Title: Monster Sokoban 5-4
+Author: Hirohiko Nakamiya
+
+_##########
+_#-@-##---#
+_#-$-$--#-#
+###$##--#-#
+#..--#--$-#
+#..--#----#
+#--########
+####_______
+ID: 83213
+Title: Monster Sokoban 5-5
+Author: Hirohiko Nakamiya
+
+######
+#....#
+#---@#
+#$$$##
+#-#--#
+#-$--#
+#----#
+######
+ID: 83214
+Title: Monster Sokoban 5-6
+Author: Hirohiko Nakamiya
+
+__####___
+###--####
+#---..--#
+#-#-..#-#
+#-$$$-$-#
+###-##-##
+__#-@--#_
+__######_
+ID: 83215
+Title: Monster Sokoban 5-7
+Author: Hirohiko Nakamiya
+
+__####__
+__#-@#__
+###$-###
+#-$.$$-#
+#-...--#
+#--.$--#
+##--####
+_####___
+ID: 83216
+Title: Monster Sokoban 6-1
+Author: Hirohiko Nakamiya
+
+_###########
+_#--#--#-@-#
+_#--.$-#---#
+_#--#.-#-$##
+##$-#-.#--#_
+#---#-$.--#_
+#---#--#--#_
+###########_
+ID: 83217
+Title: Monster Sokoban 6-2
+Author: Hirohiko Nakamiya
+
+__#####__
+###.@.###
+#-$$$$$-#
+#-.-.-.-#
+#-$*$*$-#
+#-.-.-.-#
+##-----##
+_#######_
+ID: 83218
+Title: Monster Sokoban 6-3
+Author: Hirohiko Nakamiya
+
+#######
+#--.--#
+#--$--#
+#*****#
+#--@--#
+#--*--#
+#######
+ID: 83219
+Title: Monster Sokoban 6-4
+Author: Hirohiko Nakamiya
+
+_######_
+_#----#_
+_#.$.$#_
+##$.$.##
+#-.$.$-#
+#@-----#
+########
+ID: 83220
+Title: Monster Sokoban 6-5
+Author: Hirohiko Nakamiya
+
+##########_
+#--....--#_
+#-$.*.*--##
+##$#####--#
+#----$----#
+#--$-$-$-@#
+#--########
+####_______
+ID: 83221
+Title: Monster Sokoban 6-6
+Author: Hirohiko Nakamiya
+
+#######______
+#..---######_
+#..*--$-@--#_
+#...#$####$##
+#####---$---#
+____#-#-$---#
+____#--$-#$##
+____###----#_
+______#---##_
+______#####__
+ID: 83222
+Title: Monster Sokoban 6-7
+Author: Hirohiko Nakamiya
+
+#########
+#-.-.-.-#
+#-$-$-$-#
+##--.####
+#-$$$-$-#
+#@.-.-.-#
+#########
+ID: 83223
+Title: Monster Sokoban 7-1
+Author: Hirohiko Nakamiya
+
+______#####
+#######-@-#
+#-$-$-$$$-#
+#.........#
+#$-$-$-$--#
+#-#-#######
+#---#______
+#####______
+ID: 83224
+Title: Monster Sokoban 7-2
+Author: Hirohiko Nakamiya
+
+_####______
+_#--#######
+_#$---$-$-#
+_#-.#.-.--#
+_#$-####-##
+_#-.#-#.-#_
+##-####-$#_
+#--.-.#.-#_
+#-$-$-@-$#_
+#######--#_
+______####_
+ID: 83225
+Title: Monster Sokoban 7-3
+Author: Hirohiko Nakamiya
+
+________########
+________#-@-#--#
+________#----$-#
+##########-##--#
+#.#.---##---#-##
+#.#.-$----$-#-#_
+#.#.$####-###-#_
+#...-##-$---#-#_
+#----#----$-#-#_
+######-$#####-##
+_____#-$-----$-#
+_____#---###---#
+_____#####_#####
+ID: 83226
+Title: Monster Sokoban 7-4
+Author: Hirohiko Nakamiya
+
+_#########_
+##-.---.-##
+#-$*$-$*$-#
+#--.....--#
+#-$*$$$*$-#
+##-.-@-.-##
+_#########_
+ID: 83227
+Title: Monster Sokoban 7-5
+Author: Hirohiko Nakamiya
+
+__####___
+###--####
+#--.-.--#
+#-$-$-$-#
+##.#*#.##
+#-$-$-$-#
+#--.@.--#
+#########
+ID: 83228
+Title: Monster Sokoban 7-6
+Author: Hirohiko Nakamiya
+
+__#######__
+__#-----#__
+###$#.#$###
+#--$...$--#
+#-#$...$#-#
+#-#-----#-#
+#-##$####-#
+#----@----#
+###########
+ID: 83229
+Title: Monster Sokoban 7-7
+Author: Hirohiko Nakamiya
+
+___####__
+___#--#__
+####-$###
+#-$...$-#
+#--...--#
+#-$-#$$-#
+###-@-###
+__#####__
+ID: 83230
+Title: Monster Sokoban 8-1
+Author: Hirohiko Nakamiya
+
+_####__________
+_#--###########
+_#$-........--#
+_#--#######$--#
+_#$-#--#-$----#
+##-##$-----#$-#
+#-$-----$--#--#
+#---#-@########
+########_______
+ID: 83231
+Title: Monster Sokoban 8-2
+Author: Hirohiko Nakamiya
+
+__#######__
+__#--#--#__
+###$...$###
+#--$.-.$--#
+#-#$...$#-#
+#-#--#--#-#
+#-#$$####-#
+#----@----#
+###########
+ID: 83232
+Title: Monster Sokoban 8-3
+Author: Hirohiko Nakamiya
+
+__######___
+###--@-####
+#---##----#
+#-##---##-#
+#-#-.*.-#-#
+#-$$*-*$$-#
+###-.*.-###
+__#-----#__
+__#######__
+ID: 83233
+Title: Monster Sokoban 8-4
+Author: Hirohiko Nakamiya
+
+__##########_
+__#.......-#_
+###-#####--#_
+#-----#---###
+#-@$$-#-$---#
+##$-$###$-$-#
+#-$-$-#-$-$##
+#-----#-----#
+###-$-#-$-$-#
+_#--#####-###
+_#-.......#__
+_##########__
+ID: 83234
+Title: Monster Sokoban 8-5
+Author: Hirohiko Nakamiya
+
+_______#####____
+_______#---##___
+____####-$--#___
+____#--##$#-###_
+____#-$$..#---##
+#####--#..###--#
+#--###-#..#-$--#
+#-$$---#..@-#--#
+#--#---#$####-##
+##-####--------#
+_#--------##---#
+_#--############
+_####___________
+ID: 83235
+Title: Monster Sokoban 8-6
+Author: GrigoRusha + Hirohiko Nakamiya
+
+_##########
+_#---@----#
+_#******--#
+##-----$-##
+#--****.*#_
+#--------#_
+##########_
+ID: 83236
+Title: Monster Sokoban 8-7
+Author: Hirohiko Nakamiya

@@ -1,0 +1,1884 @@
+Author: Přemysl Zíka
+Set: Primus gradus ad Olympo
+E-mail: premyslzika@centrum.cz
+Date: December 2012
+Dedication: This collection "Primus gradus ad Olympo" I dedicated to my friend Jordi Doménech
+http://sokoban-jd.blogspot.com
+(My webpages: http://www.zusbreznice.cz/rozvrhy-zika-premysl-sokoban.cz)
+
+   #####
+#### @ #
+# *  # #
+# #$ . #
+#    ###
+######
+Title: 1
+Difficulty: 1
+Serial number: PgaO_001
+Date: December 2012
+
+   ####
+####  #
+# $  .#
+#@# #.#
+# $   #
+###  ##
+  ####
+Title: 2
+Difficulty: 1,5
+Serial number: PgaO_002
+Date: December 2012
+
+####
+#  ##
+# $ #
+# $ ##
+# @  #
+##.# #
+ #.  #
+ #####
+Title: 3
+Difficulty: 2
+Serial number: PgaO_003
+Date: December 2012
+
+#####
+#   ##
+#    #
+##.# #
+#    #
+#@$* #
+###  #
+  ####
+Title: 4
+Difficulty: 2,5
+Serial number: PgaO_004
+Date: December 2012
+
+  ####
+  #  ###
+###$.  #
+# $  # #
+# . @# #
+## ### #
+ #     #
+ #######
+Title: 5
+Difficulty: 3
+Serial number: PgaO_005
+Date: December 2012
+
+     ####
+   ###  #
+ ### $ @#
+ #.  #  #
+##.### ##
+#   $   #
+#   #   #
+##  #####
+ ####
+Title: 6
+Difficulty: 3,5
+Serial number: PgaO_006
+Date: December 2012
+
+    ####
+#####  #
+#      #
+#      #
+##$#####
+#. .  #
+#     #
+####$##
+  #   #
+  # @ #
+  #   #
+  #####
+Title: 7
+Difficulty: 4
+Serial number: PgaO_007
+Date: December 2012
+
+#########
+#   ... #
+# # # # ##
+#  $     #
+### ###  #
+  # $@$ ##
+  #  #  #
+  #######
+Title: 8
+Difficulty: 1,5
+Serial number: PgaO_008
+Date: December 2012
+
+######
+# .  #
+# .  #
+# * ###
+### @ ##
+  #    #
+  # $$ #
+  ###  #
+    ####
+Title: 9
+Difficulty: 2
+Serial number: PgaO_009
+Date: December 2012
+
+#####
+#   #
+# # ###
+#     ####
+##  $$   #
+ ### ### #
+  # $ @# #
+  #... # #
+  ### ## #
+    #    #
+    ######
+Title: 10
+Difficulty: 2
+Serial number: PgaO_010
+Date: December 2012
+
+ #####
+## . #
+# @.$#
+#  . ##
+##$#$ #
+#     #
+#   ###
+#####
+Title: 11
+Difficulty: 2,5
+Serial number: PgaO_011
+Date: December 2012
+
+######
+#    ##
+# ##  #
+# #   #####
+# # @.. . #
+# #  ## # #
+# ### $$$ #
+#     #   #
+###########
+Title: 12
+Difficulty: 2,5
+Serial number: PgaO_012
+Date: December 2012
+
+#####
+#   ####
+#   #  #
+##    .#
+#  # ..#
+#  # ####
+#  #    #
+#### #  #
+   # $$ #
+   # $@ #
+   ###  #
+     ####
+Title: 13
+Difficulty: 3
+Serial number: PgaO_013
+Date: December 2012
+
+ #####
+##   ######
+# $ @ ##  #
+# #  $  $ #
+#   # ##  #
+##### #  ##
+ #...   ##
+ ########
+Title: 14
+Difficulty: 3
+Serial number: PgaO_014
+Date: December 2012
+
+     ####
+  ####  #
+  #.    #####
+  #  ##$##  #
+  ## #      #
+#### # #### ##
+#    #*   #  #
+#  #  * #    #
+## #### # ####
+ #      # ##
+ #  ##@##  #
+ #####     #
+     #  ####
+     ####
+Title: 15
+Difficulty: 3,5
+Serial number: PgaO_015
+Date: December 2012
+
+  #####
+  #   ###
+  #     #
+ ###.## #
+##    # #
+# .$. #@#
+# #$### #
+#  $ #  #
+##   # ##
+ ###   #
+   #####
+Title: 16
+Difficulty: 4
+Serial number: PgaO_016
+Date: December 2012
+
+###### #####
+#   .###   #
+# ##. @    #
+#   .#### ##
+## $ $ ## ##
+ # ### $   #
+ #     #   #
+ ###########
+Title: 17
+Difficulty: 4
+Serial number: PgaO_017
+Date: December 2012
+
+ #####   ####
+ #   #####  ##
+ #     $     #
+ ##.#######  #
+  #.#  @  # ##
+###.#    $#  #
+#   ## # $   #
+#       ###  #
+##  #   # ####
+ ########
+Title: 18
+Difficulty: 4,5
+Serial number: PgaO_018
+Date: December 2012
+
+######
+#   @####
+# ##$ . #
+# # * # #
+# # $ # #
+# .  ## #
+###     #
+  #######
+Title: 19
+Difficulty: 5
+Serial number: PgaO_019
+Date: December 2012
+
+   ####  ####
+  ##  ####  ##
+  #          #
+  #  ######  #
+ ###.   # # ##
+ #    # # # #
+ #  # # # # ##
+###.  # ###  #
+#   $##$     #
+#  #    .#  ##
+## #####  ###
+ #  @  $  #
+ #  #######
+ ####
+Title: 20
+Difficulty: 6
+Serial number: PgaO_020
+Date: December 2012
+
+     ####
+  ####  ##
+  #      #
+### ##.# #
+#. $  .  #
+##$$$#. ##
+ # @ ####
+ #####
+Title: 21
+Difficulty: 2
+Serial number: PgaO_021
+Date: December 2012
+
+     #####
+    ##   #
+#####    #
+#   # # ##
+# #$ $ $#
+#   ###.#
+# # ##..#
+#  @   $#
+###### .#
+     ####
+Title: 22
+Difficulty: 2,5
+Serial number: PgaO_022
+Date: December 2012
+
+  #######
+  #@    ##
+###$#$#  #
+#  $ $ # #
+#  ....  #
+###   ####
+  #####
+Title: 23
+Difficulty: 3
+Serial number: PgaO_023
+Date: December 2012
+
+#########
+#   #   #
+#   @   #
+## ### ##
+ #. # $ #
+ ## # * #
+  #   * #
+  # ##$ #
+  #   . #
+  #######
+Title: 24
+Difficulty: 3,5
+Serial number: PgaO_024
+Date: December 2012
+
+########
+#      #
+# #### #
+# #  # #
+# $  # #
+###  $ #
+#@$$## #
+# .  # #
+##...  #
+ #######
+Title: 25
+Difficulty: 4
+Serial number: PgaO_025
+Date: December 2012
+
+ #####
+##   ###
+# $# @ ##
+#  ###  ##
+# $#  #  #
+#  #..** ##
+#     #   #
+####  #   #
+   ########
+Title: 26
+Difficulty: 4,5
+Serial number: PgaO_026
+Date: December 2012
+
+   #############
+   #       ##  ##
+#### #####.     #
+#  #$$  # *.##  #
+#   $ # @ #.## ##
+#  ## #####  # #
+## #         # #
+## #   ###  ## ##
+#  ###########  #
+#               #
+##  #########  ##
+ ####       ####
+Title: 27
+Difficulty: 5
+Serial number: PgaO_027
+Date: December 2012
+
+#####
+#   #  ####
+#   ####  #
+##  ....  #
+## #####  #
+#  # @ #$##
+#      # ##
+##  # ##  #
+ ####  #  #
+    # $#  #
+    # $ $ #
+    ####  #
+       ####
+Title: 28
+Difficulty: 5,5
+Serial number: PgaO_028
+Date: December 2012
+
+   #######
+####     #
+#      # #
+# # # ## #
+# $$$$#  #
+### # # ##
+#   # # #
+# ### # #
+#....  @#
+#########
+Title: 29
+Difficulty: 6,5
+Serial number: PgaO_029
+Date: December 2012
+
+######
+#    #
+#    # ####
+##$# ###  ###
+#      ..   #
+#   #####*$ #
+#####  ##  ##
+    #  ..$ #
+    # $ # @#
+    #   ####
+    #####
+Title: 30
+Difficulty: 2,5
+Serial number: PgaO_030
+Date: December 2012
+
+  #####
+ ##   ###
+ #  .   #
+ #$#.#$ #
+## ..  ##
+# $#.#$##
+# @ $   #
+#####   #
+    #####
+Title: 31
+Difficulty: 3
+Serial number: PgaO_031
+Date: December 2012
+
+ #####   #####
+ #   #####   #
+ # # #   #$#.#
+##   $   $...##
+#  $ ######*  #
+#   ##    #  @#
+#####     #####
+Title: 32
+Difficulty: 3,5
+Serial number: PgaO_032
+Date: December 2012
+
+ ####
+ #  #
+##$ #####
+# $ $   #
+#@#.... #
+# $.   ##
+##$# ###
+ #   #
+ #####
+Title: 33
+Difficulty: 4
+Serial number: PgaO_033
+Date: December 2012
+
+ #####
+##   ##
+# *...##
+# $##..#
+# @$ $ #
+# $ $  #
+###  ###
+  ####
+Title: 34
+Difficulty: 2
+Serial number: PgaO_034
+Date: December 2012
+
+     #####
+     #   #
+     #   #
+     #   #
+    ### ###
+#####  .  #####
+#   # #*# #   #
+#    $*@*$    #
+#   # #*# #   #
+#####  .  #####
+    ### ###
+     #   #
+     #   #
+     #   #
+     #####
+Title: 35
+Difficulty: 2,5
+Serial number: PgaO_035
+Date: December 2012
+
+ ########
+ #. ##  ###
+ # $$ * $ #
+## . #  # #
+#  $## ##.##
+# @*   .   #
+#  #####   #
+####   #####
+Title: 36
+Difficulty: 3
+Serial number: PgaO_036
+Date: December 2012
+
+#############
+#   ##. #   #
+#   $   $   #
+##$###.###$##
+ #   ...   #
+ #$#  +  #$#
+ #   ###   #
+ ##### #####
+Title: 37
+Difficulty: 3,5
+Serial number: PgaO_037
+Date: December 2012
+
+ #####
+ # @ #
+##.# #####
+#  $$#   #
+#  * . # #
+##.$# ## ##
+ # * .$   #
+ ##   #   #
+  ##  #####
+   ####
+Title: 38
+Difficulty: 3,5
+Serial number: PgaO_038
+Date: December 2012
+
+   ####
+####  #
+#   @ #
+# # * #
+# # * #
+# # * ###
+# # * $ #
+# ##* . #
+#     ###
+#######
+Title: 39
+Difficulty: 4
+Serial number: PgaO_039
+Date: December 2012
+
+############
+#   #  #   #
+# $        #
+### #.######
+  # #.###
+  # $.. #
+###. #  #
+#  $ # ##
+#    #$##
+##$###  #
+ # @ *  #
+ #####  #
+     ####
+Title: 40
+Difficulty: 4
+Serial number: PgaO_040
+Date: December 2012
+
+      #####
+      #   ##      ####
+      #    ########  ##
+      ##              #
+ ####  ##$##########  #
+##  #####  ######### ##
+#       * ..       # #
+#  ####### ######  # #
+## ##  ###  ##### ## #
+ # ##    $ .    # ## #
+ # ## ##### ##  # ## #
+ # ## ##  #. # ## ## #
+ # ## ##  $ $  ## ## #
+ # ## ## ##.$# ## ## #
+ # ## ## ## @# ## ## #
+ # ## #  ##### ## ## #
+ # ## #        ## ## #
+ # ## #######  ## ## #
+ # #  ########### ## #
+ # #              ## #
+## #############  ## ##
+#  #################  #
+#                     #
+##  ###############  ##
+ ####             ####
+Title: 41
+Difficulty: 4,5
+Serial number: PgaO_041
+Date: December 2012
+
+    ####
+  ###  #
+  #    #
+  # #  #
+  # $ #######
+  # #     $ #
+ ## # ###$#@#
+ #  # ### $ #
+ # #   #. ###
+## #   #. #
+#  #$###..#
+# #      *#
+#   #### .#
+#####  ####
+Title: 42
+Difficulty: 4,5
+Serial number: PgaO_042
+Date: December 2012
+
+      ########
+      #   #  #
+      #      #
+  ######$### #
+  #   #..### #
+  # #  .*# $ #
+ ## ## ..  # #
+ #  ##  #### #
+## ### ##### ##
+# $$   $      #
+#@  #  ####   #
+########  #####
+Title: 43
+Difficulty: 5
+Serial number: PgaO_043
+Date: December 2012
+
+   #####
+   #   #
+####.#$##
+#  #    #
+#  $. # ##
+#  ##$.$ #
+## #.  # #
+##$#$#.  #
+#  #   # #
+#   . ## #
+#  ##   @#
+##########
+Title: 44
+Difficulty: 6
+Serial number: PgaO_044
+Date: December 2012
+
+ #######
+ #  @  #
+## ### ##
+# . $ . #
+# **#** #
+# $ . $ #
+#   #   #
+#########
+Title: 45
+Difficulty: 3
+Serial number: PgaO_045
+Date: December 2012
+
+        ####
+#########  #
+#   $   $  #
+#  ### ### #
+## #    ## #
+#  ..***.. #
+#  #  @  # ##
+## ### ###  #
+ #  $   $   #
+ #  #########
+ ####
+Title: 46
+Difficulty: 6,5
+Serial number: PgaO_046
+Date: December 2012
+
+    #####
+ #### @ ####
+ #  #$$$#  #
+ #   ...   #
+ # ##$$$## #
+ # ##...## #
+## ## . ## ##
+#  ###$###  #
+#           #
+#####   #####
+    #####
+Title: 47
+Difficulty: 4
+Serial number: PgaO_047
+Date: December 2012
+
+  ####
+###  #####
+#    @   #
+# $#.#.#$#
+## . $ # #
+ #$# # # #
+ # . $ . ##
+ #$#.###$ #
+ #        #
+ #. #######
+ ####
+Title: 48
+Difficulty: 4,5
+Serial number: PgaO_048
+Date: December 2012
+
+ ########
+##  #   #
+#       #
+#  # # ##
+## #$$ #
+ # # ..####
+ # #$*.#  #
+## # ...  #
+# $#$ ##  #
+#  $ ##  ##
+#@ # #  ##
+###    ##
+  #   ##
+  #####
+Title: 49
+Difficulty: 5,5
+Serial number: PgaO_049
+Date: December 2012
+
+##### #####
+#   ###   #
+#  $ $ $  #
+### ....###
+  #$@##$##
+### .... #
+#  $ $ $ #
+#   ######
+#####
+Title: 50
+Difficulty: 3,5
+Serial number: PgaO_050
+Date: December 2012
+
+     ######
+     #    #
+ #####.## #
+ #  # . # #
+ #  $$*$$ #
+ # ## * # #
+ # ## . # ##
+ # ## . #  #
+## ###.### ##
+#   $ . $   #
+#   # @ #   #
+#############
+Title: 51
+Difficulty: 3,5
+Serial number: PgaO_051
+Date: December 2012
+
+   ####  ####  #######
+####  ####  ####  #  #
+#  #  #  #  #  #  #  #
+#.$#  *  #  *  #  *  #
+#  #  #  #  #  #  #  ##
+#@ *  #  *  #  *  # $.#
+#  #  #  #  #  #  #   #
+#######################
+Title: 52
+Difficulty: 3
+Serial number: PgaO_052
+Date: December 2012
+
+########   #####
+#   #  #####   #
+# #   $  $ $ # #
+#@###.**....## #
+# ##  $  $ $   #
+#    ######.# ##
+######    #   #
+          #####
+Title: 53
+Difficulty: 4
+Serial number: PgaO_053
+Date: December 2012
+
+     ####
+ #####. ####
+ #    .    #
+## $ #*# $ #
+#  ###.### ##
+#  $  +  $  #
+## ###.###  #
+ # $ #*# $ ##
+ #    .    #
+ ####  #####
+    ####
+Title: 54
+Difficulty: 4,5
+Serial number: PgaO_054
+Date: December 2012
+
+  ####
+  #  #
+ ##.$##
+##    #
+# .*#$##
+#      #
+#.*#$#*##
+#  * *  #
+#   @   #
+#########
+Title: 55
+Difficulty: 5
+Serial number: PgaO_055
+Date: December 2012
+
+    ########
+    #   #  #
+    #      #
+######*### #
+#  ## .# $ #
+#     *  # #
+#  ##..### #
+## ##.*  # #
+## ##.@# $ #
+#  ##$#### ##
+#  $      $ #
+#  #  #     #
+#############
+Title: 56
+Difficulty: 6
+Serial number: PgaO_056
+Date: December 2012
+
+ ####   ####
+##  #####  ##
+#    $@$    #
+#  #######  #
+## #  #### ##
+ # #    ## #
+## #  # ## #
+#  ##$#$## #
+#  $ ...## #
+#  ## *.   ##
+##### .$#   #
+    #$. #   #
+    # . #####
+    #####
+Title: 57
+Difficulty: 7
+Serial number: PgaO_057
+Date: December 2012
+
+#########
+#       #
+# *****$#
+# * $ . ##
+# * #    #
+# + ##   #
+##########
+Title: 58
+Difficulty: 2,5
+Serial number: PgaO_058
+Date: December 2012
+
+  ######
+  #    #
+  # ## #########
+###  # @   #   #
+#  * ##### * # #
+# # * ### * #  #
+# #  * # *  # ##
+#  #  *$*  #  #
+##  #  .  #  ##
+ ##  ### #  ##
+  ##       ##
+   #########
+Title: 59
+Difficulty: 4
+Serial number: PgaO_059
+Date: December 2012
+
+    ####
+    #  #
+#####* ####
+# $    $  #
+#@ $. *.  #
+####*## ####
+ # . . .   #
+ #  $ $ $  #
+ # .########
+ ####
+Title: 60
+Difficulty: 4,5
+Serial number: PgaO_060
+Date: December 2012
+
+  ####
+###  #######
+#    @     #
+# $$$$$ $  #
+#     ### ##
+##*######  #
+# .## $ $  #
+# .*....#  #
+#  #. . ####
+#########
+Title: 61
+Difficulty: 3,5
+Serial number: PgaO_061
+Date: December 2012
+
+  ########
+  #   #. #
+###$#   .##
+# $   # ..#
+#@#$  # ..#
+# $ #   #*#
+###     #.#
+  # #   #.#
+ ## #####.##
+ # $       #
+ #  #$$$$# #
+ #  #  #   #
+ ####    ###
+    #    #
+    ######
+Title: 62
+Difficulty: 4
+Serial number: PgaO_062
+Date: December 2012
+
+    ####
+    #  #
+  ###. ###
+  #  .$  #
+###  *@$ ###
+# $$$##$$$ #
+#  ..##..  #
+### ##.  ###
+  #   .  #
+  ###$.###
+    #  #
+    ####
+Title: 63
+Difficulty: 5
+Serial number: PgaO_063
+Date: December 2012
+
+ #####
+ #   #
+## #*######
+# $  .  $ #
+#    #  . #
+###..#..###
+# .$$#$$  #
+#   $+$   #
+######*# ##
+     #   #
+     #####
+Title: 64
+Difficulty: 6
+Serial number: PgaO_064
+Date: December 2012
+
+    #######
+#####  #  #
+#    $    #
+#  ##*### ##
+## # .$ #  #
+#  #$@...  #
+# $*.. $#  #
+#  # $. # ##
+## ###*##  #
+ #    $    #
+ #  #   ####
+ ########
+Title: 65
+Difficulty: 6
+Serial number: PgaO_065
+Date: December 2012
+
+      ####
+      #  #
+#######. #
+#      $ #
+# . **** #
+### * @# ##
+  # ***#$ #
+  #       #
+  #  ######
+  #  #
+  ####
+Title: 66
+Difficulty: 6,5
+Serial number: PgaO_066
+Date: December 2012
+
+         #####
+  ####  ##   #
+###  #### $  #
+#     .# $  ##
+# #***.*.  ##
+#  .#..#####
+##$### #   #
+#      #   #
+#   #  $$$@#
+#####  #   #
+    ####   #
+       #####
+Title: 67
+Difficulty: 7
+Serial number: PgaO_067
+Date: December 2012
+
+      #####
+   ####   ####
+####   .#$   ####
+# . .# $#. #$ $ #
+# #  ** # **  # #
+# $ $# .#$ #. . #
+####   $#.   ####
+   #### @ ####
+      #####
+Title: 68
+Difficulty: 3
+Serial number: PgaO_068
+Date: December 2012
+
+#######
+#  #  ########
+#      $     #
+#  ##$## ##$ #
+##$## ##.## ##
+ #  ...$.    #
+##$## ##.##  #
+#  ## ## ##$##
+#    .@...  #
+## ##.## ##$##
+#  ## ##$##  #
+# $   $      #
+########  #  #
+       #######
+Title: 69
+Difficulty: 3,5
+Serial number: PgaO_069
+Date: December 2012
+
+  #####
+  # @ ##
+### *  ##
+#  * *  ##
+# * # .  ##
+#  * # *  #
+##  $ # * #
+ ##  * * ##
+  ##  *  #
+   ##  ###
+    ####
+Title: 70
+Difficulty: 4
+Serial number: PgaO_070
+Date: December 2012
+
+      ####
+ ###### .#####
+ #     @     #
+ # ##### ##  #
+ #. ### * # ##
+ # * # *  # #
+ #. * *   # #
+ ##  * ####$#
+ #  * *  ## #
+ # $ # $ ## #
+## ##### ## #
+#           #
+#   ######  #
+#####    ####
+Title: 71
+Difficulty: 5,5
+Serial number: PgaO_071
+Date: December 2012
+
+     #########
+#### #   ##  #
+#  ###       #
+# *   #*#### #
+#  ##...#  $ #
+# $### *  ## #
+# .  # .## $ #
+#  # # *   # #
+#### # .#### #
+ ### # *   # #
+ #   #  ## $ #
+## ### ##### ##
+#   $  @  $   #
+#   #  ####   #
+########  #####
+Title: 72
+Difficulty: 6
+Serial number: PgaO_072
+Date: December 2012
+
+     #####
+ ##### . ##
+ #   #$*  #
+ # * $ .$ #
+ # . #    #
+##*#####*##
+#    # . #
+# $. $ * #
+#  *$#   #
+## .@#####
+ #####
+Title: 73
+Difficulty: 2,5
+Serial number: PgaO_073
+Date: December 2012
+
+ ##########
+ #    ##  #
+##* * * * #
+# * ### * #
+# $ # # . #
+# * ### * #
+# *  *  * #
+#     # @ #
+###########
+Title: 74
+Difficulty: 3
+Serial number: PgaO_074
+Date: December 2012
+
+     ####
+     #  #
+######.$######
+#            #
+# #.## **### #
+# #   #*   * #
+# *$*  $ . # #
+# . .#####$$ #
+#    #     ###
+##*###@#####
+ #     #
+ #######
+Title: 75
+Difficulty: 7
+Serial number: PgaO_075
+Date: December 2012
+
+#####  ####
+#   ####  #
+#   $ $   #
+##$## ##  #
+ # ..... ##
+ # ## .# #
+ # ## .# #
+ # ##.*# #
+ #$##..#$#
+ # ## $# #
+ # # . # ##
+## # $  $@#
+#  ###$##$##
+#     $    #
+#  #####   #
+####   #####
+Title: 76
+Difficulty: 8
+Serial number: PgaO_076
+Date: December 2012
+
+ ##########  #######
+ #  *  #  ####  *  #
+ #  *  #  +  #  *  #
+## $#  # $$$ #  #$ ##
+#  .#.$#. # .#$.#.  #
+#   #  *  #  *  #   #
+##  #  #  #  #  #  ##
+ ###################
+Title: 77
+Difficulty: 3,5
+Serial number: PgaO_077
+Date: December 2012
+
+     #####
+   ### @ ###
+   #  ***  #
+ ### *   * ###
+##  *  #  *  ##
+#  *  ###  *  #
+# $  ## ##  $ #
+# * ##   ## * #
+##. #     # .##
+ ####     ####
+Title: 78
+Difficulty: 4
+Serial number: PgaO_078
+Date: December 2012
+
+    ####
+    #  ######
+    # $  #  #
+    #  # $  #
+  #### # #  #
+  #  # # # ####
+  #    # # #  #
+  #  # # #    #
+#### # # # #  #
+#  # # # # # ##
+#    # # # # #
+#  # # # # # #
+## # # # # # #
+ #$*$$****$*$#
+ #@.. .. ... #
+ #############
+Title: 79
+Difficulty: 5
+Serial number: PgaO_079
+Date: December 2012
+
+   #########
+   #   #   #
+####   $   ####
+#  ##$#$# ##  #
+#  .. .$. ..  #
+#  ### #.###  #
+# $ $ $#$ $ $##
+## ### # ###  #
+ # .. ..  ..  #
+ ####$#@#$##  #
+   #     $ ####
+   #   #   #
+   #########
+Title: 80
+Difficulty: 6
+Serial number: PgaO_080
+Date: December 2012
+
+ ######
+ #    #
+ # #  ####
+ # $$ #  ####
+ ##$@$   #  ##
+ #  # #$$$   #
+ #       #$# #
+ #  ###### # #
+ ####   #  # ##
+    #   *     #
+###### ####   #
+#  ##...# #####
+#    .*.##
+#  ##. ..#
+#  ### ..#
+# $  ##.##
+#  #$## ##
+### $    #
+  #      #
+  ########
+Title: 81
+Difficulty: 6,5
+Serial number: PgaO_081
+Date: December 2012
+
+    ####
+  ###  ##
+ ##     ###
+ # .$.$.  #
+ # #$#$## #
+ # .$.$.  #
+###  *  ###
+#  .$.$. #
+# ##$#$# #
+#  .$.$. #
+###  @  ##
+  #######
+Title: 82
+Difficulty: 7
+Serial number: PgaO_082
+Date: December 2012
+
+    #####
+#####   ###
+#@$   # $ #
+# $#$$* # #
+## .....  #
+ # # # **##
+ # .*.*. #
+ # $ . #$#
+ #$ $#   #
+ # #   ###
+ #   ###
+ #####
+Title: 83
+Difficulty: 3,5
+Serial number: PgaO_083
+Date: December 2012
+
+   ######
+   # @  #
+ ###.#*$##
+ # .  .  #
+ #$#$ *$ #
+ # .  . ##
+##$*$#* #
+#. .... #
+# $$ $$ #
+##    ###
+ ######
+Title: 84
+Difficulty: 4
+Serial number: PgaO_084
+Date: December 2012
+
+#############
+#   .   .   #
+# # $ * $ # #
+#  *$*.*$* .#
+#.. # . # . #
+##$##$#$##$##
+#   $ . @   #
+#   #####   #
+#####   #####
+Title: 85
+Difficulty: 4,5
+Serial number: PgaO_085
+Date: December 2012
+
+             #####
+##############   #
+#       @        #
+# #.#.#.#.#.#.# ##
+# # # # $ # # # #
+# # # $ # $ # # #
+#.# $ # # # $ #.#
+# $ # # # # # $ #
+# #.#.#.#.#.#.# #
+# $ $ $ $ $ $ $ #
+##  #  #  #  ####
+ #############
+Title: 86
+Difficulty: 5
+Serial number: PgaO_086
+Date: December 2012
+
+    ####
+  ### @###
+ ##      ##
+##  ****  ##
+#  **  **  #
+# **    ** #
+# $ #  # $ #
+# . #### . #
+#####  #####
+Title: 87
+Difficulty: 5,5
+Serial number: PgaO_087
+Date: December 2012
+
+   #######
+ ###  #  ###
+##  $ #.$. ##
+# $# .$  #$ #
+#  .$ . $.  #
+### .###. ###
+#  .$ + $.  #
+# $#  $. #$ #
+## .$.# $  ##
+ ###  #  ###
+   #######
+Title: 88
+Difficulty: 6
+Serial number: PgaO_088
+Date: December 2012
+
+        ####
+   ######  #
+   #    #  #
+####$## #$ #
+#     $   ##
+# $##...#$ #
+#  # ...#  #
+# $#$*.*#  #
+## .....$ ##
+# $## ###$ #
+#     $@$  #
+#  ######  #
+####    ####
+Title: 89
+Difficulty: 6,5
+Serial number: PgaO_089
+Date: December 2012
+
+         ####
+  ########  ##
+  #       *  ##
+  #  # ### *  ##
+  ## # # ## *  ####
+ ### # #  ## * #  #
+##   # ######     #
+#  * #  ##   #### #
+# * ###$.  #      #
+## #### # ####### ##
+#       .$### ## * #
+# @ #####   ### *  #
+## ######## ## *  ##
+ #     ## # # *  ##
+ #  # * ### #   ##
+ ####  * ## # ###
+    ##  * # #  #
+     ##  *     #
+      ##  ######
+       ####
+Title: 90
+Difficulty: 5
+Serial number: PgaO_090
+Date: December 2012
+
+########    ####
+#   #. ######  #
+# $   $      $ #
+## ## *######  #
+ # #  . @   # ##
+ # # #.$### $  #
+ # # #  # ..*. #
+ # # #### $ # ##
+## # $ #### # #
+# .*.. #  # # #
+#  $ ###$.# # #
+## #     .  # #
+#  ######*$## ##
+# $      .   $ #
+#  ######  #   #
+####    ########
+Title: 91
+Difficulty: 7
+Serial number: PgaO_091
+Date: December 2012
+
+#####   ####
+#   #####  # ####
+#     $   $###  #
+## ######       #
+##$######$####  #
+#  # . #   $ #$##
+#  $   #   # # #
+#  ## #####  # #
+##### ####. #  #
+    # #  #.#  ##
+    # $  ..#  #
+  ### #.*....##
+  # $$##..#   #
+  #@$   .# $# #
+  ##$$$# #    #
+   #   . .    #
+   ############
+Title: 92
+Difficulty: 7
+Serial number: PgaO_092
+Date: December 2012
+
+#####     #####
+#   ##   ##   #
+# $. ## ## .$ #
+## $. ### .$ ##
+ ## $. @ .$ ##
+  ## $. .$ ##
+   ##$.#.$##
+  ## $.#.$ ##
+ ## $. # .$ ##
+## $. ### .$ ##
+# $. ## ## .$ ##
+#   ##   ##    #
+#####     ######
+Title: 93
+Difficulty: 3
+Serial number: PgaO_093
+Date: December 2012
+
+    #####
+    #   #
+    # # #
+    # . #
+    #$.$#
+   ## . ##
+   #  .  #
+   #$#*#$#
+  ## * * ##
+  # . @ . #
+###$#.*.#$###
+# $ . $ . $ #
+# #.$$$$$.# #
+# .   #   . #
+#############
+Title: 94
+Difficulty: 5
+Serial number: PgaO_094
+Date: December 2012
+
+     ####
+     #  #
+    ##$.###
+    # $   #
+  ###.# # ###
+  #   **  . ###
+### #    *#$$ #
+# .  **#**  . #
+# $$#* @  # ###
+### .  **   #
+  ### # #.###
+    #   $ #
+    ###.$##
+      #  #
+      ####
+Title: 95
+Difficulty: 7,5
+Serial number: PgaO_095
+Date: December 2012
+
+              #####
+           ####   #
+     #######@$    #
+     #    ##$### #####
+ ##### ##....# $ $   #
+ #   $ $ #*....# #   #
+ #   # #   ..### #####
+ #####$###$.*  # #   #
+####   #  .. # $ $   #
+#  # # $ #*#  ## #####
+# .  # ###.##  $ $   #
+# $##      ##### #   #
+#  ##   ##   $    ####
+# *  ####  ####   #
+#  #      ##  #####
+###########
+Title: 96
+Difficulty: 8,5
+Serial number: PgaO_096
+Date: December 2012
+
+  #### #######
+  #  # #  #  #
+###$ ###  *  ###
+#  . $ .$ # .$ #
+#   .# . ##.   #
+##*####$####$###
+#   ##    #  #
+#  $ # @# $..###
+###..$ #  # $  #
+  #  #    ##   #
+###$####$####*##
+#   .#  . #.   #
+# $. # $. $ .  #
+###  *  ### $###
+  #  #  # #  #
+  ####### ####
+Title: 97
+Difficulty: 6
+Serial number: PgaO_097
+Date: December 2012
+
+          ####
+    #######  ##
+    #      *  ##
+    #  ## # *  ##
+   ### ## ## *  ####
+  ##  $ #  ## * #  #
+ ##  *  ## ### $   #
+##  * ###  # #  ## #
+#  * ## # ######## #
+# * ##  #. .  #    #
+## ###### @ #   ## ##
+#        . .##### * #
+#  ######## # ## *  #
+## ##  # #  ### *  ##
+ #   $ ### ##  *  ##
+ #  # * ##  # $  ##
+ ####  * ## ## ###
+    ##  * # ##  #
+     ##  *      #
+      ##  #######
+       ####
+Title: 98
+Difficulty: 8
+Serial number: PgaO_098
+Date: December 2012
+
+   #####
+   #   ####
+   # $    #
+   ##*###.#####
+ ###      ##  #
+ # . ***** *$ #
+## # *   * #  #
+#  # * @ * # ##
+# $* ***** . #
+#  #       ###
+#### .###$ #
+   ##     ##
+    #######
+Title: 99
+Difficulty: 5
+Serial number: PgaO_099
+Date: December 2012
+
+    #########
+   ##       ##
+   #  #####  #
+ ### ## . ## ###
+##    # *  #   ##
+#  ##$ $$$ $ #  #
+# ##  *...* ### #
+# #  $.###.$  # #
+# #.*$.# #.$*.# #
+# #  $.###.$  # #
+# ### *...*  ## #
+#  # $ $$$@$##  #
+##   #  * #    ##
+ ### ## . # ####
+   #  ##### #
+   ##       #
+    #########
+Title: 100
+Difficulty: 6
+Serial number: PgaO_100
+Date: December 2012
+
+####
+#  ########
+# $   $@$ #
+#  ## ##  #
+## # . #  #
+ # .$*.#.###
+ # # *. *  #
+ # # . #.# #
+## ## ##   #
+# $ $   $ ##
+#    ##  ##
+##########
+Title: 101
+Author: Martin P Holland + Přemysl Zíka
+Difficulty: 5
+Comment: Holland-Twisty n°3 + 2 boxes & targets modification
+Serial number: PgaO_101
+Date: December 2012
+
+       #####
+########   #
+#     #.   #
+# # # $ # ##
+#   ###.# ##
+##$ $ ..#  #
+ #  #*.*.  #
+ #$ # #*#  #
+ #  #@.. # #
+ # $#### $ #
+ #    $  $##
+ #  ####  #
+ ####  ####
+Title: 102
+Author: Twinsen + Přemysl Zíka
+Difficulty: 7,5
+Comment: Twinsen-Citadel n°4 + 3 boxes & bigger adjustments
+Serial number: PgaO_102
+Date: December 2012
+
+   #########
+####   #   ##
+# #  # #$#  #
+#    $$     ###
+# # ##  ##  $@#
+# $ ######  $$#
+# $ ######### #
+# #$#  ...# # #
+#   # $...# # #
+# # . $#..### ##
+####   #.###   #
+   #####.###$  #
+       #.     ##
+       #  #####
+       ####
+Title: 103
+Author: Adam George + Přemysl Zíka
+Difficulty: 4
+Comment: Garcia-TheBestForYou n°98 + 4 boxes & slight changes
+Serial number: PgaO_103
+Date: December 2012
+
+ ########
+##...   #
+#...    #####
+#.. ###   $ #
+#...   $ #  #
+###. #####$ #
+  ##### @#  #
+   #  $ $#$ #
+   # #$ $   #
+   #   ##   #
+   ###   ####
+   # $ $  #
+   # $  $ #
+   #      #
+   ########
+Title: 104
+Author: Scott Lindhurst's MacSokoban + Přemysl Zíka
+Difficulty: 5
+Comment: Wheeler-SokobanJunior2 n°45 + 1 box & slight targets modification &
+Serial number: PgaO_104
+Date: December 2012
+
+          ####
+###########  #
+#  ..........#
+# #.#######  #
+# #.$ $  ## ##
+# #*.$@$ ## #
+#   $ $$$ # #
+### $$$   # #
+  #  $  ###$#
+  ##        #
+   #######  #
+         #  #
+         ####
+Title: 105
+Author: Kevin B. Reilly + Přemysl Zíka
+Difficulty: 3,5
+Comment: Reilly n°16 with targets modification
+Serial number: PgaO_105
+Date: December 2012
+
+    #####
+ ####   ## #####
+ #  $    ###   #
+ # $@$ $    $  #
+ # #$######## ##
+ # #   $ #.    #
+ # # $ $ # #   #
+## #  $# # #####
+#  ##  $ #    .#
+#    $ # ##    #
+##### ## ##....#
+   # $    $....#
+   #      #....#
+   #############
+Title: 106
+Author: Joseph L Traub + Přemysl Zíka
+Difficulty: 6
+Comment: Traub-Extra n°87 + 2 boxes & targets modification & slight changes
+Serial number: PgaO_106
+Date: December 2012
+
+ #########################
+ #  #  #  #  #  #  #  #  #
+ # $#$ # $#$ # $#$ # $#$ #
+ #  #  #  #  #  #  #  #  #
+ ## # ### # ### # ### # ##
+ #  #  #  #  #  #  #  #  #
+ #  *  #  *  #  *  #  *  #
+## ### # ### # ### # ### ##
+#   #  #  #  #  #  #  #   #
+# $ #  *  #  *  #  *  # $ #
+##  # ### # ### # ### #  ##
+ #. .  .  . .@. .  .  . .#
+ #########################
+Title: 107
+Author: David W. Skinner + Přemysl Zíka
+Difficulty: 4
+Comment: Skinner-Sasquatch1 n°49 + 9 boxes
+Serial number: PgaO_107
+Date: December 2012
+
+    ###########
+ ####         ####
+ #    # $## #    #
+ # ##$#$ .$ #$## #
+## #    #.$$   # ##
+#  $$## #.#.##$ $ #
+# #......*..... # #
+# #  ##$#.#+##*## #
+# ##$   #.#$ $ #  #
+#    #  $.   #   ##
+#### ##$##$$## ###
+   #           #
+   #############
+Title: 108
+Author: Thinking Rabbit + Přemysl Zíka
+Difficulty: 7
+Comment: TRabbit-Perfect n°103 + 4 boxes & slight changes
+Serial number: PgaO_108
+Date: December 2012
+
+####
+#  ###
+#  $ #######
+#  # * * * #
+## #  * *  ####
+ # # * * *    #
+ # #  *.*  #  #
+ # # * * * # ##
+ # #  *.*  # #
+ # # * * * # #
+ # #  * *  # #
+ # # * . * # ##
+## #########  #
+# $         $ #
+#   ########@ #
+#####      ####
+Title: 109
+Author: Thinking Rabbit + Přemysl Zíka
+Difficulty: 7
+Comment: TRabbit-Perfect n°250 + 2 boxes & slight changes
+Serial number: PgaO_109
+Date: December 2012
+
+     #######
+     #  @  #
+###### ### ######
+#   #   *   #   #
+#   $   #   $   #
+##$###*###*###$##
+#   *   #   *   #
+#   #   *   #   #
+##$###*###*###$##
+#  .#   $   #.  #
+#   *...#...*   #
+######$###$######
+#   *...#...*   #
+#  .#   $   #.  #
+##$###*###*###$##
+#   #   *   #   #
+#   *   #   *   #
+##$###*###*###$##
+#   $   #   $   #
+#   #   *   #   #
+###### ### ######
+     #     #
+     #######
+Title: 110
+Author: David W. Skinner + Přemysl Zíka
+Difficulty: 9
+Comment: Skinner-Sasquatch2 n°44 + 4 targets moved, double-mirror (duplex), 2 boxes added
+Serial number: PgaO_110
+Date: December 2012
+
+ ####    ########  ####
+ #  ######   #  ####  ####
+ #$...   *..$# * *  $ *  #
+ #   *$#$$.$ # * * # . .$#
+##$$*  #  . $# *.$ #$.$. #
+#  .  $#$$.$ # * * # ...$##
+# $.*. # ...$@ * * #$.$.$ #
+#   ######   #     #  #   #
+#####    ##################
+Title: 111
+Difficulty: 4
+Serial number: PgaO_111
+Date: December 2012
