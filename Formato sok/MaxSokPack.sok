@@ -1,0 +1,1018 @@
+Collection: MaxSok
+Author: Various authors - compiled by qqwref & zach
+Website: https://sokoban-max-moves.herokuapp.com/
+A gauntlet of 88 small sokoban levels to break your arrow keys
+
+3 Spaces, 1 Box
+#####
+#@$.#
+#####
+
+Title: 3 Spaces, 1 Box
+Author: Erich Friedman
+
+4 Spaces, 1 Box
+######
+#@ $.#
+######
+
+Title: 4 Spaces, 1 Box
+Author: Erich Friedman
+
+5 Spaces, 1 Box
+#######
+#@  $.#
+#######
+
+Title: 5 Spaces, 1 Box
+Author: Erich Friedman
+
+6 Spaces, 1 Box
+#####
+#   #
+#+$ #
+#####
+
+Title: 6 Spaces, 1 Box
+Author: Erich Friedman
+
+7 Spaces, 1 Box
+#####
+#   #
+# $ #
+#+###
+###  
+
+Title: 7 Spaces, 1 Box
+Author: Erich Friedman
+
+8 Spaces, 1 Box
+#####
+#   #
+# $ #
+# ###
+#+#  
+###  
+
+Title: 8 Spaces, 1 Box
+Author: Brendan Owen
+
+9 Spaces, 1 Box
+##### 
+#   # 
+# #$##
+#   +#
+######
+
+Title: 9 Spaces, 1 Box
+Author: Brendan Owen
+
+10 Spaces, 1 Box
+####  
+#@ ###
+#  $ #
+#   .#
+######
+
+Title: 10 Spaces, 1 Box
+Author: Brendan Owen
+
+11 Spaces, 1 Box
+####  
+#@ ###
+#  $ #
+#    #
+####.#
+   ###
+
+Title: 11 Spaces, 1 Box
+Author: Brendan Owen
+
+12 Spaces, 1 Box
+#####  
+#@  ###
+# # $ #
+#    .#
+#######
+
+Title: 12 Spaces, 1 Box
+Author: Brendan Owen
+
+13 Spaces, 1 Box
+#####  
+#@  ###
+# # $ #
+#     #
+#####.#
+    ###
+
+Title: 13 Spaces, 1 Box
+Author: Brendan Owen
+
+14 Spaces, 1 Box
+  ####
+### @#
+# $  #
+# #  #
+#    #
+#.####
+###   
+
+Title: 14 Spaces, 1 Box
+Author: qqwref + zach via cpu
+
+15 Spaces, 1 Box
+ ######
+ #    #
+##$## #
+#     #
+#@  #.#
+#######
+
+Title: 15 Spaces, 1 Box
+Author: qqwref + zach via cpu
+
+16 Spaces, 1 Box
+###### 
+#.   # 
+## #$##
+ #    #
+ # ## #
+ #   @#
+ ######
+
+Title: 16 Spaces, 1 Box
+Author: qqwref + zach via cpu
+
+17 Spaces, 1 Box
+######  
+#.   #  
+## #$## 
+ #    # 
+ # ## ##
+ #    @#
+ #######
+
+Title: 17 Spaces, 1 Box
+Author: qqwref + zach via cpu
+
+18 Spaces, 1 Box
+###### 
+#.   # 
+## #$# 
+ # # ##
+ #    #
+ # ## #
+ #   @#
+ ######
+
+Title: 18 Spaces, 1 Box
+Author: qqwref + zach via cpu
+
+19 Spaces, 1 Box
+ #######
+ #    @#
+ # ### #
+ #     #
+## ##$##
+#.    # 
+####### 
+
+Title: 19 Spaces, 1 Box
+Author: qqwref + zach via cpu
+
+20 Spaces, 1 Box
+    ####
+#####  #
+#      #
+# # #  #
+# $ # ##
+###   +#
+  ######
+
+Title: 20 Spaces, 1 Box
+Author: qqwref + zach via cpu
+
+21 Spaces, 1 Box
+    #### 
+#####  # 
+#      # 
+# # #  # 
+# $ # ###
+###    +#
+  #######
+
+Title: 21 Spaces, 1 Box
+Author: qqwref + zach via cpu
+
+22 Spaces, 1 Box
+    ####
+#####  #
+#      #
+# # #  #
+# $ # ##
+### # ##
+  #   +#
+  ######
+
+Title: 22 Spaces, 1 Box
+Author: qqwref + zach via cpu
+
+23 Spaces, 1 Box
+    ####
+#####  #
+#      #
+# # #  #
+# # # ##
+# $ # ##
+###   +#
+  ######
+
+Title: 23 Spaces, 1 Box
+Author: qqwref + zach via cpu
+
+24 Spaces, 1 Box
+    ####
+#####  #
+#      #
+# # #  #
+# $ # ##
+### # # 
+  # # ##
+  #   +#
+  ######
+
+Title: 24 Spaces, 1 Box
+Author: qqwref + zach via cpu
+
+5 Spaces, 2 Boxes
+#######
+#.$@$.#
+#######
+
+Title: 5 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+6 Spaces, 2 Boxes
+########
+#.$@ $.#
+########
+
+Title: 6 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+7 Spaces, 2 Boxes
+#### 
+# @# 
+# $##
+# *.#
+#####
+
+Title: 7 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+8 Spaces, 2 Boxes
+####  
+# @#  
+# $###
+# $..#
+######
+
+Title: 8 Spaces, 2 Boxes
+Author: Erich Friedman
+
+9 Spaces, 2 Boxes
+####   
+# @#   
+# $####
+# $ ..#
+#######
+
+Title: 9 Spaces, 2 Boxes
+Author: Erich Friedman
+
+10 Spaces, 2 Boxes
+#####  
+#  @#  
+# #$###
+#  $..#
+#######
+
+Title: 10 Spaces, 2 Boxes
+Author: Erich Friedman
+
+11 Spaces, 2 Boxes
+###  
+#+###
+# $ #
+#   #
+##$ #
+ # .#
+ ####
+
+Title: 11 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+12 Spaces, 2 Boxes
+####   
+# @####
+# $ $ #
+#   ..#
+#######
+
+Title: 12 Spaces, 2 Boxes
+Author: Erich Friedman
+
+13 Spaces, 2 Boxes
+####   
+# @####
+# $ $ #
+#    .#
+#####.#
+    ###
+
+Title: 13 Spaces, 2 Boxes
+Author: Erich Friedman
+
+14 Spaces, 2 Boxes
+  #####
+### ..#
+#@$$ ##
+# #  # 
+#    # 
+###### 
+
+Title: 14 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+15 Spaces, 2 Boxes
+  #####
+  #  .#
+###@# #
+#  $  #
+#  $ .#
+#######
+
+Title: 15 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+16 Spaces, 2 Boxes
+  ######
+  #   .#
+###@# ##
+#  $  # 
+#  $ .# 
+####### 
+
+Title: 16 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+17 Spaces, 2 Boxes
+   ####
+####  #
+#.   .#
+# ##  #
+# @$ $#
+####  #
+   ####
+
+Title: 17 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+18 Spaces, 2 Boxes
+  #### 
+###  # 
+#@$ $##
+# #   #
+# # # #
+#   ..#
+#######
+
+Title: 18 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+19 Spaces, 2 Boxes
+   #####
+####   #
+#.  .  #
+# # # ##
+#@$ #$# 
+###   # 
+  ##### 
+
+Title: 19 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+20 Spaces, 2 Boxes
+   ######
+####   @#
+#.  .  ##
+# # # ## 
+# $ #$#  
+###   #  
+  #####  
+
+Title: 20 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+21 Spaces, 2 Boxes
+    ####
+  ###  #
+###    #
+#@$$#. #
+#     ##
+### # # 
+  #  .# 
+  ##### 
+
+Title: 21 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+22 Spaces, 2 Boxes
+   #####
+####   #
+#.  .  #
+# # # ##
+# # # # 
+#@$ #$# 
+###   # 
+  ##### 
+
+Title: 22 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+23 Spaces, 2 Boxes
+    ####
+  ###  #
+###    #
+# $$#. #
+#     ##
+### # # 
+  # # # 
+  #@ .# 
+  ##### 
+
+Title: 23 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+24 Spaces, 2 Boxes
+   #####
+####   #
+#.  .  #
+# # # ##
+# # # # 
+# $ #@# 
+### #$# 
+  #   # 
+  ##### 
+
+Title: 24 Spaces, 2 Boxes
+Author: qqwref + zach via cpu
+
+25 Spaces, 2 Boxes
+######  
+#    ###
+# ##$$@#
+# #  # #
+#    # #
+#.#    #
+#.  ####
+#####   
+
+Title: 25 Spaces, 2 Boxes
+Author: Hiroshi Yamamoto + zach
+
+7 Spaces, 3 Boxes
+  ###  
+  #.#  
+###$###
+#.$@$.#
+#######
+
+Title: 7 Spaces, 3 Boxes
+Author: qqwref + zach via cpu
+
+10 Spaces, 3 Boxes
+#####
+#   #
+#.$ #
+#@$*#
+###.#
+  ###
+
+Title: 10 Spaces, 3 Boxes
+Author: qqwref + zach via cpu
+
+11 Spaces, 3 Boxes
+#####  
+#  @#  
+# $$###
+# .$..#
+#######
+
+Title: 11 Spaces, 3 Boxes
+Author: Erich Friedman
+
+12 Spaces, 3 Boxes
+  ######
+  #   .#
+###$ $@#
+#..$ ###
+######  
+
+Title: 12 Spaces, 3 Boxes
+Author: qqwref + zach via cpu
+
+13 Spaces, 3 Boxes
+  ######
+  #@   #
+###$#$ #
+#..  $.#
+########
+
+Title: 13 Spaces, 3 Boxes
+Author: qqwref + zach via cpu
+
+14 Spaces, 3 Boxes
+ ####  
+ #@.#  
+##$ #  
+#   #  
+# #$###
+#   *.#
+#######
+
+Title: 14 Spaces, 3 Boxes
+Author: qqwref + zach via cpu
+
+15 Spaces, 3 Boxes
+    #####
+#####  .#
+#@ $ $$##
+#  ..  # 
+######## 
+
+Title: 15 Spaces, 3 Boxes
+Author: qqwref + zach via cpu
+
+16 Spaces, 3 Boxes
+#######
+####  #
+##@$$ #
+# ..$ #
+#  .  #
+#######
+
+Title: 16 Spaces, 3 Boxes
+Author: multiple authors
+
+17 Spaces, 3 Boxes
+  ####  
+  # .###
+###@$. #
+# $$   #
+#   . ##
+####### 
+
+Title: 17 Spaces, 3 Boxes
+Author: qqwref + zach via cpu
+
+18 Spaces, 3 Boxes
+  ##### 
+###   # 
+#   #@##
+# .*$$ #
+##  .  #
+ #######
+
+Title: 18 Spaces, 3 Boxes
+Author: qqwref + zach via cpu
+
+19 Spaces, 3 Boxes
+    #### 
+  ###  # 
+### *$ ##
+#@$ #   #
+#  . .  #
+#########
+
+Title: 19 Spaces, 3 Boxes
+Author: qqwref + zach via cpu
+
+20 Spaces, 3 Boxes
+  ####  
+  #  ###
+###$ $ #
+#@ $.# #
+#  . . #
+###   ##
+  ##### 
+
+Title: 20 Spaces, 3 Boxes
+Author: qqwref + zach via cpu
+
+21 Spaces, 3 Boxes
+  ##### 
+###   # 
+# $$# ##
+# . .  #
+# ## $ #
+#+   ###
+######  
+
+Title: 21 Spaces, 3 Boxes
+Author: qqwref + zach via cpu
+
+696
+ #####  
+ #   ###
+##$.  .#
+#@$ ## #
+# #. $ #
+#    ###
+###  #  
+  ####  
+
+Title: 696
+Author: Dries de Clercq + qqwref via cpu
+
+13 Spaces, 4 Boxes
+ ######
+ #@ . #
+##$$$ #
+#.. * #
+#######
+
+Title: 13 Spaces, 4 Boxes
+Author: qqwref + zach via cpu
+
+14 Spaces, 4 Boxes
+    ###
+ ####.#
+ #@   #
+##$$$.#
+#.. $ #
+#######
+
+Title: 14 Spaces, 4 Boxes
+Author: qqwref + zach via cpu
+
+15 Spaces, 4 Boxes
+    #####
+  ###@  #
+### $$$ #
+#.... $ #
+#########
+
+Title: 15 Spaces, 4 Boxes
+Author: qqwref + zach via cpu
+
+16 Spaces, 4 Boxes
+######
+#   @#
+#. *$#
+# $  #
+# .$.#
+######
+
+Title: 16 Spaces, 4 Boxes
+Author: qqwref via cpu
+
+17 Spaces, 4 Boxes
+   ####
+ ###@ #
+## $$ #
+# ..$ #
+# $.  #
+###.###
+  ###  
+
+Title: 17 Spaces, 4 Boxes
+Author: qqwref + zach via cpu
+
+18 Spaces, 4 Boxes
+    ####
+  ###  #
+###  $ #
+# $..$ #
+#.  *@ #
+########
+
+Title: 18 Spaces, 4 Boxes
+Author: qqwref + zach via cpu
+
+19 Spaces, 4 Boxes
+   ####
+ ###@ #
+## $$ #
+#     #
+# *#$.#
+#..  ##
+###### 
+
+Title: 19 Spaces, 4 Boxes
+Author: qqwref + zach via cpu
+
+20 Spaces, 4 Boxes
+  #####
+ ##.  #
+## $# #
+#.    #
+# $$#.#
+#  +$ #
+#######
+
+Title: 20 Spaces, 4 Boxes
+Author: qqwref + zach via cpu
+
+21 Spaces, 4 Boxes
+    ####
+##### .#
+#  $ $ #
+#  .$..#
+## #$  #
+ #  @###
+ #####  
+
+Title: 21 Spaces, 4 Boxes
+Author: qqwref + zach via cpu
+
+22 Spaces, 4 Boxes
+#########
+# .     #
+#. .#$$ #
+##$$   ##
+ #.@#  # 
+ ####### 
+
+Title: 22 Spaces, 4 Boxes
+Author: qqwref + zach via cpu
+
+696
+ ####  
+ # @#  
+##  ###
+# .$  #
+#. .# #
+# $$# #
+## .$ #
+ #  ###
+ ####  
+
+Title: 696
+Author: Dries de Clercq + qqwref via cpu
+
+Mulholland 2, Level 56
+####### 
+#.#   # 
+# $ # ##
+# *$.$@#
+#  #   #
+## # ###
+ #.  #  
+ #####  
+
+Title: Mulholland 2, Level 56
+Author: Shaggath + zach via cpu
+
+26 Spaces, 4 Boxes
+#####   
+#.  ### 
+# #@$ # 
+#. $  ##
+# # $$ #
+#  # # #
+##   ..#
+ #######
+
+Title: 26 Spaces, 4 Boxes
+Author: Zach + Jordi Domenech
+
+15 Spaces, 5 Boxes
+    ###
+    #.#
+ ####*#
+ #@   #
+##$$$.#
+#.. $ #
+#######
+
+Title: 15 Spaces, 5 Boxes
+Author: qqwref + zach via cpu
+
+16 Spaces, 5 Boxes
+    ###
+#####.#
+#.  $.#
+# $ *$#
+#@*   #
+#######
+
+Title: 16 Spaces, 5 Boxes
+Author: qqwref + zach via cpu
+
+17 Spaces, 5 Boxes
+ ######
+ # +$.#
+ #$$  #
+##. *$#
+#.    #
+#######
+
+Title: 17 Spaces, 5 Boxes
+Author: qqwref + zach via cpu
+
+18 Spaces, 5 Boxes
+  ######
+  #    #
+  # $$@#
+  #*.$##
+### . # 
+#..$ ## 
+######  
+
+Title: 18 Spaces, 5 Boxes
+Author: qqwref + zach via cpu
+
+19 Spaces, 5 Boxes
+    ####
+  ###  #
+  # $ .#
+  #@$  #
+###$#$.#
+#.. .$ #
+########
+
+Title: 19 Spaces, 5 Boxes
+Author: qqwref + zach via cpu
+
+20 Spaces, 5 Boxes
+  #### 
+### .##
+# $@$ #
+#  *  #
+#.$*  #
+## . ##
+ ##### 
+
+Title: 20 Spaces, 5 Boxes
+Author: qqwref + zach via cpu
+
+Pufiban #170
+####### 
+# .   # 
+#.$$$$##
+# .# *@#
+#.     #
+########
+
+Title: Pufiban #170
+Author: Jordi Doménech
+
+696
+#####  
+#   #  
+#   ###
+#$* $ #
+# . . #
+#. $*##
+### @##
+  #####
+
+Title: 696
+Author: Dries de Clercq + qqwref via cpu
+
+696
+ ######
+##  $.#
+#   $ #
+# .#$+#
+#.   ##
+# $.$# 
+###  # 
+  #### 
+
+Title: 696
+Author: Dries de Clercq + qqwref via cpu
+
+696
+ ####  
+ # .#  
+## $###
+# .   #
+#  $#.#
+# . $ #
+## $* #
+ # @###
+ ####  
+
+Title: 696
+Author: Dries de Clercq + qqwref via cpu
+
+Cosmos 25-353
+  #####  
+  #  @###
+### .$ .#
+# $.. # #
+#  $* $ #
+###  ####
+  #  #   
+  ####   
+
+Title: Cosmos 25-353
+Author: kjs722
+
+28 Spaces, 5 Boxes
+ #####   
+##   #   
+#. * ####
+# #$    #
+# ..#$ .#
+## $ $ ##
+ # @#  # 
+ ####### 
+
+Title: 28 Spaces, 5 Boxes
+Author:  Wes Sampson + Zach
+
+30 Spaces, 5 Boxes
+ #####    
+##   #    
+#. * #####
+# #$     #
+# ..##$ .#
+## $  $ ##
+ # @##  # 
+ ######## 
+
+Title: 30 Spaces, 5 Boxes
+Author: Wes Sampson
+
+24 Spaces, 6 Boxes
+ ####   
+##  ####
+#  * $ #
+#  . $.#
+# .$*  #
+###@ * #
+  ######
+
+Title: 24 Spaces, 6 Boxes
+Author: qqwref via cpu
+
+24 Spaces, 7 Boxes
+########
+# .$ . #
+# * .$ #
+#  *$ *#
+#  +$  #
+########
+
+Title: 24 Spaces, 7 Boxes
+Author: qqwref via cpu
+
+30 Spaces, 7 Boxes
+ ####    
+ # @###  
+##.$$ #  
+#  .. #  
+#  $.$###
+### *.  #
+  # *$  #
+  ##  ###
+   #  #  
+   ####  
+
+Title: 30 Spaces, 7 Boxes
+Author: Lezhankin Petr
+
+26 Spaces, 8 Boxes
+ ######
+ # *  #
+ #   .#
+## $.$#
+# .*$ #
+#$$$..#
+#+   ##
+###### 
+
+Title: 26 Spaces, 8 Boxes
+Author: Wes Sampson
+
+31 Spaces, 8 Boxes
+ ##### 
+ # . # 
+ # .$# 
+ # * # 
+ # .$# 
+## * # 
+#  .$##
+#.$.$@#
+#   $ #
+###  ##
+  #### 
+
+Title: 31 Spaces, 8 Boxes
+Author: Multiple Authors + CPU
+
+
